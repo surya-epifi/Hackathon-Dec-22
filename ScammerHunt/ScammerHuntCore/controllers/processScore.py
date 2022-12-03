@@ -8,7 +8,7 @@ SCOREWEIGHTAGEFORUSERSTAGGED = 3
 SCOREWEIGHTAGEFORREPEATEDTWEETIDS = 1
 SCOREWEIGHTAGEFOROTHER = 1
 
-def get_score(mentioned_users, keywords, tweet_ids, retweets_count, like_count):
+def get_score(mentioned_users, keywords, tweet_ids, reply_count, retweets_count, like_count):
     score = 0
 
     if len(keywords) > 0:

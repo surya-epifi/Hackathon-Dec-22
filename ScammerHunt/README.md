@@ -11,14 +11,17 @@ brew install pyenv
 pyenv install 3.9.0
 
 ## SNScrape
-pip3 install git+https://github.com/JustAnotherArchivist/snscrape.git
+pip3.9 install git+https://github.com/JustAnotherArchivist/snscrape.git
 
 ## uninstall all modules
-pip3 freeze | xargs pip uninstall -y
+pip3.9 freeze | xargs pip uninstall -y
 
 
 ## Django
-python3 -m pip install django
+python3.9 -m pip install django
 
 ## Runserver
-python3 manage.py runserver 0.0.0.0:2200
+python3.9 manage.py runserver 0.0.0.0:2200
+
+## Run 
+python3.9 manage.py shell < start.py
