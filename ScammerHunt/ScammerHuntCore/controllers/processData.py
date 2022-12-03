@@ -1,7 +1,7 @@
 
 from ScammerHuntCore.models import *
 from ScammerHuntCore.controllers.processScore import get_score
-from util.utilities import get_sentiment_score
+from ScammerHuntCore.util.utilities import get_sentiment_score
 
 def contains_keyword(content):
     for keyword in Keywords.objects.all():
