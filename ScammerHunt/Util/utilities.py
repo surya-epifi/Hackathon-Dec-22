@@ -5,6 +5,8 @@ def get_phone_number(text):
     numbers = re.findall(r'(?:\+\s*\d{2}[\s-]*)?(?:\d[-\s]*){10}', text)
     for number in numbers:
         number = ''.join(number.split())
+        number = number.replace('\r\n', ' $ ')
+        number = number.replace('-', '')
         result.append(number[-10:])
     return result
 
