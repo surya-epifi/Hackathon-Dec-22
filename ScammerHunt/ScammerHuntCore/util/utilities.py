@@ -28,6 +28,8 @@ def imageToText(url):
 
     img = Image.open(io.BytesIO(r.content))
     # # print( type(img) ) # <class 'PIL.JpegImagePlugin.JpegImageFile'>
+    print("------")
+    print(requests.__file__)
     text = pytesseract.image_to_string(img)
     #
     return text
