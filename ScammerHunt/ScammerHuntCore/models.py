@@ -20,7 +20,7 @@ class Scammer(models.Model):
     email = models.CharField(max_length=300, default='')
 
 class Keywords(models.Model):
-    word = models.CharField(max_length=300, default='')
+    name = models.CharField(max_length=300, default='')
 
 class PriorityUser(models.Model):
     user_name = models.CharField(max_length=300, default='')
