@@ -13,7 +13,8 @@ class PriorityUser(models.Model):
 # Mainly tweets
 class ScrapeData(models.Model):
     text_data = models.TextField()
-    score = models.IntegerField(default=0) #
+    score = models.IntegerField(default=0)
+    sentiment_score = models.IntegerField(default=0)
     scammer = models.ManyToManyField("Scammer")
     reference_link = models.TextField(default='', primary_key=True, unique=True)
     reply_count = models.IntegerField(default=0)

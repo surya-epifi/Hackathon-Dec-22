@@ -29,3 +29,8 @@ python3.9 manage.py shell < start.py
 
 ## other modules
 brew install tesseract
+
+
+## Sentiment analysis
+pip install -U textblob
+python -m textblob.download_corpora
