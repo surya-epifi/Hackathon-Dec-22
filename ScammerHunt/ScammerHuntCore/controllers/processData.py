@@ -11,7 +11,6 @@ def contains_keyword(content):
     return False
 
 def record_data(phone_number, mentioned_users_in_tweet, reference_link, content, reply_count=0, retweet_count=0, like_count=0):
-    breakpoint()
     # Create new data
     data, data_created = ScrapeData.objects.get_or_create(text_data=content, reference_link=reference_link, reply_count=reply_count, retweet_count=retweet_count, like_count=like_count, source="TWITTER")
 
@@ -29,7 +28,7 @@ def record_data(phone_number, mentioned_users_in_tweet, reference_link, content,
 
     # Tweet ids
     tweet_ids = []
-    tweets = ScrapeData.objects.filter(source__phone_number=phone_number)
+    tweets = ScrapeData.objects.filter(scammer__phone_number=phone_number)
     for tweet in tweets:
         if not data_created:
             tweet_ids.append(tweet.reference_link) 
