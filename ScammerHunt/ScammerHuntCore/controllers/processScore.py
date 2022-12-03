@@ -22,7 +22,7 @@ def get_score(mentioned_users, keywords, tweet_ids, reply_count, retweets_count,
     return score
 
 def getTweetIdScore(tweet_ids):
-    if tweet_ids > 0:
+    if len(tweet_ids) > 0:
         return SCOREWEIGHTAGEFORREPEATEDTWEETIDS
 
 def getOccuranceScoreFor(elementTypeArray, referenceArray, scoreWeightage):
@@ -36,7 +36,7 @@ def getOccuranceScoreFor(elementTypeArray, referenceArray, scoreWeightage):
     score = (commonKeywords/len(KEYWORDSTOCHECKFROM))*scoreWeightage
     return score
 
-score = get_score(mentioned_users=['@police'], keywords=['scam','fraud', 'money', 'bank','scam','fraud', 'money', 'bank'], tweet_ids=[], retweets_count=2, like_count=2)
+score = get_score(mentioned_users=['@police'], keywords=['scam','fraud', 'money', 'bank','scam','fraud', 'money', 'bank'], tweet_ids=[],reply_count=0, retweets_count=2, like_count=2)
 print(score)
 
 #python3 ScammerHunt/ScammerHuntCore/controllers/processScore.py
