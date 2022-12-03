@@ -1,6 +1,7 @@
 
 from ScammerHuntCore.models import *
 from ScammerHuntCore.controllers.processScore import get_score
+from util.utilities import get_sentiment_score
 
 def contains_keyword(content):
     for keyword in Keywords.objects.all():
@@ -13,6 +14,9 @@ def contains_keyword(content):
 def record_data(phone_number, mentioned_users_in_tweet, reference_link, content, reply_count=0, retweet_count=0, like_count=0):
     # Create new data
     data, data_created = ScrapeData.objects.get_or_create(text_data=content, reference_link=reference_link, reply_count=reply_count, retweet_count=retweet_count, like_count=like_count, source="TWITTER")
+    
+    # Sentiment
+    data.sentiment_score = get_sentiment_score(content)
 
     # Scammer
     scammer, scammer_created = Scammer.objects.get_or_create(phone_number=phone_number)
