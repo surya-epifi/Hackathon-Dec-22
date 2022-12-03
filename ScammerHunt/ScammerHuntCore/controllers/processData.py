@@ -1,4 +1,7 @@
 
+from ScammerHuntCore.models import *
+from controllers.processScore import get_score
+
 def record_data(phone_number, keywords, identifier, content):
     pass
 
