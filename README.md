@@ -22,3 +22,6 @@ python3 -m pip install django
 
 ## Runserver
 python3 manage.py runserver 0.0.0.0:2200
+
+## Run 
+python3 manage.py shell < start.py
