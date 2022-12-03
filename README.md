@@ -15,3 +15,10 @@ pip3 install git+https://github.com/JustAnotherArchivist/snscrape.git
 
 ## uninstall all modules
 pip3 freeze | xargs pip uninstall -y
+
+
+## Django
+python3 -m pip install django
+
+## Runserver
+python3 manage.py runserver 0.0.0.0:2200
