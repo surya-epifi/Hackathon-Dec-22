@@ -3,7 +3,7 @@ import io
 import requests
 import pytesseract
 from PIL import Image
-import csv
+
 from textblob import TextBlob
 
 def get_phone_number(text):
@@ -38,17 +38,6 @@ def imageToText(url):
 # testing
 # text = imageToText("https://pbs.twimg.com/media/FiZ8PQKVQAEOkaC?format=jpg&name=small")
 # print(text)
-
-def setup_CSV_file():
-    writer = None
-    with open('protagonist.csv', 'w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(["Phone number", "Number of complaints reported", "Reference url", "Score", "Average sentiment score"])
-    return writer
-
-def add_to_CSV(writer, phone_number, num_complaints_reported, reference_urls, score, avg_sentiment_score):
-    writer.writerow([1, phone_number, num_complaints_reported, reference_urls, score, avg_sentiment_score])
-
 
 def get_sentiment_score(content):
     blob = TextBlob(content)
