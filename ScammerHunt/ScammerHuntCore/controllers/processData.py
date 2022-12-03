@@ -2,8 +2,6 @@
 from ScammerHuntCore.models import *
 from controllers.processScore import get_score
 
-all_keywords = [ keyword.name for keyword in Keywords.objects.all()]
-
 def record_data(phone_number, mentioned_users_in_tweet, reference_link, content, reply_count=0, retweet_count=0, like_count=0):
     # Create new data
     data, data_created = ScrapeData.objects.get_or_create(text_data=content, reference_link=reference_link,reference_link= reference_link, reply_count=reply_count, retweet_count=retweet_count, like_count=like_count, source="TWITTER")
@@ -37,7 +35,8 @@ def record_data(phone_number, mentioned_users_in_tweet, reference_link, content,
             data.mentioned_users.add(user)
 
     # Scores
-    score = get_score(mentioned_users=mentioned_users, keywords=keyword_list, tweet_ids=tweet_ids, retweets_count=2, like_count=3)
+    score = get_score(mentioned_users=mentioned_users, keywords=keyword_list, tweet_ids=tweet_ids, reply_count=reply_count, retweets_count=retweet_count, like_count=like_count)
+    data.score = data.score if score < data.score else score
 
     # Save
     data.save()
