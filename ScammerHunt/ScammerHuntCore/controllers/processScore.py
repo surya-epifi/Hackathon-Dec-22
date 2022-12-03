@@ -16,7 +16,4 @@ def get_score(mentioned_users, keywords, tweet_ids, reply_count, retweets_count,
         score += 1
     return score
 
-score = get_score(mentioned_users=[], keywords=keywords, tweet_ids=[], retweets_count=2, like_count=3)
-print(score)
-
 #python3 ScammerHunt/ScammerHuntCore/controllers/processScore.py
