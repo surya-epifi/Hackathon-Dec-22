@@ -4,6 +4,7 @@ import requests
 import pytesseract
 from PIL import Image
 import csv
+from textblob import TextBlob
 
 def get_phone_number(text):
     result = []
@@ -28,9 +29,7 @@ def imageToText(url):
     r = requests.get(url, headers=headers)
 
     img = Image.open(io.BytesIO(r.content))
-    # # print( type(img) ) # <class 'PIL.JpegImagePlugin.JpegImageFile'>
-    print("------")
-    print(requests.__file__)
+
     text = pytesseract.image_to_string(img)
     #
     return text
@@ -52,4 +51,9 @@ def add_to_CSV(writer, phone_number, num_complaints_reported, reference_urls, sc
 
 
 def get_sentiment_score(content):
-    pass
+    blob = TextBlob(content)
+    total_sentiment_polarity = 0
+    for sentence in blob.sentences:
+        total_sentiment_polarity += sentence.sentiment.polarity
+    average_sentiment_polarity = total_sentiment_polarity / len(blob.sentences)
+    return average_sentiment_polarity
