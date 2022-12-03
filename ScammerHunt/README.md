@@ -25,3 +25,7 @@ python3.9 manage.py runserver 0.0.0.0:2200
 
 ## Run 
 python3.9 manage.py shell < start.py
+
+
+## other modules
+brew install tesseract
