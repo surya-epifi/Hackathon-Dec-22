@@ -1,6 +1,3 @@
-## TO start env
-source ScammerHuntEnv/bin/activate
-
 ## update requirement
 pip3 freeze > requirements.txt
 
