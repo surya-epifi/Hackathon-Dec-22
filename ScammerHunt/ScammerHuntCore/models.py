@@ -36,3 +36,4 @@ class Scammer(models.Model):
     timezone = models.CharField(max_length=300, default='')
     carrier = models.CharField(max_length=300, default='')
     geocoder = models.CharField(max_length=300, default='')
+    upi_id = models.CharField(max_length=300, default='')
