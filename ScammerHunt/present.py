@@ -5,7 +5,7 @@ import csv
 
 with open('scammers_list.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(["Phone number", "Number of complaints reported", "Reference url", "Keywords", "Mentions", "Score", "Carrier", "Geocoder", "Timezone" , "Average sentiment score", ])
+    writer.writerow(["Phone number", "Number of complaints reported", "Reference url", "Keywords", "Mentions", "Score", "Carrier", "Geocoder", "UPI" "Timezone" , "Average sentiment score", ])
     
     scammers = Scammer.objects.all()
     for scammer in scammers:
@@ -40,5 +40,7 @@ with open('scammers_list.csv', 'w', newline='') as file:
 
         keywords = list(set(keywords))
         mentions = list(set(mentions))
-        
-        writer.writerow([phone_number, num_complaints_reported, reference_urls, keywords, mentions, score , scammer.carrier, scammer.geocoder, scammer.timezone, avg_sentiment_score])
+
+        upi_ids_list = [ upi.id for upi in scammer.upi_ids.all()]
+
+        writer.writerow([phone_number, num_complaints_reported, reference_urls, keywords, mentions, score , scammer.carrier, scammer.geocoder, upi_ids_list, scammer.timezone, avg_sentiment_score])
