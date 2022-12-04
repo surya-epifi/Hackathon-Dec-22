@@ -3,6 +3,7 @@ from ScammerHuntCore.models import *
 from ScammerHuntCore.controllers.processScore import get_score
 from ScammerHuntCore.util.utilities import get_sentiment_score
 from ScammerHuntCore.util.utilities import get_info_from
+from ScammerHuntCore.util.utilities import get_upi_ids
 
 def contains_keyword(content):
     for keyword in Keywords.objects.all():
@@ -29,6 +30,13 @@ def record_data(phone_number, mentioned_users_in_tweet, reference_link, content,
         scammer.save()
 
     data.scammer.add(scammer)
+
+    # Add UPI ids if any
+    upi_ids = get_upi_ids(content)
+    if len(upi_ids) > 0:
+        for upi_id in upi_ids:
+            upi = UPI.objects.get_or_create(id=upi_id)
+            scammer.upi_ids.add(upi)
 
     # Keywords
     for keyword in Keywords.objects.all():

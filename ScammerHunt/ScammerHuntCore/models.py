@@ -7,6 +7,9 @@ from django.db import models
 class Keywords(models.Model):
     name = models.CharField(max_length=300, default='')
 
+class UPI(models.Model):
+    id = models.CharField(max_length=300, default='', primary_key=True)
+
 class PriorityUser(models.Model):
     username = models.CharField(max_length=300, default='')
 
@@ -36,4 +39,4 @@ class Scammer(models.Model):
     timezone = models.CharField(max_length=300, default='')
     carrier = models.CharField(max_length=300, default='')
     geocoder = models.CharField(max_length=300, default='')
-    upi_id = models.CharField(max_length=300, default='')
+    upi_ids = models.ManyToManyField("UPI", null=True, default=None)
