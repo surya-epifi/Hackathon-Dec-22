@@ -1,6 +1,7 @@
 import re
 import io
 import requests
+from ScammerHuntCore.models import Scammer, ScrapeData
 import pytesseract
 from PIL import Image
 import phonenumbers
@@ -56,3 +57,7 @@ def get_info_from(phone_number):
     
     return (timezone_value, carrier_value, geocoder_value)
     
+
+def clearAllData():
+    ScrapeData.objects.all().delete()
+    Scammer.objects.all().delete()
