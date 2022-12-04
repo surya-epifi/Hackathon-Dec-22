@@ -5,7 +5,7 @@ import csv
 
 with open('scammers_list.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(["Phone number", "Number of complaints reported", "Reference url", "Score", "Average sentiment score"])
+    writer.writerow(["Phone number", "Number of complaints reported", "Reference url", "Keywords", "Mentions", "Score", "Average sentiment score"])
     
     scammers = Scammer.objects.all()
     for scammer in scammers:
@@ -17,7 +17,19 @@ with open('scammers_list.csv', 'w', newline='') as file:
         reference_urls = []
         score = 0
         total_sentiment_score = 0
+
+        keywords = []
+        mentions = []
         for reported_tweet in reported_tweets:
+            # Keyword
+            keyword_query = reported_tweet.keywords.all()
+            for keyword in keyword_query:
+                keywords.append(keyword.name)
+            # Mentions
+            mentions_query = reported_tweet.mentioned_users.all()
+            for mention in mentions_query:
+                mentions.append(mention.username)
+
             reference_urls.append(reported_tweet.reference_link)
             score = reported_tweet.score if reported_tweet.score > score else score
             total_sentiment_score += reported_tweet.sentiment_score
@@ -25,4 +37,8 @@ with open('scammers_list.csv', 'w', newline='') as file:
 
         # Write
         print('Added recored for ', phone_number)
-        writer.writerow([1, phone_number, num_complaints_reported, reference_urls, score, avg_sentiment_score])
+
+        keywords = list(set(keywords))
+        mentions = list(set(mentions))
+        
+        writer.writerow([phone_number, num_complaints_reported, reference_urls, keywords, mentions, score, avg_sentiment_score])

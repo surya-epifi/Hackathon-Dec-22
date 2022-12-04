@@ -1,53 +1,526 @@
-Phone number,Number of complaints reported,Reference url,Score,Average sentiment score
-1,8240244629,1,['https://twitter.com/SayyedA47137679/status/1597472493065105408'],1,0.0
-1,9832450548,1,['https://twitter.com/AnkitSTiwari2/status/1597972418391584768'],2,0.0
-1,9641143643,1,['https://twitter.com/SanjeevJEC/status/1597960164124274690'],2,0.0
-1,1530000100,1,['https://twitter.com/dimpu05/status/1597929793840087040'],1,0.0
-1,8287155489,1,['https://twitter.com/AmolKhanorkar/status/1597899362088411138'],6,0.0
-1,3270722001,2,"['https://twitter.com/BrijrajNagar6/status/1597861389112336384', 'https://twitter.com/BrijrajNagar6/status/1597649937915056128']",1,0.0
-1,8535034868,1,['https://twitter.com/juvin47/status/1597860201125666816'],6,0.0
-1,8106967746,1,['https://twitter.com/ady24mm/status/1597853491795722240'],6,0.0
-1,9868693556,1,['https://twitter.com/HarshSh69067901/status/1597844317934358528'],2,0.0
-1,7082346998,1,['https://twitter.com/JavedAl75822320/status/1597836643041693696'],7,0.0
-1,0629556861,1,['https://twitter.com/adwaitainapure/status/1597826792047357953'],1,0.0
-1,9315334024,1,['https://twitter.com/abhayagrawal30/status/1597823181808881665'],1,0.0
-1,9123728656,1,['https://twitter.com/26Arpit/status/1597586117439561728'],1,0.0
-1,8279818835,1,['https://twitter.com/yogtoday/status/1597560103410229248'],1,0.0
-1,6002111816,1,['https://twitter.com/Devansh76223827/status/1597532283875250177'],7,0.0
-1,6002111832,1,['https://twitter.com/Devansh76223827/status/1597532283875250177'],7,0.0
-1,9757085844,1,['https://twitter.com/Devansh76223827/status/1597532283875250177'],7,0.0
-1,9039263642,1,['https://twitter.com/anildev12/status/1597519911425019904'],1,0.0
-1,9667559520,1,['https://twitter.com/MonikaKanojia77/status/1597990532206448640'],1,0.0
-1,9196258027,1,['https://twitter.com/MonikaKanojia77/status/1597990532206448640'],1,0.0
-1,9184477455,1,['https://twitter.com/MonikaKanojia77/status/1597990532206448640'],1,0.0
-1,7290022078,1,['https://twitter.com/MonikaKanojia77/status/1597990532206448640'],1,0.0
-1,8867634267,1,['https://twitter.com/reguntha/status/1597944869141741571'],1,0.0
-1,9875673799,1,['https://twitter.com/reguntha/status/1597944869141741571'],1,0.0
-1,9908727937,1,['https://twitter.com/Dostdk4u/status/1597940449645588481'],1,0.0
-1,9155229289,1,['https://twitter.com/itsme_Ammu/status/1597939151546220544'],1,0.0
-1,9163153869,1,['https://twitter.com/itsme_Ammu/status/1597935007548420096'],1,0.0
-1,9915206547,1,['https://twitter.com/tanna_jig/status/1597916223144022018'],1,0.0
-1,7852937001,1,['https://twitter.com/atish_nayak/status/1597901044402782208'],2,0.0
-1,7411013324,1,['https://twitter.com/atish_nayak/status/1597901044402782208'],2,0.0
-1,7698415011,1,['https://twitter.com/EmailShoaib/status/1597886896092614657'],6,0.0
-1,7028952506,1,['https://twitter.com/EmailShoaib/status/1597886896092614657'],6,0.0
-1,8867350795,1,['https://twitter.com/skchoudhary2007/status/1597873864222347264'],1,0.0
-1,9749811691,1,['https://twitter.com/BrijrajNagar6/status/1597861389112336384'],1,0.0
-1,2186437166,1,['https://twitter.com/BrijrajNagar6/status/1597861389112336384'],1,0.0
-1,6289041842,1,['https://twitter.com/Amy1Rajput/status/1597594010834841608'],1,0.0
-1,8240722973,1,['https://twitter.com/Amy1Rajput/status/1597594010834841608'],1,0.0
-1,0827981883,1,['https://twitter.com/yogtoday/status/1597560103410229248'],1,0.0
-1,2211291414,1,['https://twitter.com/RishuGu83871104/status/1597548408428191744'],6,0.0
-1,0287056377,1,['https://twitter.com/RishuGu83871104/status/1597548408428191744'],6,0.0
-1,2333271552,1,['https://twitter.com/RishuGu83871104/status/1597548408428191744'],6,0.0
-1,6372186653,1,['https://twitter.com/RanjanKumar4u/status/1597543715043938305'],6,0.0
-1,7091606928,1,['https://twitter.com/Devansh76223827/status/1597532283875250177'],7,0.0
-1,2200041487,1,['https://twitter.com/adv_vikastiwari/status/1597497201680617473'],2,0.0
-1,9987765535,1,['https://twitter.com/adv_vikastiwari/status/1597497201680617473'],2,0.0
-1,3080222000,1,['https://twitter.com/PawanKda/status/1597225757004398592'],1,0.0
-1,8260910266,1,['https://twitter.com/uniqueSoul_usha/status/1597187489340747778'],0,0.0
-1,9701572922,1,['https://twitter.com/jasshu7/status/1597161906556801024'],1,0.0
-1,0970157292,1,['https://twitter.com/jasshu7/status/1597161906556801024'],1,0.0
-1,8867462691,1,['https://twitter.com/HimmatPurohit5/status/1597153469512953858'],6,0.0
-1,8670422571,1,['https://twitter.com/HimmatPurohit5/status/1597153469512953858'],6,0.0
-1,7019920736,1,['https://twitter.com/lavanyadeepak/status/1597153426789396481'],5,0.0
+Phone number,Number of complaints reported,Reference url,Keywords,Mentions,Score,Average sentiment score
+9667559520,1,['https://twitter.com/MonikaKanojia77/status/1597990532206448640'],[],[],1,0.0
+9196258027,1,['https://twitter.com/MonikaKanojia77/status/1597990532206448640'],[],[],1,0.0
+9184477455,1,['https://twitter.com/MonikaKanojia77/status/1597990532206448640'],[],[],1,0.0
+7290022078,1,['https://twitter.com/MonikaKanojia77/status/1597990532206448640'],[],[],1,0.0
+9832450548,2,"['https://twitter.com/AnkitSTiwari2/status/1597972418391584768', 'https://twitter.com/Again_retweeted/status/1589955926110633987']",['scam'],[],2,0.0
+9641143643,1,['https://twitter.com/SanjeevJEC/status/1597960164124274690'],[],[],2,0.0
+8867634267,1,['https://twitter.com/reguntha/status/1597944869141741571'],[],[],1,0.0
+9875673799,1,['https://twitter.com/reguntha/status/1597944869141741571'],[],[],1,0.0
+9155229289,1,['https://twitter.com/itsme_Ammu/status/1597939151546220544'],[],[],1,0.0
+9163153869,1,['https://twitter.com/itsme_Ammu/status/1597935007548420096'],[],[],1,0.0
+1530000100,1,['https://twitter.com/dimpu05/status/1597929793840087040'],[],[],1,0.0
+9915206547,1,['https://twitter.com/tanna_jig/status/1597916223144022018'],[],[],1,0.0
+7852937001,1,['https://twitter.com/atish_nayak/status/1597901044402782208'],[],[],2,0.0
+7411013324,1,['https://twitter.com/atish_nayak/status/1597901044402782208'],[],[],2,0.0
+8287155489,1,['https://twitter.com/AmolKhanorkar/status/1597899362088411138'],['scam'],[],1,0.0
+7698415011,1,['https://twitter.com/EmailShoaib/status/1597886896092614657'],['scam'],[],1,0.0
+7028952506,1,['https://twitter.com/EmailShoaib/status/1597886896092614657'],['scam'],[],1,0.0
+8867350795,1,['https://twitter.com/skchoudhary2007/status/1597873864222347264'],[],[],1,0.0
+3270722001,2,"['https://twitter.com/BrijrajNagar6/status/1597861389112336384', 'https://twitter.com/BrijrajNagar6/status/1597649937915056128']",[],[],1,0.0
+9749811691,1,['https://twitter.com/BrijrajNagar6/status/1597861389112336384'],[],[],1,0.0
+2186437166,1,['https://twitter.com/BrijrajNagar6/status/1597861389112336384'],[],[],1,0.0
+8535034868,1,['https://twitter.com/juvin47/status/1597860201125666816'],['scam'],[],1,0.0
+8106967746,1,['https://twitter.com/ady24mm/status/1597853491795722240'],['scam'],[],1,0.0
+7082346998,1,['https://twitter.com/JavedAl75822320/status/1597836643041693696'],['scam'],[],2,0.0
+0629556861,1,['https://twitter.com/adwaitainapure/status/1597826792047357953'],[],[],1,0.0
+9315334024,7,"['https://twitter.com/abhayagrawal30/status/1597823181808881665', 'https://twitter.com/abhayagrawal30/status/1597086330722619393', 'https://twitter.com/abhayagrawal30/status/1595247313639079936', 'https://twitter.com/abhayagrawal30/status/1593413794159800320', 'https://twitter.com/abhayagrawal30/status/1592724038677594112', 'https://twitter.com/abhayagrawal30/status/1592034082506309632', 'https://twitter.com/abhayagrawal30/status/1590544904144711680']",[],[],1,0.0
+6289041842,1,['https://twitter.com/Amy1Rajput/status/1597594010834841608'],[],[],1,0.0
+8240722973,1,['https://twitter.com/Amy1Rajput/status/1597594010834841608'],[],[],1,0.0
+9123728656,1,['https://twitter.com/26Arpit/status/1597586117439561728'],[],[],1,0.0
+8279818835,1,['https://twitter.com/yogtoday/status/1597560103410229248'],[],[],1,0.0
+0827981883,1,['https://twitter.com/yogtoday/status/1597560103410229248'],[],[],1,0.0
+2211291414,1,['https://twitter.com/RishuGu83871104/status/1597548408428191744'],['scam'],[],1,0.0
+0287056377,1,['https://twitter.com/RishuGu83871104/status/1597548408428191744'],['scam'],[],1,0.0
+2333271552,1,['https://twitter.com/RishuGu83871104/status/1597548408428191744'],['scam'],[],1,0.0
+6372186653,1,['https://twitter.com/RanjanKumar4u/status/1597543715043938305'],['scam'],[],1,0.0
+6002111816,1,['https://twitter.com/Devansh76223827/status/1597532283875250177'],['scam'],[],2,0.0
+6002111832,1,['https://twitter.com/Devansh76223827/status/1597532283875250177'],['scam'],[],2,0.0
+9757085844,1,['https://twitter.com/Devansh76223827/status/1597532283875250177'],['scam'],[],2,0.0
+7091606928,1,['https://twitter.com/Devansh76223827/status/1597532283875250177'],['scam'],[],2,0.0
+9039263642,1,['https://twitter.com/anildev12/status/1597519911425019904'],[],[],1,0.0
+2200041487,1,['https://twitter.com/adv_vikastiwari/status/1597497201680617473'],[],[],2,0.0
+9987765535,1,['https://twitter.com/adv_vikastiwari/status/1597497201680617473'],[],[],2,0.0
+8240244629,1,['https://twitter.com/SayyedA47137679/status/1597472493065105408'],[],[],1,0.0
+3080222000,1,['https://twitter.com/PawanKda/status/1597225757004398592'],[],[],1,0.0
+8260910266,1,['https://twitter.com/uniqueSoul_usha/status/1597187489340747778'],[],[],1,0.0
+9701572922,1,['https://twitter.com/jasshu7/status/1597161906556801024'],[],[],1,0.0
+0970157292,1,['https://twitter.com/jasshu7/status/1597161906556801024'],[],[],1,0.0
+8867462691,1,['https://twitter.com/HimmatPurohit5/status/1597153469512953858'],['scam'],[],1,0.0
+8670422571,1,['https://twitter.com/HimmatPurohit5/status/1597153469512953858'],['scam'],[],1,0.0
+7019920736,1,['https://twitter.com/lavanyadeepak/status/1597153426789396481'],['scam'],[],1,0.0
+9155422838,1,['https://twitter.com/Andyk02433859/status/1597133944507748352'],[],[],1,0.0
+7461077371,1,['https://twitter.com/adraj/status/1597121907563761664'],['scam'],[],1,0.0
+0998953740,1,['https://twitter.com/adraj/status/1597121907563761664'],['scam'],[],1,0.0
+0841586754,1,['https://twitter.com/adraj/status/1597121907563761664'],['scam'],[],1,0.0
+7003912895,1,['https://twitter.com/adraj/status/1597121907563761664'],['scam'],[],1,0.0
+7526971956,1,['https://twitter.com/Imlionslamb/status/1597102794565357568'],[],[],2,0.0
+7200864257,1,['https://twitter.com/jangidvikram51/status/1597079375278911488'],['scam'],[],1,0.0
+9692691709,1,['https://twitter.com/Mukulkmr13/status/1596867660951977984'],['scam'],[],1,0.0
+2022112343,1,['https://twitter.com/s415h1n63/status/1596862436828598272'],['scam'],[],1,0.0
+7005938906,1,['https://twitter.com/Haritham16/status/1596840271018602498'],['scam'],[],1,0.0
+7388581203,1,['https://twitter.com/HossainFirdoush/status/1596799874070036485'],['scam'],[],0,0.0
+9875474566,1,['https://twitter.com/bridge_forever/status/1596797130114334726'],[],[],0,0.0
+6207876915,1,['https://twitter.com/AmitNirbhaya/status/1596795936055132161'],[],[],1,0.0
+0891056116,1,['https://twitter.com/AmitNirbhaya/status/1596795936055132161'],[],[],1,0.0
+0620787691,1,['https://twitter.com/AmitNirbhaya/status/1596795936055132161'],[],[],1,0.0
+8910561164,1,['https://twitter.com/AmitNirbhaya/status/1596795936055132161'],[],[],1,0.0
+9878994647,1,['https://twitter.com/Naanu_Yo/status/1596793679435296768'],['scam'],[],1,0.0
+0987899464,1,['https://twitter.com/Naanu_Yo/status/1596793679435296768'],['scam'],[],1,0.0
+6232178951,1,['https://twitter.com/MaheshK6210/status/1596793584497590276'],[],[],1,0.0
+9861200198,1,['https://twitter.com/MaheshK6210/status/1596793584497590276'],[],[],1,0.0
+7583913188,1,['https://twitter.com/MaheshK6210/status/1596793584497590276'],[],[],1,0.0
+8690778771,1,['https://twitter.com/Jaswant20194170/status/1596778543525961729'],[],[],1,0.0
+8896717365,1,['https://twitter.com/Jaswant20194170/status/1596778543525961729'],[],[],1,0.0
+7002014800,1,['https://twitter.com/seshvis/status/1596771179528073217'],[],[],1,0.0
+5010255513,1,['https://twitter.com/AmanGoe94451508/status/1596769693893038080'],['scam'],[],1,0.0
+5010025551,1,['https://twitter.com/AmanGoe94451508/status/1596769693893038080'],['scam'],[],1,0.0
+7042605600,1,['https://twitter.com/MuradAli1997/status/1596762466150555648'],['scam'],[],0,0.0
+8106159212,1,['https://twitter.com/prem_all/status/1596749427192246275'],['scam'],[],0,0.0
+9935661529,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,0.0
+6295477792,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,0.0
+2004166489,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,0.0
+5123010000,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,0.0
+0629547779,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,0.0
+6370814726,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,0.0
+2004466489,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,0.0
+4062954777,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,0.0
+9263708147,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,0.0
+2397252040,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,0.0
+8955140321,1,['https://twitter.com/harship29/status/1596601786944884736'],['scam'],[],2,0.0
+2325462428,1,['https://twitter.com/harship29/status/1596601786944884736'],['scam'],[],2,0.0
+8918218697,1,['https://twitter.com/keshav88khatri/status/1596566324129705986'],['scam'],[],0,0.0
+7566701895,1,['https://twitter.com/AyshaBano18/status/1596499890452201474'],[],[],1,0.0
+7610122029,1,['https://twitter.com/AyshaBano18/status/1596499890452201474'],[],[],1,0.0
+8723831901,2,"['https://twitter.com/sAcHaHeEra/status/1596478927949615104', 'https://twitter.com/sAcHaHeEra/status/1596432941382787072']",[],[],1,0.0
+9919896742,2,"['https://twitter.com/sAcHaHeEra/status/1596478927949615104', 'https://twitter.com/sAcHaHeEra/status/1596432941382787072']",[],[],1,0.0
+0991093917,2,"['https://twitter.com/sAcHaHeEra/status/1596478927949615104', 'https://twitter.com/sAcHaHeEra/status/1596432941382787072']",[],[],1,0.0
+4774663257,1,['https://twitter.com/javid85co/status/1596476610328547328'],[],[],0,0.0
+8887941903,1,['https://twitter.com/RAVINDR58412076/status/1596453699542740993'],[],[],0,0.0
+7525073264,1,['https://twitter.com/punithcs/status/1596449198831898625'],['scam'],[],1,0.0
+8743867273,1,['https://twitter.com/punithcs/status/1596449198831898625'],['scam'],[],1,0.0
+3161022001,1,['https://twitter.com/punithcs/status/1596449198831898625'],['scam'],[],1,0.0
+8160464863,1,['https://twitter.com/Thinq__/status/1596448269483532288'],['scam'],[],0,0.0
+8918052204,1,['https://twitter.com/DDS_Ketki/status/1596444147283816448'],[],[],0,0.0
+2311122008,5,"['https://twitter.com/shashisharan11/status/1596413872860467201', 'https://twitter.com/SyedShahwazRaza/status/1593971537077760001', 'https://twitter.com/Manojs_mishra/status/1593849188986802177', 'https://twitter.com/ideepaksharmaa/status/1593196603292389376', 'https://twitter.com/Deeplifejoy/status/1591510569605296128']",['scam'],[],0,0.0
+9560073762,1,['https://twitter.com/RaviSChauhan/status/1596409336167034882'],['scam'],[],0,0.0
+0015122022,1,['https://twitter.com/the15thjob/status/1596404751490756608'],[],[],0,0.0
+8100285850,1,['https://twitter.com/tweetbycharanc/status/1596369826028539904'],['scam'],[],1,0.0
+0810028585,1,['https://twitter.com/tweetbycharanc/status/1596369826028539904'],['scam'],[],1,0.0
+8373950035,1,['https://twitter.com/goutham5775/status/1596329936822108160'],[],[],1,0.0
+9990530906,1,['https://twitter.com/goutham5775/status/1596329936822108160'],[],[],1,0.0
+9454609877,2,"['https://twitter.com/AryanKh41216999/status/1596314512814387200', 'https://twitter.com/AryanKh41216999/status/1596306750726057984']",[],[],1,0.0
+1665689500,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,0.0
+2022101401,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,0.0
+1665689230,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,0.0
+2022101400,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,0.0
+1665657796,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,0.0
+2022101316,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,0.0
+1665634798,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,0.0
+2022101309,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,0.0
+1665634584,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,0.0
+1665634577,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,0.0
+2022230110,1,['https://twitter.com/shanx85/status/1596212777638858753'],[],[],2,0.0
+8918847764,1,['https://twitter.com/shanx85/status/1596212777638858753'],[],[],2,0.0
+2241122001,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+2022112414,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+5115512044,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+5216669240,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+5000150001,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+0000300001,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+5000450002,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+0000600002,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+5000750003,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+0000900004,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+2000050000,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+5000010000,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+3200001250,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+5614009738,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+2022112415,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+0242767658,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+5031804598,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+2573634740,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+6359047502,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+2010187068,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,0.0
+3271122003,2,"['https://twitter.com/Sandeep78663564/status/1596133558242140161', 'https://twitter.com/GuruPra02922150/status/1591483139083632640']",[],[],1,0.0
+9731056974,1,['https://twitter.com/wilson_thomas/status/1596105347076620291'],[],[],1,0.0
+8953556685,1,['https://twitter.com/wilson_thomas/status/1596105347076620291'],[],[],1,0.0
+3919524357,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],['scam'],[],1,0.0
+3896085960,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],['scam'],[],1,0.0
+7377522620,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],['scam'],[],1,0.0
+3462629199,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],['scam'],[],1,0.0
+3963128616,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],['scam'],[],1,0.0
+1876819352,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],['scam'],[],1,0.0
+7681935241,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],['scam'],[],1,0.0
+9438717552,2,"['https://twitter.com/sdorthopod/status/1596073847463481344', 'https://twitter.com/sdorthopod/status/1596063722073915393']",[],[],1,0.0
+7694986265,2,"['https://twitter.com/sdorthopod/status/1596073847463481344', 'https://twitter.com/sdorthopod/status/1596063722073915393']",[],[],1,0.0
+8927455101,1,['https://twitter.com/dev_sonar/status/1596064065906184195'],[],[],0,0.0
+2023713909,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,0.0
+5596010148,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,0.0
+9170100461,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,0.0
+4182100016,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,0.0
+8527615038,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,0.0
+2232581812,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,0.0
+0000002023,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,0.0
+9185276150,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,0.0
+0001536063,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,0.0
+6100921453,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,0.0
+2325818259,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,0.0
+6100921455,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,0.0
+2325818260,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,0.0
+7139092918,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,0.0
+2341220008,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,0.0
+9064722733,1,['https://twitter.com/dev_786/status/1596041697833910274'],['scam'],[],0,0.0
+3320306252,1,['https://twitter.com/sagarparte5/status/1596018671868346368'],[],[],1,0.0
+8099319097,1,['https://twitter.com/kumarsom_/status/1596014071421468672'],[],[],0,0.0
+8708768911,1,['https://twitter.com/Padamsales/status/1596000586654048256'],[],[],0,0.0
+9324877686,1,['https://twitter.com/ribhurix/status/1595995567523770368'],['scam'],[],1,0.0
+8894687390,1,['https://twitter.com/AmanVermaB1/status/1595938514289721344'],['scam'],[],1,0.0
+9560074941,1,['https://twitter.com/AmanVermaB1/status/1595938514289721344'],['scam'],[],1,0.0
+3130922001,1,['https://twitter.com/Ajeetpatel1985/status/1595898304591978496'],[],[],1,0.0
+2320822001,1,['https://twitter.com/RavindraSaraog1/status/1595858773725224960'],[],[],0,0.0
+3311122009,1,['https://twitter.com/ahmadiqbal1112/status/1595790852605243392'],[],[],1,0.0
+0001313125,1,['https://twitter.com/ahmadiqbal1112/status/1595790852605243392'],[],[],1,0.0
+0743934552,1,['https://twitter.com/rnjangra/status/1595789034093424640'],[],[],0,0.0
+6291401984,1,['https://twitter.com/BrahmanUvacha/status/1595783678524735488'],[],[],1,0.0
+8638963838,1,['https://twitter.com/ChandrasenPand2/status/1595756680780091392'],[],[],1,0.0
+9330346142,1,['https://twitter.com/GautamJ88331500/status/1595753873817206784'],[],[],0,0.0
+2081122007,1,['https://twitter.com/the15thjob/status/1595739548130369536'],[],[],0,0.0
+8368632565,1,['https://twitter.com/imsaurabhsingla/status/1595699273316065280'],['scam'],[],0,0.0
+3270822002,1,['https://twitter.com/Kriplani18Anil/status/1595692645594304512'],[],[],0,0.0
+7973249882,1,['https://twitter.com/TheRahulSI/status/1595685762984718338'],['scam'],[],0,0.0
+8815251217,1,['https://twitter.com/ckr143/status/1595663944680878080'],[],[],0,0.0
+3455250327,1,['https://twitter.com/PGISandeep/status/1595628935668125696'],[],[],1,0.0
+2251122001,4,"['https://twitter.com/RohitKumar75754/status/1595609678167539713', 'https://twitter.com/AnilKatri/status/1593502052147085314', 'https://twitter.com/RohitKumar75754/status/1593258789482156032', 'https://twitter.com/Ankur22Sharma/status/1590292578481876992']",[],[],1,0.0
+9651393306,2,"['https://twitter.com/RohitKumar75754/status/1595609678167539713', 'https://twitter.com/RohitKumar75754/status/1593258789482156032']",[],[],1,0.0
+2155902894,2,"['https://twitter.com/RohitKumar75754/status/1595609678167539713', 'https://twitter.com/RohitKumar75754/status/1593258789482156032']",[],[],1,0.0
+7717364774,1,['https://twitter.com/RohitKumar75754/status/1595609678167539713'],[],[],1,0.0
+3165002207,1,['https://twitter.com/Neeraj22Y/status/1595571120815894528'],[],[],1,0.0
+1227297007,1,['https://twitter.com/suniljalli_88/status/1595519880790683648'],['scam'],[],2,0.0
+8382849918,1,['https://twitter.com/suniljalli_88/status/1595519880790683648'],['scam'],[],2,0.0
+1227007007,1,['https://twitter.com/suniljalli_88/status/1595519880790683648'],['scam'],[],2,0.0
+9179976530,1,['https://twitter.com/suniljalli_88/status/1595519880790683648'],['scam'],[],2,0.0
+9111374067,1,['https://twitter.com/FaizAnsari777/status/1595515572766113792'],['scam'],[],1,0.0
+8922898322,2,"['https://twitter.com/_thefine/status/1595391674167209984', 'https://twitter.com/Hanishhsharma/status/1595378986057883649']","['scam', 'scam']",[],1,0.0
+8922893322,1,['https://twitter.com/Hanishhsharma/status/1595378986057883649'],['scam'],[],1,0.0
+6263449197,1,['https://twitter.com/gilligillii/status/1595369812829474817'],[],[],0,0.0
+8271392573,1,['https://twitter.com/7ashwanikaushik/status/1595363899737804804'],['scam'],[],0,0.0
+7275701537,1,['https://twitter.com/ordinaryboyrhl/status/1595361072273559552'],[],[],0,0.0
+7083953486,1,['https://twitter.com/iVicky024/status/1595330572741922817'],[],[],0,0.0
+0738175418,1,['https://twitter.com/smrutidash76gm1/status/1595326759536562176'],['scam'],[],0,0.0
+9382246755,1,['https://twitter.com/ncjatin/status/1595319136875589633'],['scam'],[],2,0.0
+8218820350,1,['https://twitter.com/KajalHastiyan/status/1595318305711001600'],[],[],1,0.0
+0700334244,1,['https://twitter.com/Saurabh55941315/status/1595310712783790080'],[],[],0,0.0
+9321200207,1,['https://twitter.com/VidhiSanghvi02/status/1595291095046709248'],[],[],0,0.0
+9038557401,1,['https://twitter.com/nrokda/status/1595283186250297345'],[],[],0,0.0
+2051022002,1,['https://twitter.com/soulless_subbu/status/1595065997580722177'],[],[],1,0.0
+9431820409,1,['https://twitter.com/soulless_subbu/status/1595065997580722177'],[],[],1,0.0
+9302004411,1,['https://twitter.com/Shahjahan_bhai/status/1595060557119655943'],[],[],2,0.0
+6353288068,1,['https://twitter.com/Shahjahan_bhai/status/1595060557119655943'],[],[],2,0.0
+8439182293,1,['https://twitter.com/im_lovesharma/status/1595005017014296577'],['scam'],[],2,0.0
+9641119172,1,['https://twitter.com/im_lovesharma/status/1595005017014296577'],['scam'],[],2,0.0
+7842903796,1,['https://twitter.com/Ankur200300/status/1594940388221292544'],[],[],1,0.0
+7908970463,1,['https://twitter.com/Ankur200300/status/1594940388221292544'],[],[],1,0.0
+8250006839,1,['https://twitter.com/Deepaks002t/status/1594913893700075520'],['scam'],[],1,0.0
+0825000683,1,['https://twitter.com/Deepaks002t/status/1594913893700075520'],['scam'],[],1,0.0
+8602479544,1,['https://twitter.com/anubhavmehta/status/1594714603711172608'],['scam'],[],0,0.0
+8273786166,1,['https://twitter.com/Sonuanna13/status/1594712029209587712'],[],[],2,0.0
+2022112118,1,['https://twitter.com/Sonuanna13/status/1594712029209587712'],[],[],2,0.0
+2325593067,1,['https://twitter.com/Sonuanna13/status/1594712029209587712'],[],[],2,0.0
+2161022003,1,['https://twitter.com/Rsahai5/status/1594658364880928768'],['scam'],[],2,0.0
+9330352932,1,['https://twitter.com/Rsahai5/status/1594658364880928768'],['scam'],[],2,0.0
+9692980179,1,['https://twitter.com/Rj6117/status/1594629183250264064'],['scam'],[],2,0.0
+7389533032,1,['https://twitter.com/yogtoday/status/1594627702341836801'],[],[],0,0.0
+7674866840,1,['https://twitter.com/UrbanPaunch/status/1594612014193999872'],['scam'],[],0,0.0
+6295754836,1,['https://twitter.com/SumantShekhar/status/1594604850574393344'],[],[],2,0.0
+8108311354,1,['https://twitter.com/Matinshaikh128/status/1594590982116634624'],[],[],1,0.0
+6291488461,1,['https://twitter.com/AniruddhaPolley/status/1594578650179186688'],['scam'],[],0,0.0
+7205195353,1,['https://twitter.com/IamKandarpa/status/1594573150754246663'],[],[],1,0.0
+0324050031,1,['https://twitter.com/TYAGIHINDU/status/1594548122532782080'],[],[],2,0.0
+9653129957,1,['https://twitter.com/TYAGIHINDU/status/1594548122532782080'],[],[],2,0.0
+7827519319,1,['https://twitter.com/TYAGIHINDU/status/1594548122532782080'],[],[],2,0.0
+2407220695,1,['https://twitter.com/shefaligupta23/status/1594415293413347328'],[],[],2,0.0
+7311151851,1,['https://twitter.com/shefaligupta23/status/1594415293413347328'],[],[],2,0.0
+6370695396,1,['https://twitter.com/varun2011kites/status/1594394892943634432'],[],[],0,0.0
+2111122002,1,['https://twitter.com/vishalshiyal87/status/1594379512619622400'],['scam'],[],0,0.0
+0779576602,1,['https://twitter.com/Rai_ka_Pahaad/status/1594376422927335426'],[],[],1,0.0
+6262092662,1,['https://twitter.com/missioniasAIR1/status/1594373132655431680'],[],[],0,0.0
+2190622003,1,['https://twitter.com/PacheRuchika/status/1594305304652496896'],[],[],0,0.0
+8910359495,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],[],[],2,0.0
+3242200115,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],[],[],2,0.0
+5988382294,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],[],[],2,0.0
+8800688006,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],[],[],2,0.0
+6398480763,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],[],[],2,0.0
+5988391928,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],[],[],2,0.0
+9956616573,1,['https://twitter.com/SANTOSHRAI_NAMO/status/1594278328768245760'],[],[],1,0.0
+6296498702,1,['https://twitter.com/SANTOSHRAI_NAMO/status/1594278328768245760'],[],[],1,0.0
+7338805801,1,['https://twitter.com/SANTOSHRAI_NAMO/status/1594278328768245760'],[],[],1,0.0
+9861286415,1,['https://twitter.com/SANTOSHRAI_NAMO/status/1594278328768245760'],[],[],1,0.0
+8093864660,1,['https://twitter.com/SahilKrgupta5/status/1594270835644465153'],['scam'],[],1,0.0
+8918657534,1,['https://twitter.com/vichitra_manus/status/1594263929756475393'],[],[],0,0.0
+9038412698,1,['https://twitter.com/shailen01041981/status/1594257358385213440'],[],[],1,0.0
+9038412837,1,['https://twitter.com/shailen01041981/status/1594257358385213440'],[],[],1,0.0
+3643399513,1,['https://twitter.com/ChitraMehta12/status/1594246998454317056'],[],[],1,0.0
+8008778826,1,['https://twitter.com/mayankkummar/status/1594208643477803010'],['scam'],[],2,0.0
+6294194573,1,['https://twitter.com/mayankkummar/status/1594208643477803010'],['scam'],[],2,0.0
+6204081737,1,['https://twitter.com/RuubinaShah/status/1594207665965748225'],[],[],1,0.0
+9940570051,1,['https://twitter.com/RuubinaShah/status/1594207665965748225'],[],[],1,0.0
+9827578081,1,['https://twitter.com/NgryYngMan/status/1594203529551712257'],[],[],1,0.0
+2322633828,1,['https://twitter.com/Gaurav___Sengar/status/1594036855791439873'],[],[],0,0.0
+1270535855,1,['https://twitter.com/NileshNlg/status/1593972615190024192'],['scam'],[],2,0.0
+8989325994,1,['https://twitter.com/NileshNlg/status/1593972615190024192'],['scam'],[],2,0.0
+3191122000,1,['https://twitter.com/deepakJeepu/status/1593957001205202944'],[],[],2,0.0
+9594986515,1,['https://twitter.com/deepakJeepu/status/1593957001205202944'],[],[],2,0.0
+9650162925,1,['https://twitter.com/biswajit_ece/status/1593939793725251584'],[],[],0,0.0
+7317423111,1,['https://twitter.com/rohalgala/status/1593924813566844929'],[],[],2,0.0
+8051428154,1,['https://twitter.com/rohalgala/status/1593924813566844929'],[],[],2,0.0
+9840193211,1,['https://twitter.com/SyedanwarKaifee/status/1593907250414116864'],[],[],1,0.0
+7074910887,1,['https://twitter.com/Kumar_3399/status/1593848052229341184'],[],[],0,0.0
+8708837100,1,['https://twitter.com/DNTBillionaire/status/1593783043466010624'],['scam'],[],0,0.0
+5010021199,1,['https://twitter.com/ervijay_maurya/status/1593669009932697601'],[],[],0,0.0
+7065679634,1,['https://twitter.com/balajisharathk1/status/1593668276445642754'],['scam'],[],2,0.0
+5156399943,1,['https://twitter.com/balajisharathk1/status/1593668276445642754'],['scam'],[],2,0.0
+1855923221,1,['https://twitter.com/balajisharathk1/status/1593668276445642754'],['scam'],[],2,0.0
+8882428107,1,['https://twitter.com/balajisharathk1/status/1593668276445642754'],['scam'],[],2,0.0
+1888242810,1,['https://twitter.com/balajisharathk1/status/1593668276445642754'],['scam'],[],2,0.0
+9431171929,1,['https://twitter.com/OhalPraveen/status/1593654627840692225'],[],[],1,0.0
+7484989446,1,['https://twitter.com/bhuanil1993/status/1593640435154833410'],[],[],1,0.0
+3793661537,1,['https://twitter.com/bhuanil1993/status/1593640435154833410'],[],[],1,0.0
+7007237494,1,['https://twitter.com/bhuanil1993/status/1593640435154833410'],[],[],1,0.0
+8453166071,1,['https://twitter.com/illogical_humor/status/1593626858846916609'],['scam'],[],0,0.0
+9337340436,1,['https://twitter.com/boobna/status/1593617051025051648'],[],[],0,0.0
+0124643480,1,['https://twitter.com/pandatrisky/status/1593613577344421890'],[],[],0,0.0
+1997121250,1,['https://twitter.com/ruchinmehra/status/1593598279690125312'],[],[],2,0.0
+4001402204,1,['https://twitter.com/ruchinmehra/status/1593598279690125312'],[],[],2,0.0
+9927270443,1,['https://twitter.com/imankurrana/status/1593577730007658496'],[],[],2,0.0
+2777743646,1,['https://twitter.com/imankurrana/status/1593577730007658496'],[],[],2,0.0
+2022111815,1,['https://twitter.com/imankurrana/status/1593577730007658496'],[],[],2,0.0
+9188252619,1,['https://twitter.com/imankurrana/status/1593577730007658496'],[],[],2,0.0
+9198370881,1,['https://twitter.com/imankurrana/status/1593577730007658496'],[],[],2,0.0
+2777740606,1,['https://twitter.com/imankurrana/status/1593577730007658496'],[],[],2,0.0
+9679626725,1,['https://twitter.com/AkshayRathore95/status/1593566603710722048'],[],[],1,0.0
+8123456434,1,['https://twitter.com/swarnajothips/status/1593566020312391681'],[],[],1,0.0
+0041400184,1,['https://twitter.com/swarnajothips/status/1593566020312391681'],[],[],1,0.0
+6822490014,1,['https://twitter.com/Upganlawar/status/1593525186556743680'],[],[],0,0.0
+2271122003,2,"['https://twitter.com/shakaalfan/status/1593501780322705408', 'https://twitter.com/Nawalsingh11238/status/1592398402402553857']",[],[],1,0.0
+9316009596,1,['https://twitter.com/Jan_Shakti_/status/1593486959824883717'],['scam'],[],1,0.0
+0874302158,1,['https://twitter.com/cryptoenthu007/status/1593486357615497221'],['scam'],[],0,0.0
+9570576502,1,['https://twitter.com/rakeshiiita/status/1593469546916372480'],['scam'],[],0,0.0
+9337781760,1,['https://twitter.com/RAHULKU41786992/status/1593465370492301313'],['scam'],[],0,0.0
+8945259897,1,['https://twitter.com/BRAJRAJ31053894/status/1593309000107720704'],[],[],1,0.0
+8982346088,1,['https://twitter.com/karanbaru/status/1593294673271226369'],[],[],1,0.0
+7005220052,1,['https://twitter.com/karanbaru/status/1593294673271226369'],[],[],1,0.0
+9818488208,1,['https://twitter.com/sunnnyykb/status/1593284709924376576'],['scam'],[],1,0.0
+8827813039,1,['https://twitter.com/patrakarsksingh/status/1593265478918885377'],['scam'],[],1,0.0
+9734480959,1,['https://twitter.com/itzap7/status/1593202791878885377'],[],[],2,0.0
+8918641825,1,['https://twitter.com/itzap7/status/1593202791878885377'],[],[],2,0.0
+8815670247,1,['https://twitter.com/pathan_afi/status/1593201230423416832'],[],[],1,0.0
+1820010001,1,['https://twitter.com/tushar13111980/status/1593178408485523457'],[],[],0,0.0
+9670765214,1,['https://twitter.com/TusharKannaujia/status/1593154184790302720'],['scam'],[],1,0.0
+6361436492,1,['https://twitter.com/ashu199019/status/1593150218375397376'],[],[],1,0.0
+6302382250,1,['https://twitter.com/ashu199019/status/1593150218375397376'],[],[],1,0.0
+9482422512,1,['https://twitter.com/ashu199019/status/1593150218375397376'],[],[],1,0.0
+7903458202,1,['https://twitter.com/ashu199019/status/1593150218375397376'],[],[],1,0.0
+8828793876,1,['https://twitter.com/GaMingWithHack9/status/1593140357294088192'],['scam'],[],1,0.0
+0957057605,1,['https://twitter.com/rakeshiiita/status/1593136892572471296'],[],[],0,0.0
+9142083920,1,['https://twitter.com/JOYDIPROYBARMAN/status/1593111777373741056'],[],[],2,0.0
+7070176211,1,['https://twitter.com/JOYDIPROYBARMAN/status/1593111777373741056'],[],[],2,0.0
+7679176211,1,['https://twitter.com/JOYDIPROYBARMAN/status/1593111777373741056'],[],[],2,0.0
+0743936992,1,['https://twitter.com/santoshsuman123/status/1593110775455178752'],['scam'],[],0,0.0
+7902026504,1,['https://twitter.com/79Prashantsingh/status/1593099253051949056'],[],[],1,0.0
+9394405083,1,['https://twitter.com/79Prashantsingh/status/1593099253051949056'],[],[],1,0.0
+3025573019,1,['https://twitter.com/babbarx/status/1593090245834473472'],['scam'],[],1,0.0
+9019996710,1,['https://twitter.com/babbarx/status/1593090245834473472'],['scam'],[],1,0.0
+2228947237,1,['https://twitter.com/gauravsharma580/status/1593076992517500930'],[],[],1,0.0
+3311022009,1,['https://twitter.com/gauravsharma580/status/1593076992517500930'],[],[],1,0.0
+9382538986,1,['https://twitter.com/VishnuP95275701/status/1592849530512625664'],['scam'],[],1,0.0
+6370277928,1,['https://twitter.com/Ankurgo53008067/status/1592837184163545089'],[],[],0,0.0
+8949556501,1,['https://twitter.com/Samrinkhann98/status/1592832249015439365'],[],[],0,0.0
+7518741949,1,['https://twitter.com/VGRastogi/status/1592830145194528768'],[],[],1,0.0
+8738852963,1,['https://twitter.com/VGRastogi/status/1592830145194528768'],[],[],1,0.0
+1331112209,1,['https://twitter.com/ravidecentboy/status/1592785411788931074'],[],[],1,0.0
+2022331112,1,['https://twitter.com/ravidecentboy/status/1592785411788931074'],[],[],1,0.0
+9355078334,1,['https://twitter.com/anooptiwarifkd/status/1592781998783098880'],[],[],1,0.0
+7005777878,1,['https://twitter.com/anooptiwarifkd/status/1592781998783098880'],[],[],1,0.0
+9382431159,1,['https://twitter.com/MOHDASRAR/status/1592767106948681731'],[],[],1,0.0
+9915315498,1,['https://twitter.com/payyaboy/status/1592682503810469888'],[],[],1,0.0
+8695253363,1,['https://twitter.com/ANILSIWACH10/status/1592561828974190592'],[],[],0,0.0
+2022082830,1,['https://twitter.com/khajuria_s/status/1592532229607260161'],[],[],0,0.0
+9582586588,1,['https://twitter.com/khabarmax/status/1592528337280589825'],['scam'],[],0,0.0
+1411220102,1,['https://twitter.com/ravindrav53/status/1592478149715316736'],[],[],1,0.0
+7808222391,1,['https://twitter.com/ravindrav53/status/1592478149715316736'],[],[],1,0.0
+9784435170,1,['https://twitter.com/ravindrav53/status/1592478149715316736'],[],[],1,0.0
+7715051040,1,['https://twitter.com/ravindrav53/status/1592478149715316736'],[],[],1,0.0
+8586052437,1,['https://twitter.com/Vishal902746/status/1592463123189207045'],['scam'],[],0,0.0
+8338930234,1,['https://twitter.com/TheBat09/status/1592446755245027335'],['scam'],[],1,0.0
+0915350780,1,['https://twitter.com/arjmashru/status/1592433515471470592'],[],[],1,0.0
+8076727709,1,['https://twitter.com/ishan_shankar/status/1592429108121989120'],['scam'],[],1,0.0
+7855031877,1,['https://twitter.com/ishan_shankar/status/1592429108121989120'],['scam'],[],1,0.0
+8389985838,1,['https://twitter.com/imnomber24/status/1592409144258367488'],['scam'],[],0,0.0
+4136736304,1,['https://twitter.com/Nawalsingh11238/status/1592398402402553857'],[],[],1,0.0
+1800208989,1,['https://twitter.com/ManjeetVaTs777/status/1592153917517070336'],[],[],0,0.0
+9355798175,1,['https://twitter.com/sardarcastic/status/1592138755682754561'],[],[],0,0.0
+9135764114,1,['https://twitter.com/dd1266a95c96405/status/1592102041534353408'],[],[],0,0.0
+9896091219,1,['https://twitter.com/anil_anipra/status/1592065206339145729'],[],[],1,0.0
+7005328590,1,['https://twitter.com/anil_anipra/status/1592065206339145729'],[],[],1,0.0
+6295056262,1,['https://twitter.com/PaulsonThomas7/status/1592017921076764672'],['scam'],[],0,0.0
+8047191200,1,['https://twitter.com/gauravbhanot7/status/1592007239069749249'],[],[],0,0.0
+9833811996,1,['https://twitter.com/ZubairSayyed19/status/1591829853959245824'],[],[],1,0.0
+7093173252,1,['https://twitter.com/sunt_y/status/1591820254476644353'],[],[],1,0.0
+7001998901,2,"['https://twitter.com/MohitSabhrwal/status/1591776185478152193', 'https://twitter.com/MohitSabhrwal/status/1591775716869541888']",[],[],1,0.0
+7854978055,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+6297943687,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+1312000100,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+2051122002,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+4312000100,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+2314780860,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+2314349364,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+5021002288,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+2314454992,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+2314454991,2,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966']",[],[],1,0.0
+2314143455,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+1020222022,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+2314143453,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+1620802915,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+0405891946,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+0020222022,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+1620802051,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+0405891601,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+2314331319,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+2314227179,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+2314122464,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+0910202204,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+4520222022,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+1231445499,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+2020222022,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+2022202210,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+3141434533,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+5312000100,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+4620802915,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+3120001001,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+8312000100,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+1022111117,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+7488130234,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,0.0
+0926347878,1,['https://twitter.com/mrtrraj/status/1591721566727188481'],[],[],2,0.0
+6205721299,1,['https://twitter.com/mrtrraj/status/1591721566727188481'],[],[],2,0.0
+9663802984,1,['https://twitter.com/sunitalks/status/1591637254719819776'],[],[],2,0.0
+8096638029,1,['https://twitter.com/sunitalks/status/1591637254719819776'],[],[],2,0.0
+2191122008,4,"['https://twitter.com/rakesh_jatwa/status/1591612105538797569', 'https://twitter.com/rakesh_jatwa/status/1591612000974819330', 'https://twitter.com/rakesh_jatwa/status/1591611848071475200', 'https://twitter.com/rakesh_jatwa/status/1591611677828841472']",[],[],0,0.0
+9031978882,2,"['https://twitter.com/pintooganguly/status/1591533163079413760', 'https://twitter.com/krishvaidya/status/1591439284846104576']",['scam'],[],0,0.0
+8923245592,1,['https://twitter.com/Yatingoyal007/status/1591491751021522944'],[],[],1,0.0
+4470154282,1,['https://twitter.com/Yatingoyal007/status/1591491751021522944'],[],[],1,0.0
+6691384915,1,['https://twitter.com/GuruPra02922150/status/1591483139083632640'],[],[],1,0.0
+2211122106,1,['https://twitter.com/GuruPra02922150/status/1591483139083632640'],[],[],1,0.0
+4428307524,1,['https://twitter.com/GuruPra02922150/status/1591483139083632640'],[],[],1,0.0
+2316686040,1,['https://twitter.com/GuruPra02922150/status/1591483139083632640'],[],[],1,0.0
+8874100905,1,['https://twitter.com/AnkushK47804552/status/1591481604639444992'],[],[],0,0.0
+8240554643,1,['https://twitter.com/AnantKu88212465/status/1591457763728986112'],[],[],0,0.0
+9915279700,1,['https://twitter.com/Sharmaji_0608/status/1591448796739035137'],[],[],1,0.0
+0969203479,1,['https://twitter.com/irfantahir123/status/1591424339492372481'],['scam'],[],1,0.0
+8260237291,1,['https://twitter.com/narenbaba/status/1591412339055955974'],[],[],0,0.0
+0787356737,1,['https://twitter.com/ParthVo71126715/status/1591394198254911488'],[],[],0,0.0
+8652389913,1,['https://twitter.com/vd_rajgor_11/status/1591380308951453696'],['scam'],[],0,0.0
+9339033812,1,['https://twitter.com/LaxmanDave6/status/1591360580237287424'],[],[],0,0.0
+8006197032,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],[],[],1,0.0
+7439211706,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],[],[],1,0.0
+0296100571,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],[],[],1,0.0
+9832248187,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],[],[],1,0.0
+2316121754,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],[],[],1,0.0
+1112221246,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],[],[],1,0.0
+8265099151,1,['https://twitter.com/rajeevnair777/status/1591345816983441408'],[],[],0,0.0
+9330256875,1,['https://twitter.com/tdurgesh08/status/1591301601037545473'],[],[],1,0.0
+3311122010,1,['https://twitter.com/vishnuA29768276/status/1591297791460265984'],[],[],1,0.0
+8327026653,1,['https://twitter.com/vishnuA29768276/status/1591297791460265984'],[],[],1,0.0
+6390793716,1,['https://twitter.com/vishnuA29768276/status/1591297791460265984'],[],[],1,0.0
+8337921468,1,['https://twitter.com/vishnuA29768276/status/1591297791460265984'],[],[],1,0.0
+9915365674,1,['https://twitter.com/gch1010/status/1591123575410675712'],[],[],0,0.0
+8015195487,1,['https://twitter.com/iNfAmOuSAddy/status/1591118513963663361'],[],[],1,0.0
+1800123412,1,['https://twitter.com/iNfAmOuSAddy/status/1591118513963663361'],[],[],1,0.0
+9220100494,1,['https://twitter.com/ExtraTechnical/status/1591097602040565760'],['scam'],[],1,0.0
+7003527107,1,['https://twitter.com/ExtraTechnical/status/1591097602040565760'],['scam'],[],1,0.0
+8056967011,1,['https://twitter.com/puneetsachar/status/1591061405213806594'],[],[],0,0.0
+7961748047,1,['https://twitter.com/cheeeets/status/1591042540362682368'],['scam'],[],0,0.0
+8018059664,1,['https://twitter.com/ghatakgujju/status/1591011568078458881'],[],[],0,0.0
+9153301212,1,['https://twitter.com/AryadronAd/status/1590979465546706944'],[],[],0,0.0
+7505598723,1,['https://twitter.com/vikaasgarg/status/1590972420776951809'],[],[],1,0.0
+0943303035,1,['https://twitter.com/vi_sanju/status/1590961836425609216'],['scam'],[],0,0.0
+2081022007,1,['https://twitter.com/iktsolar/status/1590954761540763648'],[],[],0,0.0
+0938709697,1,['https://twitter.com/AdvocatebhanuO1/status/1590929253335732224'],[],[],0,0.0
+0192634000,1,['https://twitter.com/tushar13111980/status/1590715818676928512'],[],[],0,0.0
+2211122002,1,['https://twitter.com/AnkurAkke/status/1590700643844755457'],[],[],0,0.0
+8486227249,1,['https://twitter.com/minaur_rahman_/status/1590677403873206273'],[],[],0,0.0
+7047953888,1,['https://twitter.com/imdeethakur/status/1590657926951493632'],[],[],0,0.0
+7003136329,2,"['https://twitter.com/SumitBa04712475/status/1590626656712273921', 'https://twitter.com/Again_retweeted/status/1589955926110633987']",['scam'],[],1,0.0
+8147121834,1,['https://twitter.com/HemantKhincha/status/1590625812591833089'],[],[],0,0.0
+8863090356,1,['https://twitter.com/rohan931982/status/1590617958015201281'],[],[],1,0.0
+9739538468,1,['https://twitter.com/Abhi19492/status/1590584751668494336'],[],[],0,0.0
+9038313860,2,"['https://twitter.com/rahulnaag/status/1590569946396135424', 'https://twitter.com/rahulnaag/status/1590568745021640704']","['scam', 'scam']",[],0,0.0
+9818635912,1,['https://twitter.com/GauravPandey71/status/1590559043990740992'],[],[],1,0.0
+9538472380,2,"['https://twitter.com/vikramdjames/status/1590360958098378754', 'https://twitter.com/vikramdjames/status/1590360823859679234']","['scam', 'scam']",[],1,0.0
+1958816327,2,"['https://twitter.com/vikramdjames/status/1590360958098378754', 'https://twitter.com/vikramdjames/status/1590360823859679234']","['scam', 'scam']",[],1,0.0
+2312390793,2,"['https://twitter.com/vikramdjames/status/1590360958098378754', 'https://twitter.com/vikramdjames/status/1590360823859679234']","['scam', 'scam']",[],1,0.0
+8130529196,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],[],[],1,0.0
+9773570431,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],[],[],1,0.0
+2233705698,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],[],[],1,0.0
+9101980294,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],[],[],1,0.0
+2311349814,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],[],[],1,0.0
+9958118536,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],[],[],1,0.0
+2308218868,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],[],[],1,0.0
+2311980740,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],[],[],1,0.0
+7328039776,1,['https://twitter.com/rkravindra/status/1590293553129095169'],[],[],0,0.0
+9711288185,1,['https://twitter.com/bhawanisngh73/status/1590290872431939584'],[],[],0,0.0
+9835989504,1,['https://twitter.com/caypee1/status/1590287154160480257'],[],[],0,0.0
+8035273403,1,['https://twitter.com/NARVEKARMILIND/status/1590284201156546560'],[],[],1,0.0
+7949104421,1,['https://twitter.com/NARVEKARMILIND/status/1590284201156546560'],[],[],1,0.0
+7961734225,1,['https://twitter.com/NARVEKARMILIND/status/1590284201156546560'],[],[],1,0.0
+1714707326,1,['https://twitter.com/NARVEKARMILIND/status/1590284201156546560'],[],[],1,0.0
+9310061101,1,['https://twitter.com/NARVEKARMILIND/status/1590284201156546560'],[],[],1,0.0
+7003392193,1,['https://twitter.com/engineer_nands/status/1590278289918394368'],[],[],0,0.0
+7318671147,1,['https://twitter.com/NarkarPrachee/status/1590268524668518401'],['scam'],[],1,0.0
+7904268512,1,['https://twitter.com/vishweshdwived3/status/1590265864624173057'],[],[],0,0.0
+8670646969,1,['https://twitter.com/AuzziettudeReza/status/1590260714689933313'],['scam'],[],1,0.0
+8167550415,1,['https://twitter.com/AuzziettudeReza/status/1590260714689933313'],['scam'],[],1,0.0
+2080722004,1,['https://twitter.com/inderjeet_mehra/status/1590231187553144832'],[],[],0,0.0
+6289439107,1,['https://twitter.com/theitaliyaboy/status/1590218076532125697'],[],[],1,0.0
+9330772489,1,['https://twitter.com/theitaliyaboy/status/1590218076532125697'],[],[],1,0.0
+9654997673,1,['https://twitter.com/vivekgodara5/status/1590213995688243200'],[],[],1,0.0
+2209800480,1,['https://twitter.com/KaushalAAP/status/1590213448688078850'],[],[],0,0.0
+9614712457,1,['https://twitter.com/Dostdk4u/status/1590208019862028288'],[],[],0,0.0
+0896900133,2,"['https://twitter.com/skrajput1718/status/1590171748397645825', 'https://twitter.com/skrajput1718/status/1590025751658901504']",[],[],1,0.0
+1783356398,1,['https://twitter.com/KunalVinayakiya/status/1590028723327488000'],['scam'],[],1,0.0
+9071287790,1,['https://twitter.com/NomaanShaikh013/status/1589977394798288896'],[],[],0,0.0
+2036590377,1,['https://twitter.com/Am47581045/status/1589972773270847489'],['scam'],[],2,0.0
+2513169408,1,['https://twitter.com/Am47581045/status/1589972773270847489'],['scam'],[],2,0.0
+2022060310,1,['https://twitter.com/Am47581045/status/1589972773270847489'],['scam'],[],2,0.0
+7477620429,1,['https://twitter.com/mo16031542/status/1589962110276341760'],[],[],1,0.0
+8250535266,1,['https://twitter.com/mo16031542/status/1589962110276341760'],[],[],1,0.0
+8787661942,1,['https://twitter.com/KalipadhaD/status/1589938987388784640'],[],[],0,0.0
+8918094610,1,['https://twitter.com/docsauravdas/status/1589932669642903552'],['scam'],[],0,0.0
+9002580910,1,['https://twitter.com/AmitTiw40840191/status/1589921630306054145'],['scam'],[],0,0.0
+8991027310,1,['https://twitter.com/Shaikhanassssss/status/1589917835572449280'],[],[],2,0.0
+1021073291,1,['https://twitter.com/Shaikhanassssss/status/1589917835572449280'],[],[],2,0.0
+4042228427,1,['https://twitter.com/Shaikhanassssss/status/1589917835572449280'],[],[],2,0.0
+9820066885,1,['https://twitter.com/Shaikhanassssss/status/1589917835572449280'],[],[],2,0.0
+9569017452,1,['https://twitter.com/Barjinder0001/status/1589910375520415745'],[],[],0,0.0
+7065806565,1,['https://twitter.com/mdrsdakr/status/1589893009914855424'],[],[],0,0.0
+0700377738,1,['https://twitter.com/ITCHANDAN1/status/1589880073016213504'],[],[],1,0.0
+2291122005,1,['https://twitter.com/kvv_chennai/status/1589872886894194688'],[],[],0,0.0
+0738056843,1,['https://twitter.com/qaum_e/status/1589869167880318982'],[],[],1,0.0
+0775392378,1,['https://twitter.com/qaum_e/status/1589869167880318982'],[],[],1,0.0
+8116529396,1,['https://twitter.com/TavishiGhosh/status/1589869145516310528'],[],[],1,0.0
+7439230627,1,['https://twitter.com/itzchaurasia29/status/1589854707690115073'],[],[],1,0.0
+9608251927,1,['https://twitter.com/upsrathore/status/1589850665299628034'],['scam'],[],0,0.0
+3310922007,1,['https://twitter.com/tandon18/status/1589846483742109697'],[],[],0,0.0
+7750863522,1,['https://twitter.com/OgauravOberoi/status/1589843875392520193'],[],[],1,0.0
+0811202210,1,['https://twitter.com/OgauravOberoi/status/1589843875392520193'],[],[],1,0.0
+1800258616,1,['https://twitter.com/OgauravOberoi/status/1589843875392520193'],[],[],1,0.0
+6297510094,1,['https://twitter.com/subhransu_news/status/1589838116688646144'],[],[],0,0.0
+2310662204,1,['https://twitter.com/Ashutos78901641/status/1589834292980748292'],[],[],1,0.0
+0611202218,1,['https://twitter.com/Ashutos78901641/status/1589834292980748292'],[],[],1,0.0
+9188252333,1,['https://twitter.com/Ashutos78901641/status/1589834292980748292'],[],[],1,0.0
+9990285655,1,['https://twitter.com/abhay_1997_02/status/1589821911265312771'],[],[],1,0.0
+5000420000,1,['https://twitter.com/abhay_1997_02/status/1589821911265312771'],[],[],1,0.0
+9928721256,1,['https://twitter.com/Viveka_TN/status/1589769660286672897'],['scam'],[],1,0.0
+7388906431,1,['https://twitter.com/shamik_sen/status/1589738847197630466'],[],[],1,0.0
+2308308865,1,['https://twitter.com/shamik_sen/status/1589738847197630466'],[],[],1,0.0
+1010454209,1,['https://twitter.com/DigitalSunilSah/status/1589644883660525569'],[],[],0,0.0
