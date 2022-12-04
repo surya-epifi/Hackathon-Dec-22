@@ -2,6 +2,7 @@
 from ScammerHuntCore.models import *
 from ScammerHuntCore.controllers.processScore import get_score
 from ScammerHuntCore.util.utilities import get_sentiment_score
+from ScammerHuntCore.util.utilities import get_info_from
 
 def contains_keyword(content):
     for keyword in Keywords.objects.all():
@@ -20,6 +21,13 @@ def record_data(phone_number, mentioned_users_in_tweet, reference_link, content,
 
     # Scammer
     scammer, scammer_created = Scammer.objects.get_or_create(phone_number=phone_number)
+    if scammer_created:
+        timezone, carrier, geocoder = get_info_from(phone_number)
+        scammer.timezone = timezone
+        scammer.carrier = carrier
+        scammer.geocoder = geocoder
+        scammer.save()
+
     data.scammer.add(scammer)
 
     # Keywords

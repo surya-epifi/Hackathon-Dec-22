@@ -28,3 +28,6 @@ class Scammer(models.Model):
     name = models.CharField(max_length=300, default='')
     phone_number = models.CharField(max_length=300, primary_key=True)
     email = models.CharField(max_length=300, default='')
+    timezone = models.CharField(max_length=300, default='')
+    carrier = models.CharField(max_length=300, default='')
+    geocoder = models.CharField(max_length=300, default='')

@@ -11,6 +11,9 @@ brew install tesseract
 pip install -U textblob
 python -m textblob.download_corpora
 
+## Phone number analysis
+pip3.9 install phonenumbers
+
 ## Install python 3.8
 brew update
 brew install pyenv

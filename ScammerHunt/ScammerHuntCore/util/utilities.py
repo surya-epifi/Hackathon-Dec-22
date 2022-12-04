@@ -3,7 +3,8 @@ import io
 import requests
 import pytesseract
 from PIL import Image
-
+import phonenumbers
+from phonenumbers import carrier, geocoder, timezone
 from textblob import TextBlob
 
 def get_phone_number(text):
@@ -46,3 +47,12 @@ def get_sentiment_score(content):
         total_sentiment_polarity += sentence.sentiment.polarity
     average_sentiment_polarity = total_sentiment_polarity / len(blob.sentences)
     return average_sentiment_polarity
+
+def get_info_from(phone_number):
+    mobileNo=phonenumbers.parse(phone_number)
+    timezone = timezone.time_zones_for_number(mobileNo)
+    carrier = carrier.name_for_number(mobileNo,"en")
+    geocoder = geocoder.description_for_number(mobileNo,"en")
+    
+    return (timezone, carrier, geocoder)
+    
