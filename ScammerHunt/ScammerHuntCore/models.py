@@ -19,7 +19,7 @@ class ScrapeData(models.Model):
 
     text_data = models.TextField()
     score = models.IntegerField(default=0)
-    sentiment_score = models.IntegerField(default=0)
+    sentiment_score = models.FloatField(default=0.0)
     scammer = models.ManyToManyField("Scammer")
     reference_link = models.TextField(default='', primary_key=True, unique=True)
     reply_count = models.IntegerField(default=0)

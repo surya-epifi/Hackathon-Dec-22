@@ -58,9 +58,11 @@ def record_data(phone_number, mentioned_users_in_tweet, reference_link, content,
     # Keywords
     all_keyword_mentioning_of_this_scammer = []
     keyword_ids = ScrapeData.objects.filter(scammer=scammer).values_list('keywords', flat=True).distinct()
+    
     for keyword_id in keyword_ids:
-        keyword_name = Keywords.objects.get(id=keyword_id).name
-        all_keyword_mentioning_of_this_scammer.append(keyword_name)
+        if keyword_id:
+            keyword_name = Keywords.objects.get(id=keyword_id).name
+            all_keyword_mentioning_of_this_scammer.append(keyword_name)
 
     # Scores
     score = get_score(mentioned_users=mentioned_users, keywords=all_keyword_mentioning_of_this_scammer, tweet_ids=tweet_ids, reply_count=reply_count, retweets_count=retweet_count, like_count=like_count)
