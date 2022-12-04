@@ -55,8 +55,9 @@ def record_data(phone_number, mentioned_users_in_tweet, reference_link, content,
     mentioned_users = []
     for mentioned_user in mentioned_users_in_tweet:
         username = mentioned_user.username
-        user = PriorityUser.objects.filter(username__icontains=username)
-        if user:
+        users = PriorityUser.objects.filter(username__icontains=username)
+        if users:
+            user = users.first()
             mentioned_users.append(username)
             data.mentioned_users.add(user)
 

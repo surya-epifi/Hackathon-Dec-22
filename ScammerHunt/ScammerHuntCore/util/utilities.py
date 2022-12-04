@@ -52,7 +52,7 @@ def get_upi_ids(text):
             if upi[1] in upiHandles:
                 identifiedUpiHandles.append(word)            
         except IndexError:
-            print()
+            pass
     return identifiedUpiHandles
 
 # Testing
