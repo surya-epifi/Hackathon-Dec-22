@@ -41,6 +41,24 @@ def imageToText(url):
 # text = imageToText("https://pbs.twimg.com/media/FiZ8PQKVQAEOkaC?format=jpg&name=small")
 # print(text)
 
+def get_upi_ids(text):
+    upiHandles = ["apl", "yapl", "abfspay", "abfspay", "fbl", "axisb", "idfcbank", "icici", "okaxis", "okhdfcbank", "okicici", "oksbi", "axisbank", "jupiteraxis", "icici", "indus", "ikwik", "ybl", "ibl", "axl", "pingpay", "icici", "sliceaxis", "kmbl", "tapicici", "timecosmos", "yesbank", "idfcbank", "waicici", "icici", "waaxis", "wahdfcbank", "wasbi", "yesbank"]
+    words = text.split(' ')
+    identifiedUpiHandles = []
+    for word in words:
+        word = word.replace('.', '')
+        upi = word.split('@')
+        try:
+            if upi[1] in upiHandles:
+                identifiedUpiHandles.append(word)            
+        except IndexError:
+            print()
+    return identifiedUpiHandles
+
+# Testing
+# upires = get_upi_ids("Hello my upi id is abc@okhdfcbank.")            
+# print(upires)
+
 def get_sentiment_score(content):
     blob = TextBlob(content)
     total_sentiment_polarity = 0
