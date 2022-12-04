@@ -8,13 +8,13 @@ def get_all_phone_numbers(tweet):
 
     if tweet.media:
         for media in tweet.media:
-            media_url = media.fullUrl
-            tweet_content = imageToText(media_url)
-            image_phone_numbers = get_phone_number(tweet_content)
-            if len(image_phone_numbers) > 0 :
-                print('Found these numbers in tweet Image. ', image_phone_numbers)
-                phone_numbers += image_phone_numbers
-    
+            if isinstance(media, sntwitter.Photo): 
+                media_url = media.fullUrl
+                tweet_content = imageToText(media_url)
+                image_phone_numbers = get_phone_number(tweet_content)
+                if len(image_phone_numbers) > 0 :
+                    print('Found these numbers in tweet Image. ', image_phone_numbers)
+                    phone_numbers += image_phone_numbers
     return phone_numbers
 
 def is_scam_related_tweet(tweet, phone_numbers):

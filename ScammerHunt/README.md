@@ -31,6 +31,11 @@ python3.9 -m pip install django
 ## Runserver
 python3.9 manage.py runserver 0.0.0.0:2200
 
+## Django admin
+http://0.0.0.0:2200/admin/
+username: team
+password: team
+
 ## Run 
 python3.9 manage.py shell < start.py
 
