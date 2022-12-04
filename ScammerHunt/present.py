@@ -37,4 +37,8 @@ with open('scammers_list.csv', 'w', newline='') as file:
 
         # Write
         print('Added recored for ', phone_number)
+
+        keywords = list(set(keywords))
+        mentions = list(set(mentions))
+        
         writer.writerow([phone_number, num_complaints_reported, reference_urls, keywords, mentions, score, avg_sentiment_score])
