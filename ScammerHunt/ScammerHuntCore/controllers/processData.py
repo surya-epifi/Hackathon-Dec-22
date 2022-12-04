@@ -22,7 +22,7 @@ def record_data(phone_number, mentioned_users_in_tweet, reference_link, content,
     # Scammer
     scammer, scammer_created = Scammer.objects.get_or_create(phone_number=phone_number)
     if scammer_created:
-        timezone, carrier, geocoder = get_info_from(phone_number)
+        timezone, carrier, geocoder = get_info_from("+91" + phone_number)
         scammer.timezone = timezone
         scammer.carrier = carrier
         scammer.geocoder = geocoder

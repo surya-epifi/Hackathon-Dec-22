@@ -50,9 +50,9 @@ def get_sentiment_score(content):
 
 def get_info_from(phone_number):
     mobileNo=phonenumbers.parse(phone_number)
-    timezone = timezone.time_zones_for_number(mobileNo)
-    carrier = carrier.name_for_number(mobileNo,"en")
-    geocoder = geocoder.description_for_number(mobileNo,"en")
+    timezone_value = timezone.time_zones_for_number(mobileNo)
+    carrier_value = carrier.name_for_number(mobileNo,"en")
+    geocoder_value = geocoder.description_for_number(mobileNo,"en")
     
-    return (timezone, carrier, geocoder)
+    return (timezone_value, carrier_value, geocoder_value)
     
