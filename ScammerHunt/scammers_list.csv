@@ -1,526 +1,595 @@
-Phone number,Number of complaints reported,Reference url,Keywords,Mentions,Score,Carrier,Geocoder,Timezone,Average sentiment score
-9667559520,1,['https://twitter.com/MonikaKanojia77/status/1597990532206448640'],[],[],1,,,,0.0
-9196258027,1,['https://twitter.com/MonikaKanojia77/status/1597990532206448640'],[],[],1,,,,0.0
-9184477455,1,['https://twitter.com/MonikaKanojia77/status/1597990532206448640'],[],[],1,,,,0.0
-7290022078,1,['https://twitter.com/MonikaKanojia77/status/1597990532206448640'],[],[],1,Vodafone,India,"('Asia/Calcutta',)",0.0
-9832450548,2,"['https://twitter.com/AnkitSTiwari2/status/1597972418391584768', 'https://twitter.com/Again_retweeted/status/1589955926110633987']",['scam'],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9641143643,1,['https://twitter.com/SanjeevJEC/status/1597960164124274690'],[],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8867634267,1,['https://twitter.com/reguntha/status/1597944869141741571'],[],[],1,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-9875673799,1,['https://twitter.com/reguntha/status/1597944869141741571'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9155229289,1,['https://twitter.com/itsme_Ammu/status/1597939151546220544'],[],[],1,Telewings,India,"('Asia/Calcutta',)",0.0
-9163153869,1,['https://twitter.com/itsme_Ammu/status/1597935007548420096'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-1530000100,1,['https://twitter.com/dimpu05/status/1597929793840087040'],[],[],1,,,"('Etc/Unknown',)",0.0
-9915206547,1,['https://twitter.com/tanna_jig/status/1597916223144022018'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-7852937001,1,['https://twitter.com/atish_nayak/status/1597901044402782208'],[],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7411013324,1,['https://twitter.com/atish_nayak/status/1597901044402782208'],[],[],2,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-8287155489,1,['https://twitter.com/AmolKhanorkar/status/1597899362088411138'],['scam'],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7698415011,1,['https://twitter.com/EmailShoaib/status/1597886896092614657'],['scam'],[],1,Idea,India,"('Asia/Calcutta',)",0.0
-7028952506,1,['https://twitter.com/EmailShoaib/status/1597886896092614657'],['scam'],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-8867350795,1,['https://twitter.com/skchoudhary2007/status/1597873864222347264'],[],[],1,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-3270722001,2,"['https://twitter.com/BrijrajNagar6/status/1597861389112336384', 'https://twitter.com/BrijrajNagar6/status/1597649937915056128']",[],[],1,,,"('Etc/Unknown',)",0.0
-9749811691,1,['https://twitter.com/BrijrajNagar6/status/1597861389112336384'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2186437166,1,['https://twitter.com/BrijrajNagar6/status/1597861389112336384'],[],[],1,,"Pandharpur, Maharashtra","('Asia/Calcutta',)",0.0
-8535034868,1,['https://twitter.com/juvin47/status/1597860201125666816'],['scam'],[],1,Idea,India,"('Asia/Calcutta',)",0.0
-8106967746,1,['https://twitter.com/ady24mm/status/1597853491795722240'],['scam'],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-7082346998,1,['https://twitter.com/JavedAl75822320/status/1597836643041693696'],['scam'],[],2,Airtel,India,"('Asia/Calcutta',)",0.0
-0629556861,1,['https://twitter.com/adwaitainapure/status/1597826792047357953'],[],[],1,,,"('Etc/Unknown',)",0.0
-9315334024,7,"['https://twitter.com/abhayagrawal30/status/1597823181808881665', 'https://twitter.com/abhayagrawal30/status/1597086330722619393', 'https://twitter.com/abhayagrawal30/status/1595247313639079936', 'https://twitter.com/abhayagrawal30/status/1593413794159800320', 'https://twitter.com/abhayagrawal30/status/1592724038677594112', 'https://twitter.com/abhayagrawal30/status/1592034082506309632', 'https://twitter.com/abhayagrawal30/status/1590544904144711680']",[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-6289041842,1,['https://twitter.com/Amy1Rajput/status/1597594010834841608'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8240722973,1,['https://twitter.com/Amy1Rajput/status/1597594010834841608'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9123728656,1,['https://twitter.com/26Arpit/status/1597586117439561728'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8279818835,1,['https://twitter.com/yogtoday/status/1597560103410229248'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-0827981883,1,['https://twitter.com/yogtoday/status/1597560103410229248'],[],[],1,,,"('Etc/Unknown',)",0.0
-2211291414,1,['https://twitter.com/RishuGu83871104/status/1597548408428191744'],['scam'],[],1,,,"('Etc/Unknown',)",0.0
-0287056377,1,['https://twitter.com/RishuGu83871104/status/1597548408428191744'],['scam'],[],1,,,"('Etc/Unknown',)",0.0
-2333271552,1,['https://twitter.com/RishuGu83871104/status/1597548408428191744'],['scam'],[],1,,"Sangli, Maharashtra","('Asia/Calcutta',)",0.0
-6372186653,1,['https://twitter.com/RanjanKumar4u/status/1597543715043938305'],['scam'],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-6002111816,1,['https://twitter.com/Devansh76223827/status/1597532283875250177'],['scam'],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-6002111832,1,['https://twitter.com/Devansh76223827/status/1597532283875250177'],['scam'],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9757085844,1,['https://twitter.com/Devansh76223827/status/1597532283875250177'],['scam'],[],2,MTNL,India,"('Asia/Calcutta',)",0.0
-7091606928,1,['https://twitter.com/Devansh76223827/status/1597532283875250177'],['scam'],[],2,Airtel,India,"('Asia/Calcutta',)",0.0
-9039263642,1,['https://twitter.com/anildev12/status/1597519911425019904'],[],[],1,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-2200041487,1,['https://twitter.com/adv_vikastiwari/status/1597497201680617473'],[],[],2,,,"('Etc/Unknown',)",0.0
-9987765535,1,['https://twitter.com/adv_vikastiwari/status/1597497201680617473'],[],[],2,Airtel,India,"('Asia/Calcutta',)",0.0
-8240244629,1,['https://twitter.com/SayyedA47137679/status/1597472493065105408'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-3080222000,1,['https://twitter.com/PawanKda/status/1597225757004398592'],[],[],1,,,"('Etc/Unknown',)",0.0
-8260910266,1,['https://twitter.com/uniqueSoul_usha/status/1597187489340747778'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9701572922,1,['https://twitter.com/jasshu7/status/1597161906556801024'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-0970157292,1,['https://twitter.com/jasshu7/status/1597161906556801024'],[],[],1,,,"('Etc/Unknown',)",0.0
-8867462691,1,['https://twitter.com/HimmatPurohit5/status/1597153469512953858'],['scam'],[],1,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-8670422571,1,['https://twitter.com/HimmatPurohit5/status/1597153469512953858'],['scam'],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-7019920736,1,['https://twitter.com/lavanyadeepak/status/1597153426789396481'],['scam'],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9155422838,1,['https://twitter.com/Andyk02433859/status/1597133944507748352'],[],[],1,Telewings,India,"('Asia/Calcutta',)",0.0
-7461077371,1,['https://twitter.com/adraj/status/1597121907563761664'],['scam'],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-0998953740,1,['https://twitter.com/adraj/status/1597121907563761664'],['scam'],[],1,,,"('Etc/Unknown',)",0.0
-0841586754,1,['https://twitter.com/adraj/status/1597121907563761664'],['scam'],[],1,,,"('Etc/Unknown',)",0.0
-7003912895,1,['https://twitter.com/adraj/status/1597121907563761664'],['scam'],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7526971956,1,['https://twitter.com/Imlionslamb/status/1597102794565357568'],[],[],2,Idea,India,"('Asia/Calcutta',)",0.0
-7200864257,1,['https://twitter.com/jangidvikram51/status/1597079375278911488'],['scam'],[],1,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-9692691709,1,['https://twitter.com/Mukulkmr13/status/1596867660951977984'],['scam'],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2022112343,1,['https://twitter.com/s415h1n63/status/1596862436828598272'],['scam'],[],1,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-7005938906,1,['https://twitter.com/Haritham16/status/1596840271018602498'],['scam'],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7388581203,1,['https://twitter.com/HossainFirdoush/status/1596799874070036485'],['scam'],[],0,Airtel,India,"('Asia/Calcutta',)",0.0
-9875474566,1,['https://twitter.com/bridge_forever/status/1596797130114334726'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-6207876915,1,['https://twitter.com/AmitNirbhaya/status/1596795936055132161'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-0891056116,1,['https://twitter.com/AmitNirbhaya/status/1596795936055132161'],[],[],1,,,"('Etc/Unknown',)",0.0
-0620787691,1,['https://twitter.com/AmitNirbhaya/status/1596795936055132161'],[],[],1,,,"('Etc/Unknown',)",0.0
-8910561164,1,['https://twitter.com/AmitNirbhaya/status/1596795936055132161'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9878994647,1,['https://twitter.com/Naanu_Yo/status/1596793679435296768'],['scam'],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-0987899464,1,['https://twitter.com/Naanu_Yo/status/1596793679435296768'],['scam'],[],1,,,"('Etc/Unknown',)",0.0
-6232178951,1,['https://twitter.com/MaheshK6210/status/1596793584497590276'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-9861200198,1,['https://twitter.com/MaheshK6210/status/1596793584497590276'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7583913188,1,['https://twitter.com/MaheshK6210/status/1596793584497590276'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-8690778771,1,['https://twitter.com/Jaswant20194170/status/1596778543525961729'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-8896717365,1,['https://twitter.com/Jaswant20194170/status/1596778543525961729'],[],[],1,Aircel,India,"('Asia/Calcutta',)",0.0
-7002014800,1,['https://twitter.com/seshvis/status/1596771179528073217'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-5010255513,1,['https://twitter.com/AmanGoe94451508/status/1596769693893038080'],['scam'],[],1,,,"('Etc/Unknown',)",0.0
-5010025551,1,['https://twitter.com/AmanGoe94451508/status/1596769693893038080'],['scam'],[],1,,,"('Etc/Unknown',)",0.0
-7042605600,1,['https://twitter.com/MuradAli1997/status/1596762466150555648'],['scam'],[],0,Airtel,India,"('Asia/Calcutta',)",0.0
-8106159212,1,['https://twitter.com/prem_all/status/1596749427192246275'],['scam'],[],0,Airtel,India,"('Asia/Calcutta',)",0.0
-9935661529,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,Airtel,India,"('Asia/Calcutta',)",0.0
-6295477792,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2004166489,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,,,"('Etc/Unknown',)",0.0
-5123010000,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,,"Kanpur, Uttar Pradesh","('Asia/Calcutta',)",0.0
-0629547779,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,,,"('Etc/Unknown',)",0.0
-6370814726,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2004466489,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,,,"('Etc/Unknown',)",0.0
-4062954777,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,,"Hyderabad Local, Andhra Pradesh","('Asia/Calcutta',)",0.0
-9263708147,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2397252040,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],[],[],2,,,"('Etc/Unknown',)",0.0
-8955140321,1,['https://twitter.com/harship29/status/1596601786944884736'],['scam'],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2325462428,1,['https://twitter.com/harship29/status/1596601786944884736'],['scam'],[],2,,"Kagal/Murgud, Maharashtra","('Asia/Calcutta',)",0.0
-8918218697,1,['https://twitter.com/keshav88khatri/status/1596566324129705986'],['scam'],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7566701895,1,['https://twitter.com/AyshaBano18/status/1596499890452201474'],[],[],1,Vodafone,India,"('Asia/Calcutta',)",0.0
-7610122029,1,['https://twitter.com/AyshaBano18/status/1596499890452201474'],[],[],1,Idea,India,"('Asia/Calcutta',)",0.0
-8723831901,2,"['https://twitter.com/sAcHaHeEra/status/1596478927949615104', 'https://twitter.com/sAcHaHeEra/status/1596432941382787072']",[],[],1,Vodafone,India,"('Asia/Calcutta',)",0.0
-9919896742,2,"['https://twitter.com/sAcHaHeEra/status/1596478927949615104', 'https://twitter.com/sAcHaHeEra/status/1596432941382787072']",[],[],1,Vodafone,India,"('Asia/Calcutta',)",0.0
-0991093917,2,"['https://twitter.com/sAcHaHeEra/status/1596478927949615104', 'https://twitter.com/sAcHaHeEra/status/1596432941382787072']",[],[],1,,,"('Etc/Unknown',)",0.0
-4774663257,1,['https://twitter.com/javid85co/status/1596476610328547328'],[],[],0,,"Alappuzha, Kerala","('Asia/Calcutta',)",0.0
-8887941903,1,['https://twitter.com/RAVINDR58412076/status/1596453699542740993'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7525073264,1,['https://twitter.com/punithcs/status/1596449198831898625'],['scam'],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-8743867273,1,['https://twitter.com/punithcs/status/1596449198831898625'],['scam'],[],1,Idea,India,"('Asia/Calcutta',)",0.0
-3161022001,1,['https://twitter.com/punithcs/status/1596449198831898625'],['scam'],[],1,,,"('Etc/Unknown',)",0.0
-8160464863,1,['https://twitter.com/Thinq__/status/1596448269483532288'],['scam'],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8918052204,1,['https://twitter.com/DDS_Ketki/status/1596444147283816448'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2311122008,5,"['https://twitter.com/shashisharan11/status/1596413872860467201', 'https://twitter.com/SyedShahwazRaza/status/1593971537077760001', 'https://twitter.com/Manojs_mishra/status/1593849188986802177', 'https://twitter.com/ideepaksharmaa/status/1593196603292389376', 'https://twitter.com/Deeplifejoy/status/1591510569605296128']",['scam'],[],0,,,"('Etc/Unknown',)",0.0
-9560073762,1,['https://twitter.com/RaviSChauhan/status/1596409336167034882'],['scam'],[],0,Airtel,India,"('Asia/Calcutta',)",0.0
-0015122022,1,['https://twitter.com/the15thjob/status/1596404751490756608'],[],[],0,,,"('Etc/Unknown',)",0.0
-8100285850,1,['https://twitter.com/tweetbycharanc/status/1596369826028539904'],['scam'],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-0810028585,1,['https://twitter.com/tweetbycharanc/status/1596369826028539904'],['scam'],[],1,,,"('Etc/Unknown',)",0.0
-8373950035,1,['https://twitter.com/goutham5775/status/1596329936822108160'],[],[],1,Vodafone,India,"('Asia/Calcutta',)",0.0
-9990530906,1,['https://twitter.com/goutham5775/status/1596329936822108160'],[],[],1,Idea,India,"('Asia/Calcutta',)",0.0
-9454609877,2,"['https://twitter.com/AryanKh41216999/status/1596314512814387200', 'https://twitter.com/AryanKh41216999/status/1596306750726057984']",[],[],1,BSNL MOBILE,India,"('Asia/Calcutta',)",0.0
-1665689500,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,,India,"('Asia/Calcutta',)",0.0
-2022101401,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-1665689230,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,,India,"('Asia/Calcutta',)",0.0
-2022101400,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-1665657796,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,,India,"('Asia/Calcutta',)",0.0
-2022101316,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-1665634798,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,,India,"('Asia/Calcutta',)",0.0
-2022101309,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-1665634584,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,,India,"('Asia/Calcutta',)",0.0
-1665634577,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],[],[],1,,India,"('Asia/Calcutta',)",0.0
-2022230110,1,['https://twitter.com/shanx85/status/1596212777638858753'],[],[],2,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-8918847764,1,['https://twitter.com/shanx85/status/1596212777638858753'],[],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2241122001,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,Mumbai,"('Asia/Calcutta',)",0.0
-2022112414,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-5115512044,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,"Ghatampur, Uttar Pradesh","('Asia/Calcutta',)",0.0
-5216669240,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,India,"('Asia/Calcutta',)",0.0
-5000150001,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,,"('Etc/Unknown',)",0.0
-0000300001,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,,"('Etc/Unknown',)",0.0
-5000450002,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,,"('Etc/Unknown',)",0.0
-0000600002,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,,"('Etc/Unknown',)",0.0
-5000750003,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,,"('Etc/Unknown',)",0.0
-0000900004,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,,"('Etc/Unknown',)",0.0
-2000050000,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,,"('Etc/Unknown',)",0.0
-5000010000,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,,"('Etc/Unknown',)",0.0
-3200001250,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,,"('Etc/Unknown',)",0.0
-5614009738,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,,"('Etc/Unknown',)",0.0
-2022112415,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-0242767658,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,,"('Etc/Unknown',)",0.0
-5031804598,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,,"('Etc/Unknown',)",0.0
-2573634740,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,"Jalgaon, Maharashtra","('Asia/Calcutta',)",0.0
-6359047502,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,Vodafone,India,"('Asia/Calcutta',)",0.0
-2010187068,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],[],[],1,,,"('Etc/Unknown',)",0.0
-3271122003,2,"['https://twitter.com/Sandeep78663564/status/1596133558242140161', 'https://twitter.com/GuruPra02922150/status/1591483139083632640']",[],[],1,,,"('Etc/Unknown',)",0.0
-9731056974,1,['https://twitter.com/wilson_thomas/status/1596105347076620291'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-8953556685,1,['https://twitter.com/wilson_thomas/status/1596105347076620291'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-3919524357,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],['scam'],[],1,,,"('Etc/Unknown',)",0.0
-3896085960,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],['scam'],[],1,,"Aizawal, Mizoram","('Asia/Calcutta',)",0.0
-7377522620,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],['scam'],[],1,Idea,India,"('Asia/Calcutta',)",0.0
-3462629199,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],['scam'],[],1,,"Suri, West Bengal","('Asia/Calcutta',)",0.0
-3963128616,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],['scam'],[],1,,,"('Etc/Unknown',)",0.0
-1876819352,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],['scam'],[],1,,,"('Etc/Unknown',)",0.0
-7681935241,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],['scam'],[],1,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-9438717552,2,"['https://twitter.com/sdorthopod/status/1596073847463481344', 'https://twitter.com/sdorthopod/status/1596063722073915393']",[],[],1,BSNL MOBILE,India,"('Asia/Calcutta',)",0.0
-7694986265,2,"['https://twitter.com/sdorthopod/status/1596073847463481344', 'https://twitter.com/sdorthopod/status/1596063722073915393']",[],[],1,Idea,India,"('Asia/Calcutta',)",0.0
-8927455101,1,['https://twitter.com/dev_sonar/status/1596064065906184195'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2023713909,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-5596010148,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,,,"('Etc/Unknown',)",0.0
-9170100461,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,Telewings,India,"('Asia/Calcutta',)",0.0
-4182100016,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,,,"('Etc/Unknown',)",0.0
-8527615038,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-2232581812,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,,Mumbai,"('Asia/Calcutta',)",0.0
-0000002023,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,,,"('Etc/Unknown',)",0.0
-9185276150,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,BSNL MOBILE,India,"('Asia/Calcutta',)",0.0
-0001536063,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,,,"('Etc/Unknown',)",0.0
-6100921453,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,,India,"('Asia/Calcutta',)",0.0
-2325818259,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,,,"('Etc/Unknown',)",0.0
-6100921455,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,,India,"('Asia/Calcutta',)",0.0
-2325818260,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,,,"('Etc/Unknown',)",0.0
-7139092918,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,,India,"('Asia/Calcutta',)",0.0
-2341220008,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],[],[],1,,"Kavathemankal, Maharashtra","('Asia/Calcutta',)",0.0
-9064722733,1,['https://twitter.com/dev_786/status/1596041697833910274'],['scam'],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-3320306252,1,['https://twitter.com/sagarparte5/status/1596018671868346368'],[],[],1,,"Kolkata, West Bengal","('Asia/Calcutta',)",0.0
-8099319097,1,['https://twitter.com/kumarsom_/status/1596014071421468672'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8708768911,1,['https://twitter.com/Padamsales/status/1596000586654048256'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9324877686,1,['https://twitter.com/ribhurix/status/1595995567523770368'],['scam'],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8894687390,1,['https://twitter.com/AmanVermaB1/status/1595938514289721344'],['scam'],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-9560074941,1,['https://twitter.com/AmanVermaB1/status/1595938514289721344'],['scam'],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-3130922001,1,['https://twitter.com/Ajeetpatel1985/status/1595898304591978496'],[],[],1,,,"('Etc/Unknown',)",0.0
-2320822001,1,['https://twitter.com/RavindraSaraog1/status/1595858773725224960'],[],[],0,,,"('Etc/Unknown',)",0.0
-3311122009,1,['https://twitter.com/ahmadiqbal1112/status/1595790852605243392'],[],[],1,,,"('Etc/Unknown',)",0.0
-0001313125,1,['https://twitter.com/ahmadiqbal1112/status/1595790852605243392'],[],[],1,,,"('Etc/Unknown',)",0.0
-0743934552,1,['https://twitter.com/rnjangra/status/1595789034093424640'],[],[],0,,,"('Etc/Unknown',)",0.0
-6291401984,1,['https://twitter.com/BrahmanUvacha/status/1595783678524735488'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8638963838,1,['https://twitter.com/ChandrasenPand2/status/1595756680780091392'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9330346142,1,['https://twitter.com/GautamJ88331500/status/1595753873817206784'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2081122007,1,['https://twitter.com/the15thjob/status/1595739548130369536'],[],[],0,,,"('Etc/Unknown',)",0.0
-8368632565,1,['https://twitter.com/imsaurabhsingla/status/1595699273316065280'],['scam'],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-3270822002,1,['https://twitter.com/Kriplani18Anil/status/1595692645594304512'],[],[],0,,,"('Etc/Unknown',)",0.0
-7973249882,1,['https://twitter.com/TheRahulSI/status/1595685762984718338'],['scam'],[],0,Reliance Jio,"Ahmedabad Local, Gujarat","('Asia/Calcutta',)",0.0
-8815251217,1,['https://twitter.com/ckr143/status/1595663944680878080'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-3455250327,1,['https://twitter.com/PGISandeep/status/1595628935668125696'],[],[],1,,India,"('Asia/Calcutta',)",0.0
-2251122001,4,"['https://twitter.com/RohitKumar75754/status/1595609678167539713', 'https://twitter.com/AnilKatri/status/1593502052147085314', 'https://twitter.com/RohitKumar75754/status/1593258789482156032', 'https://twitter.com/Ankur22Sharma/status/1590292578481876992']",[],[],1,,Mumbai,"('Asia/Calcutta',)",0.0
-9651393306,2,"['https://twitter.com/RohitKumar75754/status/1595609678167539713', 'https://twitter.com/RohitKumar75754/status/1593258789482156032']",[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-2155902894,2,"['https://twitter.com/RohitKumar75754/status/1595609678167539713', 'https://twitter.com/RohitKumar75754/status/1593258789482156032']",[],[],1,,"Navi Mumbai/Turbhe, Maharashtra","('Asia/Calcutta',)",0.0
-7717364774,1,['https://twitter.com/RohitKumar75754/status/1595609678167539713'],[],[],1,Reliance Jio,"Raipur, Madhya Pradesh","('Asia/Calcutta',)",0.0
-3165002207,1,['https://twitter.com/Neeraj22Y/status/1595571120815894528'],[],[],1,,,"('Etc/Unknown',)",0.0
-1227297007,1,['https://twitter.com/suniljalli_88/status/1595519880790683648'],['scam'],[],2,,"Hapur, Uttar Pradesh","('Asia/Calcutta',)",0.0
-8382849918,1,['https://twitter.com/suniljalli_88/status/1595519880790683648'],['scam'],[],2,Telewings,India,"('Asia/Calcutta',)",0.0
-1227007007,1,['https://twitter.com/suniljalli_88/status/1595519880790683648'],['scam'],[],2,,"Hapur, Uttar Pradesh","('Asia/Calcutta',)",0.0
-9179976530,1,['https://twitter.com/suniljalli_88/status/1595519880790683648'],['scam'],[],2,Airtel,India,"('Asia/Calcutta',)",0.0
-9111374067,1,['https://twitter.com/FaizAnsari777/status/1595515572766113792'],['scam'],[],1,Idea,India,"('Asia/Calcutta',)",0.0
-8922898322,2,"['https://twitter.com/_thefine/status/1595391674167209984', 'https://twitter.com/Hanishhsharma/status/1595378986057883649']",['scam'],[],1,Telewings,India,"('Asia/Calcutta',)",0.0
-8922893322,1,['https://twitter.com/Hanishhsharma/status/1595378986057883649'],['scam'],[],1,Telewings,India,"('Asia/Calcutta',)",0.0
-6263449197,1,['https://twitter.com/gilligillii/status/1595369812829474817'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8271392573,1,['https://twitter.com/7ashwanikaushik/status/1595363899737804804'],['scam'],[],0,Telewings,India,"('Asia/Calcutta',)",0.0
-7275701537,1,['https://twitter.com/ordinaryboyrhl/status/1595361072273559552'],[],[],0,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-7083953486,1,['https://twitter.com/iVicky024/status/1595330572741922817'],[],[],0,Idea,India,"('Asia/Calcutta',)",0.0
-0738175418,1,['https://twitter.com/smrutidash76gm1/status/1595326759536562176'],['scam'],[],0,,,"('Etc/Unknown',)",0.0
-9382246755,1,['https://twitter.com/ncjatin/status/1595319136875589633'],['scam'],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8218820350,1,['https://twitter.com/KajalHastiyan/status/1595318305711001600'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-0700334244,1,['https://twitter.com/Saurabh55941315/status/1595310712783790080'],[],[],0,,,"('Etc/Unknown',)",0.0
-9321200207,1,['https://twitter.com/VidhiSanghvi02/status/1595291095046709248'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9038557401,1,['https://twitter.com/nrokda/status/1595283186250297345'],[],[],0,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-2051022002,1,['https://twitter.com/soulless_subbu/status/1595065997580722177'],[],[],1,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-9431820409,1,['https://twitter.com/soulless_subbu/status/1595065997580722177'],[],[],1,BSNL MOBILE,India,"('Asia/Calcutta',)",0.0
-9302004411,1,['https://twitter.com/Shahjahan_bhai/status/1595060557119655943'],[],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-6353288068,1,['https://twitter.com/Shahjahan_bhai/status/1595060557119655943'],[],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8439182293,1,['https://twitter.com/im_lovesharma/status/1595005017014296577'],['scam'],[],2,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-9641119172,1,['https://twitter.com/im_lovesharma/status/1595005017014296577'],['scam'],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7842903796,1,['https://twitter.com/Ankur200300/status/1594940388221292544'],[],[],1,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-7908970463,1,['https://twitter.com/Ankur200300/status/1594940388221292544'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8250006839,1,['https://twitter.com/Deepaks002t/status/1594913893700075520'],['scam'],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-0825000683,1,['https://twitter.com/Deepaks002t/status/1594913893700075520'],['scam'],[],1,,,"('Etc/Unknown',)",0.0
-8602479544,1,['https://twitter.com/anubhavmehta/status/1594714603711172608'],['scam'],[],0,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-8273786166,1,['https://twitter.com/Sonuanna13/status/1594712029209587712'],[],[],2,Telewings,India,"('Asia/Calcutta',)",0.0
-2022112118,1,['https://twitter.com/Sonuanna13/status/1594712029209587712'],[],[],2,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-2325593067,1,['https://twitter.com/Sonuanna13/status/1594712029209587712'],[],[],2,,"Kagal/Murgud, Maharashtra","('Asia/Calcutta',)",0.0
-2161022003,1,['https://twitter.com/Rsahai5/status/1594658364880928768'],['scam'],[],2,,,"('Etc/Unknown',)",0.0
-9330352932,1,['https://twitter.com/Rsahai5/status/1594658364880928768'],['scam'],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9692980179,1,['https://twitter.com/Rj6117/status/1594629183250264064'],['scam'],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7389533032,1,['https://twitter.com/yogtoday/status/1594627702341836801'],[],[],0,Airtel,India,"('Asia/Calcutta',)",0.0
-7674866840,1,['https://twitter.com/UrbanPaunch/status/1594612014193999872'],['scam'],[],0,Airtel,India,"('Asia/Calcutta',)",0.0
-6295754836,1,['https://twitter.com/SumantShekhar/status/1594604850574393344'],[],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8108311354,1,['https://twitter.com/Matinshaikh128/status/1594590982116634624'],[],[],1,Idea,India,"('Asia/Calcutta',)",0.0
-6291488461,1,['https://twitter.com/AniruddhaPolley/status/1594578650179186688'],['scam'],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7205195353,1,['https://twitter.com/IamKandarpa/status/1594573150754246663'],[],[],1,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-0324050031,1,['https://twitter.com/TYAGIHINDU/status/1594548122532782080'],[],[],2,,,"('Etc/Unknown',)",0.0
-9653129957,1,['https://twitter.com/TYAGIHINDU/status/1594548122532782080'],[],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7827519319,1,['https://twitter.com/TYAGIHINDU/status/1594548122532782080'],[],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2407220695,1,['https://twitter.com/shefaligupta23/status/1594415293413347328'],[],[],2,,India,"('Asia/Calcutta',)",0.0
-7311151851,1,['https://twitter.com/shefaligupta23/status/1594415293413347328'],[],[],2,,India,"('Asia/Calcutta',)",0.0
-6370695396,1,['https://twitter.com/varun2011kites/status/1594394892943634432'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2111122002,1,['https://twitter.com/vishalshiyal87/status/1594379512619622400'],['scam'],[],0,,,"('Etc/Unknown',)",0.0
-0779576602,1,['https://twitter.com/Rai_ka_Pahaad/status/1594376422927335426'],[],[],1,,,"('Etc/Unknown',)",0.0
-6262092662,1,['https://twitter.com/missioniasAIR1/status/1594373132655431680'],[],[],0,Idea,India,"('Asia/Calcutta',)",0.0
-2190622003,1,['https://twitter.com/PacheRuchika/status/1594305304652496896'],[],[],0,,India,"('Asia/Calcutta',)",0.0
-8910359495,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],[],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-3242200115,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],[],[],2,,"Bankura, West Bengal","('Asia/Calcutta',)",0.0
-5988382294,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],[],[],2,,,"('Etc/Unknown',)",0.0
-8800688006,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],[],[],2,Airtel,India,"('Asia/Calcutta',)",0.0
-6398480763,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],[],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-5988391928,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],[],[],2,,,"('Etc/Unknown',)",0.0
-9956616573,1,['https://twitter.com/SANTOSHRAI_NAMO/status/1594278328768245760'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-6296498702,1,['https://twitter.com/SANTOSHRAI_NAMO/status/1594278328768245760'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7338805801,1,['https://twitter.com/SANTOSHRAI_NAMO/status/1594278328768245760'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-9861286415,1,['https://twitter.com/SANTOSHRAI_NAMO/status/1594278328768245760'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8093864660,1,['https://twitter.com/SahilKrgupta5/status/1594270835644465153'],['scam'],[],1,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-8918657534,1,['https://twitter.com/vichitra_manus/status/1594263929756475393'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9038412698,1,['https://twitter.com/shailen01041981/status/1594257358385213440'],[],[],1,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-9038412837,1,['https://twitter.com/shailen01041981/status/1594257358385213440'],[],[],1,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-3643399513,1,['https://twitter.com/ChitraMehta12/status/1594246998454317056'],[],[],1,,"Shillong, Meghalaya","('Asia/Calcutta',)",0.0
-8008778826,1,['https://twitter.com/mayankkummar/status/1594208643477803010'],['scam'],[],2,Airtel,India,"('Asia/Calcutta',)",0.0
-6294194573,1,['https://twitter.com/mayankkummar/status/1594208643477803010'],['scam'],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-6204081737,1,['https://twitter.com/RuubinaShah/status/1594207665965748225'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9940570051,1,['https://twitter.com/RuubinaShah/status/1594207665965748225'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-9827578081,1,['https://twitter.com/NgryYngMan/status/1594203529551712257'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2322633828,1,['https://twitter.com/Gaurav___Sengar/status/1594036855791439873'],[],[],0,,"Shirol/Jalsingpur, Maharashtra","('Asia/Calcutta',)",0.0
-1270535855,1,['https://twitter.com/NileshNlg/status/1593972615190024192'],['scam'],[],2,,India,"('Asia/Calcutta',)",0.0
-8989325994,1,['https://twitter.com/NileshNlg/status/1593972615190024192'],['scam'],[],2,BSNL MOBILE,India,"('Asia/Calcutta',)",0.0
-3191122000,1,['https://twitter.com/deepakJeepu/status/1593957001205202944'],[],[],2,,,"('Etc/Unknown',)",0.0
-9594986515,1,['https://twitter.com/deepakJeepu/status/1593957001205202944'],[],[],2,Idea,India,"('Asia/Calcutta',)",0.0
-9650162925,1,['https://twitter.com/biswajit_ece/status/1593939793725251584'],[],[],0,Airtel,India,"('Asia/Calcutta',)",0.0
-7317423111,1,['https://twitter.com/rohalgala/status/1593924813566844929'],[],[],2,Vodafone,"Indore, Madhya Pradesh","('Asia/Calcutta',)",0.0
-8051428154,1,['https://twitter.com/rohalgala/status/1593924813566844929'],[],[],2,Vodafone,"Bangalore, Karnataka","('Asia/Calcutta',)",0.0
-9840193211,1,['https://twitter.com/SyedanwarKaifee/status/1593907250414116864'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-7074910887,1,['https://twitter.com/Kumar_3399/status/1593848052229341184'],[],[],0,Idea,India,"('Asia/Calcutta',)",0.0
-8708837100,1,['https://twitter.com/DNTBillionaire/status/1593783043466010624'],['scam'],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-5010021199,1,['https://twitter.com/ervijay_maurya/status/1593669009932697601'],[],[],0,,,"('Etc/Unknown',)",0.0
-7065679634,1,['https://twitter.com/balajisharathk1/status/1593668276445642754'],['scam'],[],2,Idea,India,"('Asia/Calcutta',)",0.0
-5156399943,1,['https://twitter.com/balajisharathk1/status/1593668276445642754'],['scam'],[],2,,"Unnao, Uttar Pradesh","('Asia/Calcutta',)",0.0
-1855923221,1,['https://twitter.com/balajisharathk1/status/1593668276445642754'],['scam'],[],2,,,"('Etc/Unknown',)",0.0
-8882428107,1,['https://twitter.com/balajisharathk1/status/1593668276445642754'],['scam'],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-1888242810,1,['https://twitter.com/balajisharathk1/status/1593668276445642754'],['scam'],[],2,,India,"('Asia/Calcutta',)",0.0
-9431171929,1,['https://twitter.com/OhalPraveen/status/1593654627840692225'],[],[],1,BSNL MOBILE,India,"('Asia/Calcutta',)",0.0
-7484989446,1,['https://twitter.com/bhuanil1993/status/1593640435154833410'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-3793661537,1,['https://twitter.com/bhuanil1993/status/1593640435154833410'],[],[],1,,"Mechuka, Arunachal Pradesh","('Asia/Calcutta',)",0.0
-7007237494,1,['https://twitter.com/bhuanil1993/status/1593640435154833410'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8453166071,1,['https://twitter.com/illogical_humor/status/1593626858846916609'],['scam'],[],0,,India,"('Asia/Calcutta',)",0.0
-9337340436,1,['https://twitter.com/boobna/status/1593617051025051648'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-0124643480,1,['https://twitter.com/pandatrisky/status/1593613577344421890'],[],[],0,,,"('Etc/Unknown',)",0.0
-1997121250,1,['https://twitter.com/ruchinmehra/status/1593598279690125312'],[],[],2,,,"('Etc/Unknown',)",0.0
-4001402204,1,['https://twitter.com/ruchinmehra/status/1593598279690125312'],[],[],2,,,"('Etc/Unknown',)",0.0
-9927270443,1,['https://twitter.com/imankurrana/status/1593577730007658496'],[],[],2,Idea,India,"('Asia/Calcutta',)",0.0
-2777743646,1,['https://twitter.com/imankurrana/status/1593577730007658496'],[],[],2,,India,"('Asia/Calcutta',)",0.0
-2022111815,1,['https://twitter.com/imankurrana/status/1593577730007658496'],[],[],2,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-9188252619,1,['https://twitter.com/imankurrana/status/1593577730007658496'],[],[],2,BSNL MOBILE,India,"('Asia/Calcutta',)",0.0
-9198370881,1,['https://twitter.com/imankurrana/status/1593577730007658496'],[],[],2,Airtel,India,"('Asia/Calcutta',)",0.0
-2777740606,1,['https://twitter.com/imankurrana/status/1593577730007658496'],[],[],2,,India,"('Asia/Calcutta',)",0.0
-9679626725,1,['https://twitter.com/AkshayRathore95/status/1593566603710722048'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-8123456434,1,['https://twitter.com/swarnajothips/status/1593566020312391681'],[],[],1,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-0041400184,1,['https://twitter.com/swarnajothips/status/1593566020312391681'],[],[],1,,,"('Etc/Unknown',)",0.0
-6822490014,1,['https://twitter.com/Upganlawar/status/1593525186556743680'],[],[],0,,"Aska, Odisha","('Asia/Calcutta',)",0.0
-2271122003,2,"['https://twitter.com/shakaalfan/status/1593501780322705408', 'https://twitter.com/Nawalsingh11238/status/1592398402402553857']",[],[],1,,Mumbai,"('Asia/Calcutta',)",0.0
-9316009596,1,['https://twitter.com/Jan_Shakti_/status/1593486959824883717'],['scam'],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-0874302158,1,['https://twitter.com/cryptoenthu007/status/1593486357615497221'],['scam'],[],0,,,"('Etc/Unknown',)",0.0
-9570576502,1,['https://twitter.com/rakeshiiita/status/1593469546916372480'],['scam'],[],0,Vodafone,India,"('Asia/Calcutta',)",0.0
-9337781760,1,['https://twitter.com/RAHULKU41786992/status/1593465370492301313'],['scam'],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8945259897,1,['https://twitter.com/BRAJRAJ31053894/status/1593309000107720704'],[],[],1,Airtel,"Tekkali/Palasa, Andhra Pradesh","('Asia/Calcutta',)",0.0
-8982346088,1,['https://twitter.com/karanbaru/status/1593294673271226369'],[],[],1,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-7005220052,1,['https://twitter.com/karanbaru/status/1593294673271226369'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9818488208,1,['https://twitter.com/sunnnyykb/status/1593284709924376576'],['scam'],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-8827813039,1,['https://twitter.com/patrakarsksingh/status/1593265478918885377'],['scam'],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-9734480959,1,['https://twitter.com/itzap7/status/1593202791878885377'],[],[],2,Vodafone,India,"('Asia/Calcutta',)",0.0
-8918641825,1,['https://twitter.com/itzap7/status/1593202791878885377'],[],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8815670247,1,['https://twitter.com/pathan_afi/status/1593201230423416832'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-1820010001,1,['https://twitter.com/tushar13111980/status/1593178408485523457'],[],[],0,,,"('Etc/Unknown',)",0.0
-9670765214,1,['https://twitter.com/TusharKannaujia/status/1593154184790302720'],['scam'],[],1,Vodafone,India,"('Asia/Calcutta',)",0.0
-6361436492,1,['https://twitter.com/ashu199019/status/1593150218375397376'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-6302382250,1,['https://twitter.com/ashu199019/status/1593150218375397376'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9482422512,1,['https://twitter.com/ashu199019/status/1593150218375397376'],[],[],1,BSNL MOBILE,India,"('Asia/Calcutta',)",0.0
-7903458202,1,['https://twitter.com/ashu199019/status/1593150218375397376'],[],[],1,Reliance Jio,"Ahmedabad Local, Gujarat","('Asia/Calcutta',)",0.0
-8828793876,1,['https://twitter.com/GaMingWithHack9/status/1593140357294088192'],['scam'],[],1,Idea,India,"('Asia/Calcutta',)",0.0
-0957057605,1,['https://twitter.com/rakeshiiita/status/1593136892572471296'],[],[],0,,,"('Etc/Unknown',)",0.0
-9142083920,1,['https://twitter.com/JOYDIPROYBARMAN/status/1593111777373741056'],[],[],2,,India,"('Asia/Calcutta',)",0.0
-7070176211,1,['https://twitter.com/JOYDIPROYBARMAN/status/1593111777373741056'],[],[],2,Airtel,India,"('Asia/Calcutta',)",0.0
-7679176211,1,['https://twitter.com/JOYDIPROYBARMAN/status/1593111777373741056'],[],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-0743936992,1,['https://twitter.com/santoshsuman123/status/1593110775455178752'],['scam'],[],0,,,"('Etc/Unknown',)",0.0
-7902026504,1,['https://twitter.com/79Prashantsingh/status/1593099253051949056'],[],[],1,Idea,India,"('Asia/Calcutta',)",0.0
-9394405083,1,['https://twitter.com/79Prashantsingh/status/1593099253051949056'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-3025573019,1,['https://twitter.com/babbarx/status/1593090245834473472'],['scam'],[],1,,,"('Etc/Unknown',)",0.0
-9019996710,1,['https://twitter.com/babbarx/status/1593090245834473472'],['scam'],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2228947237,1,['https://twitter.com/gauravsharma580/status/1593076992517500930'],[],[],1,,Mumbai,"('Asia/Calcutta',)",0.0
-3311022009,1,['https://twitter.com/gauravsharma580/status/1593076992517500930'],[],[],1,,,"('Etc/Unknown',)",0.0
-9382538986,1,['https://twitter.com/VishnuP95275701/status/1592849530512625664'],['scam'],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-6370277928,1,['https://twitter.com/Ankurgo53008067/status/1592837184163545089'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8949556501,1,['https://twitter.com/Samrinkhann98/status/1592832249015439365'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7518741949,1,['https://twitter.com/VGRastogi/status/1592830145194528768'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-8738852963,1,['https://twitter.com/VGRastogi/status/1592830145194528768'],[],[],1,Telewings,India,"('Asia/Calcutta',)",0.0
-1331112209,1,['https://twitter.com/ravidecentboy/status/1592785411788931074'],[],[],1,,,"('Etc/Unknown',)",0.0
-2022331112,1,['https://twitter.com/ravidecentboy/status/1592785411788931074'],[],[],1,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-9355078334,1,['https://twitter.com/anooptiwarifkd/status/1592781998783098880'],[],[],1,Idea,India,"('Asia/Calcutta',)",0.0
-7005777878,1,['https://twitter.com/anooptiwarifkd/status/1592781998783098880'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9382431159,1,['https://twitter.com/MOHDASRAR/status/1592767106948681731'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9915315498,1,['https://twitter.com/payyaboy/status/1592682503810469888'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-8695253363,1,['https://twitter.com/ANILSIWACH10/status/1592561828974190592'],[],[],0,Vodafone,India,"('Asia/Calcutta',)",0.0
-2022082830,1,['https://twitter.com/khajuria_s/status/1592532229607260161'],[],[],0,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-9582586588,1,['https://twitter.com/khabarmax/status/1592528337280589825'],['scam'],[],0,Vodafone,India,"('Asia/Calcutta',)",0.0
-1411220102,1,['https://twitter.com/ravindrav53/status/1592478149715316736'],[],[],1,,,"('Etc/Unknown',)",0.0
-7808222391,1,['https://twitter.com/ravindrav53/status/1592478149715316736'],[],[],1,Idea,India,"('Asia/Calcutta',)",0.0
-9784435170,1,['https://twitter.com/ravindrav53/status/1592478149715316736'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-7715051040,1,['https://twitter.com/ravindrav53/status/1592478149715316736'],[],[],1,Idea,"Raipur, Madhya Pradesh","('Asia/Calcutta',)",0.0
-8586052437,1,['https://twitter.com/Vishal902746/status/1592463123189207045'],['scam'],[],0,Vodafone,India,"('Asia/Calcutta',)",0.0
-8338930234,1,['https://twitter.com/TheBat09/status/1592446755245027335'],['scam'],[],1,Vodafone,India,"('Asia/Calcutta',)",0.0
-0915350780,1,['https://twitter.com/arjmashru/status/1592433515471470592'],[],[],1,,,"('Etc/Unknown',)",0.0
-8076727709,1,['https://twitter.com/ishan_shankar/status/1592429108121989120'],['scam'],[],1,Reliance Jio,"Bangalore, Karnataka","('Asia/Calcutta',)",0.0
-7855031877,1,['https://twitter.com/ishan_shankar/status/1592429108121989120'],['scam'],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8389985838,1,['https://twitter.com/imnomber24/status/1592409144258367488'],['scam'],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-4136736304,1,['https://twitter.com/Nawalsingh11238/status/1592398402402553857'],[],[],1,,"Pondicherry, Tamil Nadu","('Asia/Calcutta',)",0.0
-1800208989,1,['https://twitter.com/ManjeetVaTs777/status/1592153917517070336'],[],[],0,,India,"('Asia/Calcutta',)",0.0
-9355798175,1,['https://twitter.com/sardarcastic/status/1592138755682754561'],[],[],0,Idea,India,"('Asia/Calcutta',)",0.0
-9135764114,1,['https://twitter.com/dd1266a95c96405/status/1592102041534353408'],[],[],0,Idea,India,"('Asia/Calcutta',)",0.0
-9896091219,1,['https://twitter.com/anil_anipra/status/1592065206339145729'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-7005328590,1,['https://twitter.com/anil_anipra/status/1592065206339145729'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-6295056262,1,['https://twitter.com/PaulsonThomas7/status/1592017921076764672'],['scam'],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8047191200,1,['https://twitter.com/gauravbhanot7/status/1592007239069749249'],[],[],0,,"Bangalore, Karnataka","('Asia/Calcutta',)",0.0
-9833811996,1,['https://twitter.com/ZubairSayyed19/status/1591829853959245824'],[],[],1,Vodafone,India,"('Asia/Calcutta',)",0.0
-7093173252,1,['https://twitter.com/sunt_y/status/1591820254476644353'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-7001998901,2,"['https://twitter.com/MohitSabhrwal/status/1591776185478152193', 'https://twitter.com/MohitSabhrwal/status/1591775716869541888']",[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7854978055,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-6297943687,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-1312000100,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,"Muzaffarnagar, Uttar Pradesh","('Asia/Calcutta',)",0.0
-2051122002,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-4312000100,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,"Tiruchchirappalli, Tamil Nadu","('Asia/Calcutta',)",0.0
-2314780860,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,"Kolhapur, Maharashtra","('Asia/Calcutta',)",0.0
-2314349364,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,"Kolhapur, Maharashtra","('Asia/Calcutta',)",0.0
-5021002288,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,,"('Etc/Unknown',)",0.0
-2314454992,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,"Kolhapur, Maharashtra","('Asia/Calcutta',)",0.0
-2314454991,2,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966']",[],[],1,,"Kolhapur, Maharashtra","('Asia/Calcutta',)",0.0
-2314143455,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,"Kolhapur, Maharashtra","('Asia/Calcutta',)",0.0
-1020222022,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,,"('Etc/Unknown',)",0.0
-2314143453,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,"Kolhapur, Maharashtra","('Asia/Calcutta',)",0.0
-1620802915,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,,"('Etc/Unknown',)",0.0
-0405891946,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,,"('Etc/Unknown',)",0.0
-0020222022,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,,"('Etc/Unknown',)",0.0
-1620802051,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,,"('Etc/Unknown',)",0.0
-0405891601,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,,"('Etc/Unknown',)",0.0
-2314331319,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,"Kolhapur, Maharashtra","('Asia/Calcutta',)",0.0
-2314227179,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,"Kolhapur, Maharashtra","('Asia/Calcutta',)",0.0
-2314122464,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,"Kolhapur, Maharashtra","('Asia/Calcutta',)",0.0
-0910202204,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,,"('Etc/Unknown',)",0.0
-4520222022,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,,"('Etc/Unknown',)",0.0
-1231445499,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,India,"('Asia/Calcutta',)",0.0
-2020222022,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-2022202210,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-3141434533,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,,"('Etc/Unknown',)",0.0
-5312000100,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,,"('Etc/Unknown',)",0.0
-4620802915,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,,"('Etc/Unknown',)",0.0
-3120001001,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,,"('Etc/Unknown',)",0.0
-8312000100,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,"Belgaum, Karnataka","('Asia/Calcutta',)",0.0
-1022111117,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,,,"('Etc/Unknown',)",0.0
-7488130234,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']",[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-0926347878,1,['https://twitter.com/mrtrraj/status/1591721566727188481'],[],[],2,,,"('Etc/Unknown',)",0.0
-6205721299,1,['https://twitter.com/mrtrraj/status/1591721566727188481'],[],[],2,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9663802984,1,['https://twitter.com/sunitalks/status/1591637254719819776'],[],[],2,Airtel,India,"('Asia/Calcutta',)",0.0
-8096638029,1,['https://twitter.com/sunitalks/status/1591637254719819776'],[],[],2,Idea,India,"('Asia/Calcutta',)",0.0
-2191122008,4,"['https://twitter.com/rakesh_jatwa/status/1591612105538797569', 'https://twitter.com/rakesh_jatwa/status/1591612000974819330', 'https://twitter.com/rakesh_jatwa/status/1591611848071475200', 'https://twitter.com/rakesh_jatwa/status/1591611677828841472']",[],[],0,,,"('Etc/Unknown',)",0.0
-9031978882,2,"['https://twitter.com/pintooganguly/status/1591533163079413760', 'https://twitter.com/krishvaidya/status/1591439284846104576']",['scam'],[],0,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-8923245592,1,['https://twitter.com/Yatingoyal007/status/1591491751021522944'],[],[],1,Telewings,India,"('Asia/Calcutta',)",0.0
-4470154282,1,['https://twitter.com/Yatingoyal007/status/1591491751021522944'],[],[],1,,"Chennai, Tamil Nadu","('Asia/Calcutta',)",0.0
-6691384915,1,['https://twitter.com/GuruPra02922150/status/1591483139083632640'],[],[],1,,India,"('Asia/Calcutta',)",0.0
-2211122106,1,['https://twitter.com/GuruPra02922150/status/1591483139083632640'],[],[],1,,,"('Etc/Unknown',)",0.0
-4428307524,1,['https://twitter.com/GuruPra02922150/status/1591483139083632640'],[],[],1,,"Chennai, Tamil Nadu","('Asia/Calcutta',)",0.0
-2316686040,1,['https://twitter.com/GuruPra02922150/status/1591483139083632640'],[],[],1,,"Kolhapur, Maharashtra","('Asia/Calcutta',)",0.0
-8874100905,1,['https://twitter.com/AnkushK47804552/status/1591481604639444992'],[],[],0,Vodafone,India,"('Asia/Calcutta',)",0.0
-8240554643,1,['https://twitter.com/AnantKu88212465/status/1591457763728986112'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9915279700,1,['https://twitter.com/Sharmaji_0608/status/1591448796739035137'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-0969203479,1,['https://twitter.com/irfantahir123/status/1591424339492372481'],['scam'],[],1,,,"('Etc/Unknown',)",0.0
-8260237291,1,['https://twitter.com/narenbaba/status/1591412339055955974'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-0787356737,1,['https://twitter.com/ParthVo71126715/status/1591394198254911488'],[],[],0,,,"('Etc/Unknown',)",0.0
-8652389913,1,['https://twitter.com/vd_rajgor_11/status/1591380308951453696'],['scam'],[],0,Idea,India,"('Asia/Calcutta',)",0.0
-9339033812,1,['https://twitter.com/LaxmanDave6/status/1591360580237287424'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8006197032,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],[],[],1,Vodafone,India,"('Asia/Calcutta',)",0.0
-7439211706,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-0296100571,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],[],[],1,,,"('Etc/Unknown',)",0.0
-9832248187,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2316121754,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],[],[],1,,"Kolhapur, Maharashtra","('Asia/Calcutta',)",0.0
-1112221246,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],[],[],1,,,"('Etc/Unknown',)",0.0
-8265099151,1,['https://twitter.com/rajeevnair777/status/1591345816983441408'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9330256875,1,['https://twitter.com/tdurgesh08/status/1591301601037545473'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-3311122010,1,['https://twitter.com/vishnuA29768276/status/1591297791460265984'],[],[],1,,,"('Etc/Unknown',)",0.0
-8327026653,1,['https://twitter.com/vishnuA29768276/status/1591297791460265984'],[],[],1,Vodafone,Goa,"('Asia/Calcutta',)",0.0
-6390793716,1,['https://twitter.com/vishnuA29768276/status/1591297791460265984'],[],[],1,Vodafone,India,"('Asia/Calcutta',)",0.0
-8337921468,1,['https://twitter.com/vishnuA29768276/status/1591297791460265984'],[],[],1,Vodafone,India,"('Asia/Calcutta',)",0.0
-9915365674,1,['https://twitter.com/gch1010/status/1591123575410675712'],[],[],0,Airtel,India,"('Asia/Calcutta',)",0.0
-8015195487,1,['https://twitter.com/iNfAmOuSAddy/status/1591118513963663361'],[],[],1,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-1800123412,1,['https://twitter.com/iNfAmOuSAddy/status/1591118513963663361'],[],[],1,,India,"('Asia/Calcutta',)",0.0
-9220100494,1,['https://twitter.com/ExtraTechnical/status/1591097602040565760'],['scam'],[],1,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-7003527107,1,['https://twitter.com/ExtraTechnical/status/1591097602040565760'],['scam'],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8056967011,1,['https://twitter.com/puneetsachar/status/1591061405213806594'],[],[],0,Airtel,"Bangalore, Karnataka","('Asia/Calcutta',)",0.0
-7961748047,1,['https://twitter.com/cheeeets/status/1591042540362682368'],['scam'],[],0,,"Ahmedabad Local, Gujarat","('Asia/Calcutta',)",0.0
-8018059664,1,['https://twitter.com/ghatakgujju/status/1591011568078458881'],[],[],0,Airtel,India,"('Asia/Calcutta',)",0.0
-9153301212,1,['https://twitter.com/AryadronAd/status/1590979465546706944'],[],[],0,,India,"('Asia/Calcutta',)",0.0
-7505598723,1,['https://twitter.com/vikaasgarg/status/1590972420776951809'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-0943303035,1,['https://twitter.com/vi_sanju/status/1590961836425609216'],['scam'],[],0,,,"('Etc/Unknown',)",0.0
-2081022007,1,['https://twitter.com/iktsolar/status/1590954761540763648'],[],[],0,,,"('Etc/Unknown',)",0.0
-0938709697,1,['https://twitter.com/AdvocatebhanuO1/status/1590929253335732224'],[],[],0,,,"('Etc/Unknown',)",0.0
-0192634000,1,['https://twitter.com/tushar13111980/status/1590715818676928512'],[],[],0,,,"('Etc/Unknown',)",0.0
-2211122002,1,['https://twitter.com/AnkurAkke/status/1590700643844755457'],[],[],0,,,"('Etc/Unknown',)",0.0
-8486227249,1,['https://twitter.com/minaur_rahman_/status/1590677403873206273'],[],[],0,Vodafone,India,"('Asia/Calcutta',)",0.0
-7047953888,1,['https://twitter.com/imdeethakur/status/1590657926951493632'],[],[],0,Airtel,India,"('Asia/Calcutta',)",0.0
-7003136329,2,"['https://twitter.com/SumitBa04712475/status/1590626656712273921', 'https://twitter.com/Again_retweeted/status/1589955926110633987']",['scam'],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8147121834,1,['https://twitter.com/HemantKhincha/status/1590625812591833089'],[],[],0,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-8863090356,1,['https://twitter.com/rohan931982/status/1590617958015201281'],[],[],1,Telewings,India,"('Asia/Calcutta',)",0.0
-9739538468,1,['https://twitter.com/Abhi19492/status/1590584751668494336'],[],[],0,Vodafone,India,"('Asia/Calcutta',)",0.0
-9038313860,2,"['https://twitter.com/rahulnaag/status/1590569946396135424', 'https://twitter.com/rahulnaag/status/1590568745021640704']",['scam'],[],0,Tata Docomo,India,"('Asia/Calcutta',)",0.0
-9818635912,1,['https://twitter.com/GauravPandey71/status/1590559043990740992'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-9538472380,2,"['https://twitter.com/vikramdjames/status/1590360958098378754', 'https://twitter.com/vikramdjames/status/1590360823859679234']",['scam'],[],1,Vodafone,India,"('Asia/Calcutta',)",0.0
-1958816327,2,"['https://twitter.com/vikramdjames/status/1590360958098378754', 'https://twitter.com/vikramdjames/status/1590360823859679234']",['scam'],[],1,,,"('Etc/Unknown',)",0.0
-2312390793,2,"['https://twitter.com/vikramdjames/status/1590360958098378754', 'https://twitter.com/vikramdjames/status/1590360823859679234']",['scam'],[],1,,"Kolhapur, Maharashtra","('Asia/Calcutta',)",0.0
-8130529196,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-9773570431,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-2233705698,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],[],[],1,,Mumbai,"('Asia/Calcutta',)",0.0
-9101980294,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2311349814,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],[],[],1,,,"('Etc/Unknown',)",0.0
-9958118536,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-2308218868,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],[],[],1,,,"('Etc/Unknown',)",0.0
-2311980740,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],[],[],1,,,"('Etc/Unknown',)",0.0
-7328039776,1,['https://twitter.com/rkravindra/status/1590293553129095169'],[],[],0,Airtel,India,"('Asia/Calcutta',)",0.0
-9711288185,1,['https://twitter.com/bhawanisngh73/status/1590290872431939584'],[],[],0,Vodafone,India,"('Asia/Calcutta',)",0.0
-9835989504,1,['https://twitter.com/caypee1/status/1590287154160480257'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8035273403,1,['https://twitter.com/NARVEKARMILIND/status/1590284201156546560'],[],[],1,,"Bangalore, Karnataka","('Asia/Calcutta',)",0.0
-7949104421,1,['https://twitter.com/NARVEKARMILIND/status/1590284201156546560'],[],[],1,,"Ahmedabad Local, Gujarat","('Asia/Calcutta',)",0.0
-7961734225,1,['https://twitter.com/NARVEKARMILIND/status/1590284201156546560'],[],[],1,,"Ahmedabad Local, Gujarat","('Asia/Calcutta',)",0.0
-1714707326,1,['https://twitter.com/NARVEKARMILIND/status/1590284201156546560'],[],[],1,,"Ambala, Haryana","('Asia/Calcutta',)",0.0
-9310061101,1,['https://twitter.com/NARVEKARMILIND/status/1590284201156546560'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7003392193,1,['https://twitter.com/engineer_nands/status/1590278289918394368'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7318671147,1,['https://twitter.com/NarkarPrachee/status/1590268524668518401'],['scam'],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-7904268512,1,['https://twitter.com/vishweshdwived3/status/1590265864624173057'],[],[],0,Reliance Jio,"Ahmedabad Local, Gujarat","('Asia/Calcutta',)",0.0
-8670646969,1,['https://twitter.com/AuzziettudeReza/status/1590260714689933313'],['scam'],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-8167550415,1,['https://twitter.com/AuzziettudeReza/status/1590260714689933313'],['scam'],[],1,Airtel,"Tumkur, Karnataka","('Asia/Calcutta',)",0.0
-2080722004,1,['https://twitter.com/inderjeet_mehra/status/1590231187553144832'],[],[],0,,,"('Etc/Unknown',)",0.0
-6289439107,1,['https://twitter.com/theitaliyaboy/status/1590218076532125697'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9330772489,1,['https://twitter.com/theitaliyaboy/status/1590218076532125697'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9654997673,1,['https://twitter.com/vivekgodara5/status/1590213995688243200'],[],[],1,Vodafone,India,"('Asia/Calcutta',)",0.0
-2209800480,1,['https://twitter.com/KaushalAAP/status/1590213448688078850'],[],[],0,,,"('Etc/Unknown',)",0.0
-9614712457,1,['https://twitter.com/Dostdk4u/status/1590208019862028288'],[],[],0,Aircel,India,"('Asia/Calcutta',)",0.0
-0896900133,2,"['https://twitter.com/skrajput1718/status/1590171748397645825', 'https://twitter.com/skrajput1718/status/1590025751658901504']",[],[],1,,,"('Etc/Unknown',)",0.0
-1783356398,1,['https://twitter.com/KunalVinayakiya/status/1590028723327488000'],['scam'],[],1,,"Theog, Himachal Pradesh","('Asia/Calcutta',)",0.0
-9071287790,1,['https://twitter.com/NomaanShaikh013/status/1589977394798288896'],[],[],0,Idea,India,"('Asia/Calcutta',)",0.0
-2036590377,1,['https://twitter.com/Am47581045/status/1589972773270847489'],['scam'],[],2,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-2513169408,1,['https://twitter.com/Am47581045/status/1589972773270847489'],['scam'],[],2,,"Kalyan, Maharashtra","('Asia/Calcutta',)",0.0
-2022060310,1,['https://twitter.com/Am47581045/status/1589972773270847489'],['scam'],[],2,,"Pune, Maharashtra","('Asia/Calcutta',)",0.0
-7477620429,1,['https://twitter.com/mo16031542/status/1589962110276341760'],[],[],1,Airtel,"Bundi, Rajasthan","('Asia/Calcutta',)",0.0
-8250535266,1,['https://twitter.com/mo16031542/status/1589962110276341760'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-8787661942,1,['https://twitter.com/KalipadhaD/status/1589938987388784640'],[],[],0,Reliance Jio,"Karimnagar, Andhra Pradesh","('Asia/Calcutta',)",0.0
-8918094610,1,['https://twitter.com/docsauravdas/status/1589932669642903552'],['scam'],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9002580910,1,['https://twitter.com/AmitTiw40840191/status/1589921630306054145'],['scam'],[],0,Airtel,India,"('Asia/Calcutta',)",0.0
-8991027310,1,['https://twitter.com/Shaikhanassssss/status/1589917835572449280'],[],[],2,,India,"('Asia/Calcutta',)",0.0
-1021073291,1,['https://twitter.com/Shaikhanassssss/status/1589917835572449280'],[],[],2,,,"('Etc/Unknown',)",0.0
-4042228427,1,['https://twitter.com/Shaikhanassssss/status/1589917835572449280'],[],[],2,,"Hyderabad Local, Andhra Pradesh","('Asia/Calcutta',)",0.0
-9820066885,1,['https://twitter.com/Shaikhanassssss/status/1589917835572449280'],[],[],2,Vodafone,India,"('Asia/Calcutta',)",0.0
-9569017452,1,['https://twitter.com/Barjinder0001/status/1589910375520415745'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-7065806565,1,['https://twitter.com/mdrsdakr/status/1589893009914855424'],[],[],0,Idea,India,"('Asia/Calcutta',)",0.0
-0700377738,1,['https://twitter.com/ITCHANDAN1/status/1589880073016213504'],[],[],1,,,"('Etc/Unknown',)",0.0
-2291122005,1,['https://twitter.com/kvv_chennai/status/1589872886894194688'],[],[],0,,India,"('Asia/Calcutta',)",0.0
-0738056843,1,['https://twitter.com/qaum_e/status/1589869167880318982'],[],[],1,,,"('Etc/Unknown',)",0.0
-0775392378,1,['https://twitter.com/qaum_e/status/1589869167880318982'],[],[],1,,,"('Etc/Unknown',)",0.0
-8116529396,1,['https://twitter.com/TavishiGhosh/status/1589869145516310528'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-7439230627,1,['https://twitter.com/itzchaurasia29/status/1589854707690115073'],[],[],1,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-9608251927,1,['https://twitter.com/upsrathore/status/1589850665299628034'],['scam'],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-3310922007,1,['https://twitter.com/tandon18/status/1589846483742109697'],[],[],0,,,"('Etc/Unknown',)",0.0
-7750863522,1,['https://twitter.com/OgauravOberoi/status/1589843875392520193'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-0811202210,1,['https://twitter.com/OgauravOberoi/status/1589843875392520193'],[],[],1,,,"('Etc/Unknown',)",0.0
-1800258616,1,['https://twitter.com/OgauravOberoi/status/1589843875392520193'],[],[],1,,India,"('Asia/Calcutta',)",0.0
-6297510094,1,['https://twitter.com/subhransu_news/status/1589838116688646144'],[],[],0,Reliance Jio,India,"('Asia/Calcutta',)",0.0
-2310662204,1,['https://twitter.com/Ashutos78901641/status/1589834292980748292'],[],[],1,,,"('Etc/Unknown',)",0.0
-0611202218,1,['https://twitter.com/Ashutos78901641/status/1589834292980748292'],[],[],1,,,"('Etc/Unknown',)",0.0
-9188252333,1,['https://twitter.com/Ashutos78901641/status/1589834292980748292'],[],[],1,BSNL MOBILE,India,"('Asia/Calcutta',)",0.0
-9990285655,1,['https://twitter.com/abhay_1997_02/status/1589821911265312771'],[],[],1,Idea,India,"('Asia/Calcutta',)",0.0
-5000420000,1,['https://twitter.com/abhay_1997_02/status/1589821911265312771'],[],[],1,,,"('Etc/Unknown',)",0.0
-9928721256,1,['https://twitter.com/Viveka_TN/status/1589769660286672897'],['scam'],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-7388906431,1,['https://twitter.com/shamik_sen/status/1589738847197630466'],[],[],1,Airtel,India,"('Asia/Calcutta',)",0.0
-2308308865,1,['https://twitter.com/shamik_sen/status/1589738847197630466'],[],[],1,,,"('Etc/Unknown',)",0.0
-1010454209,1,['https://twitter.com/DigitalSunilSah/status/1589644883660525569'],[],[],0,,,"('Etc/Unknown',)",0.0
+Phone number,Number of complaints reported,Reference url,Keywords,Mentions,Score,Carrier,Geocoder,UPITimezone,Average sentiment score
+9667559520,1,['https://twitter.com/MonikaKanojia77/status/1597990532206448640'],"['Bank fraud', 'bank', 'fraud', 'Bank', 'Fraud']",['delhipolice'],6,Airtel,India,[],"('Asia/Calcutta',)",0.13333333333333333
+9196258027,1,['https://twitter.com/MonikaKanojia77/status/1597990532206448640'],"['Bank fraud', 'bank', 'fraud', 'Bank', 'Fraud']",['delhipolice'],6,BSNL MOBILE,India,[],"('Asia/Calcutta',)",0.13333333333333333
+9184477455,1,['https://twitter.com/MonikaKanojia77/status/1597990532206448640'],"['Bank fraud', 'bank', 'fraud', 'Bank', 'Fraud']",['delhipolice'],6,BSNL MOBILE,India,[],"('Asia/Calcutta',)",0.13333333333333333
+7290022078,1,['https://twitter.com/MonikaKanojia77/status/1597990532206448640'],"['Bank fraud', 'bank', 'fraud', 'Bank', 'Fraud']",['delhipolice'],6,Vodafone,India,[],"('Asia/Calcutta',)",0.13333333333333333
+9832450548,2,"['https://twitter.com/AnkitSTiwari2/status/1597972418391584768', 'https://twitter.com/Again_retweeted/status/1589955926110633987']","['scam', 'Crime', 'Scam', 'number', 'Fraud call from', 'bank', 'scammer', 'fraud', 'Scammer', 'Bank', 'Fraud']","['Cyberdost', 'cybercrimecid', 'cyberabadpolice', 'Paytm15716377']",7,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.11875000000000002
+9641143643,1,['https://twitter.com/SanjeevJEC/status/1597960164124274690'],"['fraud', 'no.', 'Fraud']",['Cyberdost'],4,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.0125
+8867634267,1,['https://twitter.com/reguntha/status/1597944869141741571'],"['phone', 'fraud', 'Fraud']",[],3,Tata Docomo,India,[],"('Asia/Calcutta',)",0.17916666666666667
+9875673799,1,['https://twitter.com/reguntha/status/1597944869141741571'],"['phone', 'fraud', 'Fraud']",[],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.17916666666666667
+9908727937,1,['https://twitter.com/Dostdk4u/status/1597940449645588481'],"['number', 'fraud', 'Fraud']",['Cyberdost'],3,Airtel,India,[],"('Asia/Calcutta',)",0.25
+9155229289,1,['https://twitter.com/itsme_Ammu/status/1597939151546220544'],"['fraud', 'bank', 'Bank', 'Fraud']",[],3,Telewings,India,[],"('Asia/Calcutta',)",0.0
+9163153869,2,"['https://twitter.com/itsme_Ammu/status/1597935007548420096', 'https://twitter.com/Investonow/status/1589172022592274435']","['number', 'bank', 'fraud', 'Bank', 'Fraud']",['delhipolice'],4,Airtel,India,[],"('Asia/Calcutta',)",0.05416666666666667
+1530000100,1,['https://twitter.com/dimpu05/status/1597929793840087040'],"['fraud', 'bank', 'Bank', 'Fraud']","['delhipolice', 'cybercrimecid']",4,,,[],"('Etc/Unknown',)",0.13636363636363635
+9915206547,1,['https://twitter.com/tanna_jig/status/1597916223144022018'],"['number', 'bank', 'fraud', 'Action against this number', 'Bank', 'Fraud']",['Cyberdost'],6,Airtel,India,[],"('Asia/Calcutta',)",0.025
+7852937001,1,['https://twitter.com/atish_nayak/status/1597901044402782208'],"['fraud', 'Fraudster', 'fraudster', 'Fraud']","['delhipolice', 'Mumbaipolice', 'Cyberdost']",7,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.09999999999999999
+7411013324,1,['https://twitter.com/atish_nayak/status/1597901044402782208'],"['fraud', 'Fraudster', 'fraudster', 'Fraud']","['delhipolice', 'Mumbaipolice', 'Cyberdost']",7,Tata Docomo,India,[],"('Asia/Calcutta',)",-0.09999999999999999
+8287155489,1,['https://twitter.com/AmolKhanorkar/status/1597899362088411138'],"['Money', 'scam', 'Scam', 'number']",[],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.05
+7698415011,1,['https://twitter.com/EmailShoaib/status/1597886896092614657'],"['scam', 'Crime', 'Scam', 'fraud', 'Fraud']",['Cyberdost'],6,Idea,India,[],"('Asia/Calcutta',)",0.0
+7028952506,1,['https://twitter.com/EmailShoaib/status/1597886896092614657'],"['scam', 'Crime', 'Scam', 'fraud', 'Fraud']",['Cyberdost'],6,Airtel,India,[],"('Asia/Calcutta',)",0.0
+8867350795,1,['https://twitter.com/skchoudhary2007/status/1597873864222347264'],"['Money', 'Crime', 'bank', 'Loot', 'fraud', 'Bank', 'Fraud']","['delhipolice', 'Theofficialsbi']",5,Tata Docomo,India,[],"('Asia/Calcutta',)",-0.1025
+3270722001,2,"['https://twitter.com/BrijrajNagar6/status/1597861389112336384', 'https://twitter.com/BrijrajNagar6/status/1597649937915056128']","['Money', 'Crime', 'Cyber crime', 'fraud', 'no.', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",-0.23750000000000002
+9749811691,1,['https://twitter.com/BrijrajNagar6/status/1597861389112336384'],"['Crime', 'Cyber crime', 'fraud', 'no.', 'Fraud']",['Cyberdost'],7,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.175
+2186437166,1,['https://twitter.com/BrijrajNagar6/status/1597861389112336384'],"['Crime', 'Cyber crime', 'fraud', 'no.', 'Fraud']",['Cyberdost'],7,,"Pandharpur, Maharashtra",[],"('Asia/Calcutta',)",-0.175
+8535034868,1,['https://twitter.com/juvin47/status/1597860201125666816'],"['Money', 'scam', 'Scam', 'number']",['Mumbaipolice'],5,Idea,India,[],"('Asia/Calcutta',)",-0.13333333333333336
+8106967746,1,['https://twitter.com/ady24mm/status/1597853491795722240'],"['mobile', 'number', 'scam', 'Scam']",['Cyberdost'],4,Airtel,India,[],"('Asia/Calcutta',)",-0.5
+7082346998,1,['https://twitter.com/JavedAl75822320/status/1597836643041693696'],"['bank', 'scam', 'Scam', 'Bank']","['delhipolice', 'Uppolice']",5,Airtel,India,[],"('Asia/Calcutta',)",0.0
+0629556861,1,['https://twitter.com/adwaitainapure/status/1597826792047357953'],"['number', 'fraud', 'Fraud']",['Mumbaipolice'],3,,,[],"('Etc/Unknown',)",-0.075
+9315334024,8,"['https://twitter.com/abhayagrawal30/status/1597823181808881665', 'https://twitter.com/abhayagrawal30/status/1597086330722619393', 'https://twitter.com/abhayagrawal30/status/1595247313639079936', 'https://twitter.com/abhayagrawal30/status/1593413794159800320', 'https://twitter.com/abhayagrawal30/status/1592724038677594112', 'https://twitter.com/abhayagrawal30/status/1592034082506309632', 'https://twitter.com/abhayagrawal30/status/1590544904144711680', 'https://twitter.com/abhayagrawal30/status/1589438197754626048']","['number', 'fraud', 'Fraud']","['delhipolice', 'Uppolice']",4,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.04583333333333334
+6289041842,1,['https://twitter.com/Amy1Rajput/status/1597594010834841608'],"['number', 'Fraudster', 'fraudster', 'fraud', 'Fraud']",['Cyberdost'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.025
+8240722973,1,['https://twitter.com/Amy1Rajput/status/1597594010834841608'],"['number', 'Fraudster', 'fraudster', 'fraud', 'Fraud']",['Cyberdost'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.025
+9123728656,1,['https://twitter.com/26Arpit/status/1597586117439561728'],"['number', 'fraud', 'Fraud']",['Uppolice'],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+8279818835,1,['https://twitter.com/yogtoday/status/1597560103410229248'],"['number', 'Fraudster', 'fraudster', 'Loot', 'fraud', 'Fraud']",[],6,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.24071969696969697
+0827981883,1,['https://twitter.com/yogtoday/status/1597560103410229248'],"['number', 'Fraudster', 'fraudster', 'Loot', 'fraud', 'Fraud']",[],6,,,[],"('Etc/Unknown',)",-0.24071969696969697
+2211291414,1,['https://twitter.com/RishuGu83871104/status/1597548408428191744'],"['Money', 'scam', 'Scam', 'number', 'bank', 'scammer', 'Transfer money', 'fraud', 'Scammer', 'Bank', 'Fraud']","['RBI', 'Cyberdost']",8,,,[],"('Etc/Unknown',)",-0.5
+0287056377,1,['https://twitter.com/RishuGu83871104/status/1597548408428191744'],"['Money', 'scam', 'Scam', 'number', 'bank', 'scammer', 'Transfer money', 'fraud', 'Scammer', 'Bank', 'Fraud']","['RBI', 'Cyberdost']",8,,,[],"('Etc/Unknown',)",-0.5
+2333271552,1,['https://twitter.com/RishuGu83871104/status/1597548408428191744'],"['Money', 'scam', 'Scam', 'number', 'bank', 'scammer', 'Transfer money', 'fraud', 'Scammer', 'Bank', 'Fraud']","['RBI', 'Cyberdost']",8,,"Sangli, Maharashtra",[],"('Asia/Calcutta',)",-0.5
+6372186653,1,['https://twitter.com/RanjanKumar4u/status/1597543715043938305'],"['scam', 'Crime', 'Scam', 'scammer', 'fraud', 'Scammer', 'Fraud']",['cybercrimecid'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.12
+6002111816,1,['https://twitter.com/Devansh76223827/status/1597532283875250177'],"['scam', 'Scam', 'number', 'Fraudster', 'fraudster', 'fraud', 'mobile', 'Fraud']","['StaySafeOnline', 'Mumbaipolice', 'CPMumbaiPolice']",9,Reliance Jio,India,[],"('Asia/Calcutta',)",0.03939393939393939
+6002111832,1,['https://twitter.com/Devansh76223827/status/1597532283875250177'],"['scam', 'Scam', 'number', 'Fraudster', 'fraudster', 'fraud', 'mobile', 'Fraud']","['StaySafeOnline', 'Mumbaipolice', 'CPMumbaiPolice']",9,Reliance Jio,India,[],"('Asia/Calcutta',)",0.03939393939393939
+9757085844,1,['https://twitter.com/Devansh76223827/status/1597532283875250177'],"['scam', 'Scam', 'number', 'Fraudster', 'fraudster', 'fraud', 'mobile', 'Fraud']","['StaySafeOnline', 'Mumbaipolice', 'CPMumbaiPolice']",9,MTNL,India,[],"('Asia/Calcutta',)",0.03939393939393939
+7091606928,1,['https://twitter.com/Devansh76223827/status/1597532283875250177'],"['scam', 'Scam', 'number', 'Fraudster', 'fraudster', 'fraud', 'mobile', 'Fraud']","['StaySafeOnline', 'Mumbaipolice', 'CPMumbaiPolice']",9,Airtel,India,[],"('Asia/Calcutta',)",0.03939393939393939
+9039263642,1,['https://twitter.com/anildev12/status/1597519911425019904'],"['number', 'fraud', 'no.', 'mobile', 'Fraud']",['delhipolice'],4,Tata Docomo,India,[],"('Asia/Calcutta',)",0.0
+2200041487,1,['https://twitter.com/adv_vikastiwari/status/1597497201680617473'],['Loot'],['Mumbaipolice'],4,,,[],"('Etc/Unknown',)",0.16666666666666666
+9987765535,1,['https://twitter.com/adv_vikastiwari/status/1597497201680617473'],['Loot'],['Mumbaipolice'],4,Airtel,India,[],"('Asia/Calcutta',)",0.16666666666666666
+8240244629,1,['https://twitter.com/SayyedA47137679/status/1597472493065105408'],"['number', 'fraud', 'Fraud']","['Mumbaipolice', 'Theofficialsbi']",3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.025
+3080222000,1,['https://twitter.com/PawanKda/status/1597225757004398592'],"['fraud', 'Cyber fraud', 'Fraud']","['delhipolice', 'Cyberdost', 'cpdelhi']",4,,,[],"('Etc/Unknown',)",-0.09999999999999999
+8260910266,1,['https://twitter.com/uniqueSoul_usha/status/1597187489340747778'],"['Money', 'bank', 'fraud', 'Bank', 'Fraud']",['Mumbaipolice'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.018750000000000003
+9701572922,1,['https://twitter.com/jasshu7/status/1597161906556801024'],"['number', 'bank', 'fraud', 'Bank', 'Fraud']","['Theofficialsbi', 'RBI']",6,Airtel,India,[],"('Asia/Calcutta',)",0.0
+0970157292,1,['https://twitter.com/jasshu7/status/1597161906556801024'],"['number', 'bank', 'fraud', 'Bank', 'Fraud']","['Theofficialsbi', 'RBI']",6,,,[],"('Etc/Unknown',)",0.0
+8867462691,1,['https://twitter.com/HimmatPurohit5/status/1597153469512953858'],"['scam', 'Scam', 'number', 'fraud', 'mobile', 'Fraud']",['Mumbaipolice'],7,Tata Docomo,India,[],"('Asia/Calcutta',)",-0.03333333333333333
+8670422571,1,['https://twitter.com/HimmatPurohit5/status/1597153469512953858'],"['scam', 'Scam', 'number', 'fraud', 'mobile', 'Fraud']",['Mumbaipolice'],7,Airtel,India,[],"('Asia/Calcutta',)",-0.03333333333333333
+7019920736,1,['https://twitter.com/lavanyadeepak/status/1597153426789396481'],"['number', 'scam', 'Scam']",[],2,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+9155422838,1,['https://twitter.com/Andyk02433859/status/1597133944507748352'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],4,Telewings,India,[],"('Asia/Calcutta',)",0.05
+7461077371,1,['https://twitter.com/adraj/status/1597121907563761664'],"['scam', 'Scam', 'no.']",['Cyberdost'],4,Airtel,India,[],"('Asia/Calcutta',)",0.0
+0998953740,1,['https://twitter.com/adraj/status/1597121907563761664'],"['scam', 'Scam', 'no.']",['Cyberdost'],4,,,[],"('Etc/Unknown',)",0.0
+0841586754,1,['https://twitter.com/adraj/status/1597121907563761664'],"['scam', 'Scam', 'no.']",['Cyberdost'],4,,,[],"('Etc/Unknown',)",0.0
+7003912895,1,['https://twitter.com/adraj/status/1597121907563761664'],"['scam', 'Scam', 'no.']",['Cyberdost'],4,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+7526971956,1,['https://twitter.com/Imlionslamb/status/1597102794565357568'],"['number', 'fraud', 'Fraud']",['Mumbaipolice'],5,Idea,India,[],"('Asia/Calcutta',)",0.15
+2705126685,1,['https://twitter.com/Imlionslamb/status/1597102794565357568'],"['number', 'fraud', 'Fraud']",['Mumbaipolice'],5,,,[],"('Etc/Unknown',)",0.15
+7200864257,1,['https://twitter.com/jangidvikram51/status/1597079375278911488'],"['scam', 'Scam', 'bank', 'scammer', 'Scammer', 'Bank']","['delhipolice', 'RBI']",6,Tata Docomo,India,[],"('Asia/Calcutta',)",-0.08666666666666667
+9692691709,1,['https://twitter.com/Mukulkmr13/status/1596867660951977984'],"['mobile', 'scam', 'Crime', 'Scam']",['Cybercellindia'],4,Reliance Jio,India,[],"('Asia/Calcutta',)",0.5625
+2022112343,1,['https://twitter.com/s415h1n63/status/1596862436828598272'],"['scam', 'Scam']",[],1,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",-0.09999999999999999
+7005938906,1,['https://twitter.com/Haritham16/status/1596840271018602498'],"['scam', 'Scam', 'no.', 'phone']",['Cyberdost'],4,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.3333333333333333
+7388581203,1,['https://twitter.com/HossainFirdoush/status/1596799874070036485'],"['scam', 'Scam', 'number', 'scammer', 'phone', 'Scammer']",['delhipolice'],5,Airtel,India,[],"('Asia/Calcutta',)",0.275
+9875474566,1,['https://twitter.com/bridge_forever/status/1596797130114334726'],"['number', 'fraud', 'Fraud']",[],2,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+6207876915,1,['https://twitter.com/AmitNirbhaya/status/1596795936055132161'],"['number', 'fraud', 'Fraud']",['Cyberdost'],4,Reliance Jio,India,[],"('Asia/Calcutta',)",0.1388888888888889
+0891056116,1,['https://twitter.com/AmitNirbhaya/status/1596795936055132161'],"['number', 'fraud', 'Fraud']",['Cyberdost'],4,,,[],"('Etc/Unknown',)",0.1388888888888889
+0620787691,1,['https://twitter.com/AmitNirbhaya/status/1596795936055132161'],"['number', 'fraud', 'Fraud']",['Cyberdost'],4,,,[],"('Etc/Unknown',)",0.1388888888888889
+8910561164,1,['https://twitter.com/AmitNirbhaya/status/1596795936055132161'],"['number', 'fraud', 'Fraud']",['Cyberdost'],4,Reliance Jio,India,[],"('Asia/Calcutta',)",0.1388888888888889
+9878994647,1,['https://twitter.com/Naanu_Yo/status/1596793679435296768'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Cyberdost'],6,Airtel,India,[],"('Asia/Calcutta',)",0.0
+0987899464,1,['https://twitter.com/Naanu_Yo/status/1596793679435296768'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Cyberdost'],6,,,[],"('Etc/Unknown',)",0.0
+6232178951,1,['https://twitter.com/MaheshK6210/status/1596793584497590276'],"['number', 'bank', 'fraud', 'Bank', 'Fraud']",['Cyberdost'],6,Airtel,India,[],"('Asia/Calcutta',)",0.175
+9861200198,1,['https://twitter.com/MaheshK6210/status/1596793584497590276'],"['number', 'bank', 'fraud', 'Bank', 'Fraud']",['Cyberdost'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.175
+7583913188,1,['https://twitter.com/MaheshK6210/status/1596793584497590276'],"['number', 'bank', 'fraud', 'Bank', 'Fraud']",['Cyberdost'],6,Airtel,India,[],"('Asia/Calcutta',)",0.175
+8690778771,1,['https://twitter.com/Jaswant20194170/status/1596778543525961729'],"['Crime', 'number', 'bank', 'phone', 'fraud', 'Bank', 'Fraud']",['cybercrimecid'],6,Airtel,India,[],"('Asia/Calcutta',)",-0.25
+8896717365,1,['https://twitter.com/Jaswant20194170/status/1596778543525961729'],"['Crime', 'number', 'bank', 'phone', 'fraud', 'Bank', 'Fraud']",['cybercrimecid'],6,Aircel,India,[],"('Asia/Calcutta',)",-0.25
+7002014800,1,['https://twitter.com/seshvis/status/1596771179528073217'],"['number', 'Fraudster', 'fraudster', 'fraud', 'Fraud']",['CPMumbaiPolice'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.04583333333333334
+5010025513,1,['https://twitter.com/AmanGoe94451508/status/1596769693893038080'],"['number', 'scam', 'Scam']",['Mumbaipolice'],4,,,[],"('Etc/Unknown',)",0.1125
+5010025551,1,['https://twitter.com/AmanGoe94451508/status/1596769693893038080'],"['number', 'scam', 'Scam']",['Mumbaipolice'],4,,,[],"('Etc/Unknown',)",0.1125
+7042605600,1,['https://twitter.com/MuradAli1997/status/1596762466150555648'],"['scam', 'Scam', 'number', 'bank', 'Atm', 'Bank']",['delhipolice'],5,Airtel,India,[],"('Asia/Calcutta',)",0.1
+8106159212,1,['https://twitter.com/prem_all/status/1596749427192246275'],"['scam', 'Scam', 'scammer', 'Scammer', 'mobile']","['Mumbaipolice', 'Cyberdost']",6,Airtel,India,[],"('Asia/Calcutta',)",0.3
+9935661529,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],"['fraud', 'bank', 'Bank', 'Fraud']",['Uppolice'],6,Airtel,India,[],"('Asia/Calcutta',)",-0.016666666666666663
+6295477792,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],"['fraud', 'bank', 'Bank', 'Fraud']",['Uppolice'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.016666666666666663
+2004166489,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],"['fraud', 'bank', 'Bank', 'Fraud']",['Uppolice'],6,,,[],"('Etc/Unknown',)",-0.016666666666666663
+5123010000,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],"['fraud', 'bank', 'Bank', 'Fraud']",['Uppolice'],6,,"Kanpur, Uttar Pradesh",[],"('Asia/Calcutta',)",-0.016666666666666663
+0629547779,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],"['fraud', 'bank', 'Bank', 'Fraud']",['Uppolice'],6,,,[],"('Etc/Unknown',)",-0.016666666666666663
+6370814726,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],"['fraud', 'bank', 'Bank', 'Fraud']",['Uppolice'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.016666666666666663
+2004466489,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],"['fraud', 'bank', 'Bank', 'Fraud']",['Uppolice'],6,,,[],"('Etc/Unknown',)",-0.016666666666666663
+4062954777,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],"['fraud', 'bank', 'Bank', 'Fraud']",['Uppolice'],6,,"Hyderabad Local, Andhra Pradesh",[],"('Asia/Calcutta',)",-0.016666666666666663
+9263708147,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],"['fraud', 'bank', 'Bank', 'Fraud']",['Uppolice'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.016666666666666663
+3972520403,1,['https://twitter.com/MohdShahrukhIs1/status/1596716244375199744'],"['fraud', 'bank', 'Bank', 'Fraud']",['Uppolice'],6,,,[],"('Etc/Unknown',)",-0.016666666666666663
+8955140321,1,['https://twitter.com/harship29/status/1596601786944884736'],"['scam', 'Scam', 'no.']","['Cyberdost', 'Uppolice']",6,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.08928571428571429
+2325462428,1,['https://twitter.com/harship29/status/1596601786944884736'],"['scam', 'Scam', 'no.']","['Cyberdost', 'Uppolice']",6,,"Kagal/Murgud, Maharashtra",[],"('Asia/Calcutta',)",-0.08928571428571429
+8918218697,1,['https://twitter.com/keshav88khatri/status/1596566324129705986'],"['scam', 'Crime', 'Scam', 'number', 'Cyber crime', 'mobile']",['Cyberdost'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.06666666666666665
+7566701895,1,['https://twitter.com/AyshaBano18/status/1596499890452201474'],"['number', 'Crime', 'fraud', 'Fraud']",['cybercrimecid'],4,Vodafone,India,[],"('Asia/Calcutta',)",0.0
+7610122029,1,['https://twitter.com/AyshaBano18/status/1596499890452201474'],"['number', 'Crime', 'fraud', 'Fraud']",['cybercrimecid'],4,Idea,India,[],"('Asia/Calcutta',)",0.0
+8723831901,2,"['https://twitter.com/sAcHaHeEra/status/1596478927949615104', 'https://twitter.com/sAcHaHeEra/status/1596432941382787072']","['Crime', 'number', 'phone', 'fraud', 'Fraud']","['Cyberdost', 'Uppolice', 'cybercrimecid']",6,Vodafone,India,[],"('Asia/Calcutta',)",0.0
+9919896742,2,"['https://twitter.com/sAcHaHeEra/status/1596478927949615104', 'https://twitter.com/sAcHaHeEra/status/1596432941382787072']","['Crime', 'number', 'phone', 'fraud', 'Fraud']","['Cyberdost', 'Uppolice', 'cybercrimecid']",6,Vodafone,India,[],"('Asia/Calcutta',)",0.0
+0991093917,2,"['https://twitter.com/sAcHaHeEra/status/1596478927949615104', 'https://twitter.com/sAcHaHeEra/status/1596432941382787072']","['Crime', 'number', 'phone', 'fraud', 'Fraud']","['Cyberdost', 'Uppolice', 'cybercrimecid']",6,,,[],"('Etc/Unknown',)",0.0
+4774663257,1,['https://twitter.com/javid85co/status/1596476610328547328'],"['mobile', 'number', 'fraud', 'Fraud']",['Mumbaipolice'],4,,"Alappuzha, Kerala",[],"('Asia/Calcutta',)",0.06000000000000001
+8887941903,1,['https://twitter.com/RAVINDR58412076/status/1596453699542740993'],"['Fraud call from', 'fraud', 'no.', 'mobile', 'Fraud']",['Cyberdost'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+7525073264,1,['https://twitter.com/punithcs/status/1596449198831898625'],"['scam', 'Crime', 'Scam', 'number', 'phone', 'mobile']",['cybercrimecid'],6,Airtel,India,[],"('Asia/Calcutta',)",0.0
+8743867273,1,['https://twitter.com/punithcs/status/1596449198831898625'],"['scam', 'Crime', 'Scam', 'number', 'phone', 'mobile']",['cybercrimecid'],6,Idea,India,[],"('Asia/Calcutta',)",0.0
+3161022001,1,['https://twitter.com/punithcs/status/1596449198831898625'],"['scam', 'Crime', 'Scam', 'number', 'phone', 'mobile']",['cybercrimecid'],6,,,[],"('Etc/Unknown',)",0.0
+8160464863,1,['https://twitter.com/Thinq__/status/1596448269483532288'],"['number', 'scam', 'Scam']",['Cyberdost'],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.05
+8918052204,1,['https://twitter.com/DDS_Ketki/status/1596444147283816448'],"['Crime', 'Online fraud', 'Cyber crime', 'fraud', 'no.', 'Fraud']",['Cyberdost'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.060714285714285714
+2311122008,5,"['https://twitter.com/shashisharan11/status/1596413872860467201', 'https://twitter.com/SyedShahwazRaza/status/1593971537077760001', 'https://twitter.com/Manojs_mishra/status/1593849188986802177', 'https://twitter.com/ideepaksharmaa/status/1593196603292389376', 'https://twitter.com/Deeplifejoy/status/1591510569605296128']","['Money', 'scam', 'Crime', 'Scam', 'number', 'bank', 'Fraudster', 'fraudster', 'scammer', 'Online fraud', 'Cyber crime', 'fraud', 'Scammer', 'no.', 'Bank', 'Fraud']","['Cybercellindia', 'Cyberdost', 'Uppolice']",7,,,[],"('Etc/Unknown',)",-0.013833333333333319
+9560073762,1,['https://twitter.com/RaviSChauhan/status/1596409336167034882'],"['number', 'scam', 'Scam']",['Mumbaipolice'],3,Airtel,India,[],"('Asia/Calcutta',)",0.0
+0015122022,1,['https://twitter.com/the15thjob/status/1596404751490756608'],"['fraud', 'bank', 'Bank', 'Fraud']",['delhipolice'],3,,,[],"('Etc/Unknown',)",0.0
+8100285850,1,['https://twitter.com/tweetbycharanc/status/1596369826028539904'],"['scam', 'Crime', 'Scam', 'number', 'Cyber crime', 'phone']",[],6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+0810028585,1,['https://twitter.com/tweetbycharanc/status/1596369826028539904'],"['scam', 'Crime', 'Scam', 'number', 'Cyber crime', 'phone']",[],6,,,[],"('Etc/Unknown',)",0.0
+8373950035,1,['https://twitter.com/goutham5775/status/1596329936822108160'],"['fraud', 'Fraud']",['delhipolice'],2,Vodafone,India,[],"('Asia/Calcutta',)",0.0
+9990530906,1,['https://twitter.com/goutham5775/status/1596329936822108160'],"['fraud', 'Fraud']",['delhipolice'],2,Idea,India,[],"('Asia/Calcutta',)",0.0
+0921157878,1,['https://twitter.com/goutham5775/status/1596329936822108160'],"['fraud', 'Fraud']",['delhipolice'],2,,,[],"('Etc/Unknown',)",0.0
+9454609877,2,"['https://twitter.com/AryanKh41216999/status/1596314512814387200', 'https://twitter.com/AryanKh41216999/status/1596306750726057984']","['number', 'Loot']",['Uppolice'],3,BSNL MOBILE,India,[],"('Asia/Calcutta',)",0.0
+1665689500,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],"['number', 'Loot']",['Uppolice'],3,,India,[],"('Asia/Calcutta',)",0.0
+2022101401,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],"['number', 'Loot']",['Uppolice'],3,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",0.0
+1665689230,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],"['number', 'Loot']",['Uppolice'],3,,India,[],"('Asia/Calcutta',)",0.0
+2022101400,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],"['number', 'Loot']",['Uppolice'],3,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",0.0
+1665657796,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],"['number', 'Loot']",['Uppolice'],3,,India,[],"('Asia/Calcutta',)",0.0
+2022101316,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],"['number', 'Loot']",['Uppolice'],3,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",0.0
+1665634798,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],"['number', 'Loot']",['Uppolice'],3,,India,[],"('Asia/Calcutta',)",0.0
+2022101309,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],"['number', 'Loot']",['Uppolice'],3,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",0.0
+1665634584,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],"['number', 'Loot']",['Uppolice'],3,,India,[],"('Asia/Calcutta',)",0.0
+1665634577,1,['https://twitter.com/AryanKh41216999/status/1596314512814387200'],"['number', 'Loot']",['Uppolice'],3,,India,[],"('Asia/Calcutta',)",0.0
+2022230110,1,['https://twitter.com/shanx85/status/1596212777638858753'],"['Crime', 'fraud', 'Cyber fraud', 'Fraud']","['RBI', 'cybercrimecid']",7,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",-0.2125
+8918847764,1,['https://twitter.com/shanx85/status/1596212777638858753'],"['Crime', 'fraud', 'Cyber fraud', 'Fraud']","['RBI', 'cybercrimecid']",7,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.2125
+2241122001,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,Mumbai,[],"('Asia/Calcutta',)",0.11999999999999997
+2022112414,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",0.11999999999999997
+5115512044,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,"Ghatampur, Uttar Pradesh",[],"('Asia/Calcutta',)",0.11999999999999997
+5216669240,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,India,[],"('Asia/Calcutta',)",0.11999999999999997
+5000150001,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,,[],"('Etc/Unknown',)",0.11999999999999997
+0000300001,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,,[],"('Etc/Unknown',)",0.11999999999999997
+5000450002,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,,[],"('Etc/Unknown',)",0.11999999999999997
+0000600002,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,,[],"('Etc/Unknown',)",0.11999999999999997
+5000750003,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,,[],"('Etc/Unknown',)",0.11999999999999997
+0000900004,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,,[],"('Etc/Unknown',)",0.11999999999999997
+2000050000,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,,[],"('Etc/Unknown',)",0.11999999999999997
+5000010000,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,,[],"('Etc/Unknown',)",0.11999999999999997
+3200001250,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,,[],"('Etc/Unknown',)",0.11999999999999997
+5614009738,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,,[],"('Etc/Unknown',)",0.11999999999999997
+7008709772,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.11999999999999997
+2022112415,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",0.11999999999999997
+0242767658,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,,[],"('Etc/Unknown',)",0.11999999999999997
+5031804598,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,,[],"('Etc/Unknown',)",0.11999999999999997
+7363474010,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,"Berchha, Madhya Pradesh",[],"('Asia/Calcutta',)",0.11999999999999997
+9102327216,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,Airtel,India,[],"('Asia/Calcutta',)",0.11999999999999997
+2022232721,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",0.11999999999999997
+6359047502,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,Vodafone,India,[],"('Asia/Calcutta',)",0.11999999999999997
+2010187068,1,['https://twitter.com/Swastik03745562/status/1596136868591984640'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,,[],"('Etc/Unknown',)",0.11999999999999997
+3271122003,2,"['https://twitter.com/Sandeep78663564/status/1596133558242140161', 'https://twitter.com/GuruPra02922150/status/1591483139083632640']","['Crime', 'number', 'Cyber crime', 'fraud', 'phone', 'Cyber fraud', 'no.', 'Ack no.', 'Fraud']",['Cyberdost'],6,,,[],"('Etc/Unknown',)",-0.06520833333333333
+9731056974,1,['https://twitter.com/wilson_thomas/status/1596105347076620291'],"['number', 'cheat', 'bank', 'fraud', 'Bank', 'Fraud']",['Mumbaipolice'],7,Airtel,India,[],"('Asia/Calcutta',)",0.016666666666666663
+8953556685,1,['https://twitter.com/wilson_thomas/status/1596105347076620291'],"['number', 'cheat', 'bank', 'fraud', 'Bank', 'Fraud']",['Mumbaipolice'],7,Airtel,India,[],"('Asia/Calcutta',)",0.016666666666666663
+3919524357,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Mumbaipolice'],6,,,[],"('Etc/Unknown',)",-0.06388888888888887
+3896085960,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Mumbaipolice'],6,,"Aizawal, Mizoram",[],"('Asia/Calcutta',)",-0.06388888888888887
+7377522620,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Mumbaipolice'],6,Idea,India,[],"('Asia/Calcutta',)",-0.06388888888888887
+3462629199,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Mumbaipolice'],6,,"Suri, West Bengal",[],"('Asia/Calcutta',)",-0.06388888888888887
+3963128616,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Mumbaipolice'],6,,,[],"('Etc/Unknown',)",-0.06388888888888887
+1876819352,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Mumbaipolice'],6,,,[],"('Etc/Unknown',)",-0.06388888888888887
+7681935241,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Mumbaipolice'],6,Tata Docomo,India,[],"('Asia/Calcutta',)",-0.06388888888888887
+2280455667,1,['https://twitter.com/vineesrockin/status/1596099726629539842'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Mumbaipolice'],6,,,[],"('Etc/Unknown',)",-0.06388888888888887
+9438717552,2,"['https://twitter.com/sdorthopod/status/1596073847463481344', 'https://twitter.com/sdorthopod/status/1596063722073915393']","['Money', 'Crime', 'number', 'bank', 'Fraudster', 'fraudster', 'fraud', 'mobile', 'Bank', 'Fraud']","['delhipolice', 'Paytmbankcare', 'cybercrimecid']",6,BSNL MOBILE,India,[],"('Asia/Calcutta',)",-0.0375
+7694986265,2,"['https://twitter.com/sdorthopod/status/1596073847463481344', 'https://twitter.com/sdorthopod/status/1596063722073915393']","['Money', 'Crime', 'number', 'bank', 'Fraudster', 'fraudster', 'fraud', 'mobile', 'Bank', 'Fraud']","['delhipolice', 'Paytmbankcare', 'cybercrimecid']",6,Idea,India,[],"('Asia/Calcutta',)",-0.0375
+8927455101,1,['https://twitter.com/dev_sonar/status/1596064065906184195'],"['fraud', 'Cyber fraud', 'Fraud']",['CPMumbaiPolice'],4,Reliance Jio,India,[],"('Asia/Calcutta',)",0.05
+2023713909,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],"['Money', 'Crime', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'cybercrimecid']",6,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",-0.075
+5596010148,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],"['Money', 'Crime', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'cybercrimecid']",6,,,[],"('Etc/Unknown',)",-0.075
+9170100461,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],"['Money', 'Crime', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'cybercrimecid']",6,Telewings,India,[],"('Asia/Calcutta',)",-0.075
+4182100016,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],"['Money', 'Crime', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'cybercrimecid']",6,,,[],"('Etc/Unknown',)",-0.075
+8527615038,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],"['Money', 'Crime', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'cybercrimecid']",6,Airtel,India,[],"('Asia/Calcutta',)",-0.075
+2232581812,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],"['Money', 'Crime', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'cybercrimecid']",6,,Mumbai,[],"('Asia/Calcutta',)",-0.075
+0000002023,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],"['Money', 'Crime', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'cybercrimecid']",6,,,[],"('Etc/Unknown',)",-0.075
+9185276150,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],"['Money', 'Crime', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'cybercrimecid']",6,BSNL MOBILE,India,[],"('Asia/Calcutta',)",-0.075
+0001536063,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],"['Money', 'Crime', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'cybercrimecid']",6,,,[],"('Etc/Unknown',)",-0.075
+6100921453,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],"['Money', 'Crime', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'cybercrimecid']",6,,India,[],"('Asia/Calcutta',)",-0.075
+2325818259,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],"['Money', 'Crime', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'cybercrimecid']",6,,,[],"('Etc/Unknown',)",-0.075
+7139092918,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],"['Money', 'Crime', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'cybercrimecid']",6,,India,[],"('Asia/Calcutta',)",-0.075
+6100921455,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],"['Money', 'Crime', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'cybercrimecid']",6,,India,[],"('Asia/Calcutta',)",-0.075
+2325818260,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],"['Money', 'Crime', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'cybercrimecid']",6,,,[],"('Etc/Unknown',)",-0.075
+7139092191,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],"['Money', 'Crime', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'cybercrimecid']",6,,India,[],"('Asia/Calcutta',)",-0.075
+2341122008,1,['https://twitter.com/sdorthopod/status/1596063722073915393'],"['Money', 'Crime', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'cybercrimecid']",6,,,[],"('Etc/Unknown',)",-0.075
+9064722733,1,['https://twitter.com/dev_786/status/1596041697833910274'],"['scam', 'Scam', 'number', 'bank', 'Bank']",['Mumbaipolice'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.3125
+3320306252,1,['https://twitter.com/sagarparte5/status/1596018671868346368'],"['number', 'fraud', 'no.', 'Fraud']",['Mumbaipolice'],5,,"Kolkata, West Bengal",[],"('Asia/Calcutta',)",0.05357142857142857
+8099319097,1,['https://twitter.com/kumarsom_/status/1596014071421468672'],"['Crime', 'Fraudster', 'fraudster', 'fraud', 'no.', 'Fraud']","['delhipolice', 'Cyberdost', 'cybercrimecid']",6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+8708768911,1,['https://twitter.com/Padamsales/status/1596000586654048256'],"['number', 'fraud', 'Fraud']",[],2,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+9324877686,1,['https://twitter.com/ribhurix/status/1595995567523770368'],"['Money', 'scam', 'Scam', 'number', 'phone']",['Uppolice'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.07916666666666666
+8894687390,1,['https://twitter.com/AmanVermaB1/status/1595938514289721344'],"['scam', 'Scam', 'bank', 'scammer', 'Scammer', 'Atm', 'Bank']",['delhipolice'],6,Airtel,India,[],"('Asia/Calcutta',)",0.35
+9560074941,1,['https://twitter.com/AmanVermaB1/status/1595938514289721344'],"['scam', 'Scam', 'bank', 'scammer', 'Scammer', 'Atm', 'Bank']",['delhipolice'],6,Airtel,India,[],"('Asia/Calcutta',)",0.35
+3130922001,1,['https://twitter.com/Ajeetpatel1985/status/1595898304591978496'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cybercellindia'],5,,,[],"('Etc/Unknown',)",0.0
+2320822001,1,['https://twitter.com/RavindraSaraog1/status/1595858773725224960'],"['Crime', 'number', 'Cyber crime', 'fraud', 'Cyber fraud', 'Fraud']",[],5,,,[],"('Etc/Unknown',)",-0.075
+3311122009,2,"['https://twitter.com/ahmadiqbal1112/status/1595790852605243392', 'https://twitter.com/ravidecentboy/status/1592785411788931074']","['number', 'bank', 'fraud', 'Bank', 'Fraud']","['Cyberdost', 'Uppolice']",6,,,[],"('Etc/Unknown',)",-0.005050505050505048
+0001313125,1,['https://twitter.com/ahmadiqbal1112/status/1595790852605243392'],"['number', 'bank', 'fraud', 'Bank', 'Fraud']",['Uppolice'],6,,,[],"('Etc/Unknown',)",0.03333333333333334
+0743934552,1,['https://twitter.com/rnjangra/status/1595789034093424640'],"['number', 'cheat', 'fraud', 'Fraud']",['Cyberdost'],4,,,[],"('Etc/Unknown',)",0.0
+6291401984,1,['https://twitter.com/BrahmanUvacha/status/1595783678524735488'],"['number', 'fraud', 'Cyber fraud', 'Impersonating', 'Fraud']",['Cyberdost'],7,Reliance Jio,India,[],"('Asia/Calcutta',)",0.054861111111111104
+8638963838,1,['https://twitter.com/ChandrasenPand2/status/1595756680780091392'],"['Money', 'bank', 'fraud', 'Bank', 'Fraud']",['Cybercellindia'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.07569444444444445
+9330346142,1,['https://twitter.com/GautamJ88331500/status/1595753873817206784'],"['phone', 'fraud', 'Fraud']",['Cyberdost'],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.007142857142857145
+2081122007,1,['https://twitter.com/the15thjob/status/1595739548130369536'],"['number', 'bank', 'fraud', 'Bank', 'Fraud']","['delhipolice', 'cyberabadpolice']",5,,,[],"('Etc/Unknown',)",0.0
+8368632565,1,['https://twitter.com/imsaurabhsingla/status/1595699273316065280'],"['number', 'scam', 'Scam']",['delhipolice'],2,Reliance Jio,India,[],"('Asia/Calcutta',)",0.04545454545454545
+3270822002,2,"['https://twitter.com/Kriplani18Anil/status/1595692645594304512', 'https://twitter.com/Kriplani18Anil/status/1589597763507204101']","['Money', 'bank', 'fraud', 'Bank', 'Fraud']",[],4,,,[],"('Etc/Unknown',)",-0.2
+7973249882,1,['https://twitter.com/TheRahulSI/status/1595685762984718338'],"['number', 'scam', 'Scam']",[],2,Reliance Jio,"Ahmedabad Local, Gujarat",[],"('Asia/Calcutta',)",0.0
+8815251217,1,['https://twitter.com/ckr143/status/1595663944680878080'],"['number', 'fraud', 'Fraud']",['Cyberdost'],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.03333333333333333
+3455250327,1,['https://twitter.com/PGISandeep/status/1595628935668125696'],"['number', 'fraud', 'Fraud']","['cpdelhi', 'Cyberdost', 'cybercrimecid']",5,,India,[],"('Asia/Calcutta',)",0.475
+2251122001,4,"['https://twitter.com/RohitKumar75754/status/1595609678167539713', 'https://twitter.com/AnilKatri/status/1593502052147085314', 'https://twitter.com/RohitKumar75754/status/1593258789482156032', 'https://twitter.com/Ankur22Sharma/status/1590292578481876992']","['Crime', 'number', 'Cyber crime', 'fraud', 'Fraud']","['Cybercellindia', 'Cyberdost']",6,,Mumbai,[],"('Asia/Calcutta',)",0.125
+9651393306,2,"['https://twitter.com/RohitKumar75754/status/1595609678167539713', 'https://twitter.com/RohitKumar75754/status/1593258789482156032']","['fraud', 'Fraud']",['Cyberdost'],5,Airtel,India,[],"('Asia/Calcutta',)",0.5625
+2155902894,2,"['https://twitter.com/RohitKumar75754/status/1595609678167539713', 'https://twitter.com/RohitKumar75754/status/1593258789482156032']","['fraud', 'Fraud']",['Cyberdost'],5,,"Navi Mumbai/Turbhe, Maharashtra",[],"('Asia/Calcutta',)",0.5625
+7717364774,1,['https://twitter.com/RohitKumar75754/status/1595609678167539713'],"['fraud', 'Fraud']",['Cyberdost'],3,Reliance Jio,"Raipur, Madhya Pradesh",[],"('Asia/Calcutta',)",0.375
+3165002207,1,['https://twitter.com/Neeraj22Y/status/1595571120815894528'],"['Money', 'fraud', 'no.', 'Fraud']","['RBI', 'Uppolice']",6,,,[],"('Etc/Unknown',)",0.0
+1227097007,1,['https://twitter.com/suniljalli_88/status/1595519880790683648'],"['Money', 'scam', 'Crime', 'Scam', 'Loot', 'fraud', 'Fraud']",['cybercrimecid'],7,,"Hapur, Uttar Pradesh",[],"('Asia/Calcutta',)",-0.0013888888888888933
+8382849918,1,['https://twitter.com/suniljalli_88/status/1595519880790683648'],"['Money', 'scam', 'Crime', 'Scam', 'Loot', 'fraud', 'Fraud']",['cybercrimecid'],7,Telewings,India,[],"('Asia/Calcutta',)",-0.0013888888888888933
+1227007007,1,['https://twitter.com/suniljalli_88/status/1595519880790683648'],"['Money', 'scam', 'Crime', 'Scam', 'Loot', 'fraud', 'Fraud']",['cybercrimecid'],7,,"Hapur, Uttar Pradesh",[],"('Asia/Calcutta',)",-0.0013888888888888933
+9179976530,1,['https://twitter.com/suniljalli_88/status/1595519880790683648'],"['Money', 'scam', 'Crime', 'Scam', 'Loot', 'fraud', 'Fraud']",['cybercrimecid'],7,Airtel,India,[],"('Asia/Calcutta',)",-0.0013888888888888933
+9111374067,1,['https://twitter.com/FaizAnsari777/status/1595515572766113792'],"['number', 'scam', 'Scam']",['CPMumbaiPolice'],4,Idea,India,[],"('Asia/Calcutta',)",0.0
+8922898322,2,"['https://twitter.com/_thefine/status/1595391674167209984', 'https://twitter.com/Hanishhsharma/status/1595378986057883649']","['scam', 'Crime', 'Scam', 'number', 'scammer', 'fraud', 'Scammer', 'Fraud']","['Theofficialsbi', 'Cyberdost']",7,Telewings,India,[],"('Asia/Calcutta',)",0.004166666666666664
+6353201495,1,['https://twitter.com/parthvyas1989/status/1595383185126612992'],"['number', 'Crime', 'fraud', 'Fraud']",['Mumbaipolice'],4,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+8922893322,1,['https://twitter.com/Hanishhsharma/status/1595378986057883649'],"['number', 'scam', 'Crime', 'Scam']","['Theofficialsbi', 'Cyberdost']",7,Telewings,India,[],"('Asia/Calcutta',)",-0.025000000000000005
+6263449197,1,['https://twitter.com/gilligillii/status/1595369812829474817'],"['number', 'fraud', 'Fraud']",['Cyberdost'],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+8271392573,1,['https://twitter.com/7ashwanikaushik/status/1595363899737804804'],"['scam', 'Scam', 'scammer', 'Scammer', 'no.', 'mobile']",['Cyberdost'],6,Telewings,India,[],"('Asia/Calcutta',)",-0.05625
+7275701537,1,['https://twitter.com/ordinaryboyrhl/status/1595361072273559552'],"['number', 'Money', 'fraud', 'Fraud']",['Uppolice'],4,Tata Docomo,India,[],"('Asia/Calcutta',)",0.0
+7083953486,1,['https://twitter.com/iVicky024/status/1595330572741922817'],"['number', 'bank', 'fraud', 'Bank', 'Fraud']",['delhipolice'],4,Idea,India,[],"('Asia/Calcutta',)",0.0
+0738175418,1,['https://twitter.com/smrutidash76gm1/status/1595326759536562176'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']","['Cyberdost', 'cybercrimecid']",6,,,[],"('Etc/Unknown',)",0.05
+9382246755,1,['https://twitter.com/ncjatin/status/1595319136875589633'],"['number', 'scam', 'Scam', 'phone']",['Mumbaipolice'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+8218820350,1,['https://twitter.com/KajalHastiyan/status/1595318305711001600'],"['number', 'fraud', 'Fraud']",[],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.02
+0700334244,1,['https://twitter.com/Saurabh55941315/status/1595310712783790080'],"['phone', 'fraud', 'Fraud']",['Cyberdost'],3,,,[],"('Etc/Unknown',)",0.0625
+9321200207,1,['https://twitter.com/VidhiSanghvi02/status/1595291095046709248'],"['number', 'fraud', 'Fraud']",['Mumbaipolice'],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+9038557401,1,['https://twitter.com/nrokda/status/1595283186250297345'],"['number', 'fraud', 'Fraud']","['Cybercellindia', 'cybercrimecid']",4,Tata Docomo,India,[],"('Asia/Calcutta',)",0.0
+2051022002,1,['https://twitter.com/soulless_subbu/status/1595065997580722177'],"['cheat', 'bank', 'Online fraud', 'fraud', 'Bank', 'Fraud']",['Cyberdost'],7,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",-0.15
+9431820409,1,['https://twitter.com/soulless_subbu/status/1595065997580722177'],"['cheat', 'bank', 'Online fraud', 'fraud', 'Bank', 'Fraud']",['Cyberdost'],7,BSNL MOBILE,India,[],"('Asia/Calcutta',)",-0.15
+9302004411,1,['https://twitter.com/Shahjahan_bhai/status/1595060557119655943'],"['number', 'fraud', 'no.', 'Fraud']",['delhipolice'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+6353288068,1,['https://twitter.com/Shahjahan_bhai/status/1595060557119655943'],"['number', 'fraud', 'no.', 'Fraud']",['delhipolice'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+8439182293,1,['https://twitter.com/im_lovesharma/status/1595005017014296577'],"['scam', 'Crime', 'Scam', 'number', 'phone', 'New fraud started', 'fraud', 'Fraud']","['delhipolice', 'cybercrimecid']",8,Tata Docomo,India,[],"('Asia/Calcutta',)",0.13636363636363635
+9641119172,1,['https://twitter.com/im_lovesharma/status/1595005017014296577'],"['scam', 'Crime', 'Scam', 'number', 'phone', 'New fraud started', 'fraud', 'Fraud']","['delhipolice', 'cybercrimecid']",8,Reliance Jio,India,[],"('Asia/Calcutta',)",0.13636363636363635
+7842903796,1,['https://twitter.com/Ankur200300/status/1594940388221292544'],"['number', 'fraud', 'Fraud']",['Cyberdost'],4,Tata Docomo,India,[],"('Asia/Calcutta',)",0.19999999999999998
+7908970463,1,['https://twitter.com/Ankur200300/status/1594940388221292544'],"['number', 'fraud', 'Fraud']",['Cyberdost'],4,Reliance Jio,India,[],"('Asia/Calcutta',)",0.19999999999999998
+8250006839,1,['https://twitter.com/Deepaks002t/status/1594913893700075520'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Uppolice'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.09444444444444444
+0825000683,1,['https://twitter.com/Deepaks002t/status/1594913893700075520'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Uppolice'],6,,,[],"('Etc/Unknown',)",-0.09444444444444444
+8602479544,1,['https://twitter.com/anubhavmehta/status/1594714603711172608'],"['number', 'scam', 'Scam']","['Theofficialsbi', 'Cyberdost']",3,Tata Docomo,India,[],"('Asia/Calcutta',)",0.0
+8273786166,1,['https://twitter.com/Sonuanna13/status/1594712029209587712'],"['fraud', 'Fraud']",['Uppolice'],4,Telewings,India,[],"('Asia/Calcutta',)",-0.5
+2022112118,1,['https://twitter.com/Sonuanna13/status/1594712029209587712'],"['fraud', 'Fraud']",['Uppolice'],4,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",-0.5
+2325593067,1,['https://twitter.com/Sonuanna13/status/1594712029209587712'],"['fraud', 'Fraud']",['Uppolice'],4,,"Kagal/Murgud, Maharashtra",[],"('Asia/Calcutta',)",-0.5
+2161022003,1,['https://twitter.com/Rsahai5/status/1594658364880928768'],"['Money', 'scam', 'Crime', 'Scam', 'bank', 'fraud', 'Bank', 'Fraud']",['Cyberdost'],8,,,[],"('Etc/Unknown',)",-0.049999999999999996
+9330352932,1,['https://twitter.com/Rsahai5/status/1594658364880928768'],"['Money', 'scam', 'Crime', 'Scam', 'bank', 'fraud', 'Bank', 'Fraud']",['Cyberdost'],8,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.049999999999999996
+9692980179,1,['https://twitter.com/Rj6117/status/1594629183250264064'],"['scam', 'Scam', 'number', 'scammer', 'fraud', 'Scammer', 'Fraud']","['delhipolice', 'Mumbaipolice', 'Theofficialsbi']",8,Reliance Jio,India,[],"('Asia/Calcutta',)",0.05000000000000001
+7389533032,1,['https://twitter.com/yogtoday/status/1594627702341836801'],"['number', 'bank', 'fraud', 'Bank', 'Fraud']",['Cyberdost'],5,Airtel,India,[],"('Asia/Calcutta',)",-0.15
+7674866840,1,['https://twitter.com/UrbanPaunch/status/1594612014193999872'],"['number', 'scam', 'Scam']",[],2,Airtel,India,[],"('Asia/Calcutta',)",0.0
+0002800000,1,['https://twitter.com/Hitendraarya1/status/1594608551741489152'],"['fraud', 'Fraud']",['Cyberdost'],3,,,[],"('Etc/Unknown',)",0.0
+1072211041,1,['https://twitter.com/Hitendraarya1/status/1594608551741489152'],"['fraud', 'Fraud']",['Cyberdost'],3,,,[],"('Etc/Unknown',)",0.0
+5244099562,1,['https://twitter.com/Hitendraarya1/status/1594608551741489152'],"['fraud', 'Fraud']",['Cyberdost'],3,,,[],"('Etc/Unknown',)",0.0
+2308742706,1,['https://twitter.com/Hitendraarya1/status/1594608551741489152'],"['fraud', 'Fraud']",['Cyberdost'],3,,,[],"('Etc/Unknown',)",0.0
+6295754836,1,['https://twitter.com/SumantShekhar/status/1594604850574393344'],"['phone', 'Crime', 'fraud', 'Fraud']",['cybercrimecid'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.016666666666666666
+8108311354,1,['https://twitter.com/Matinshaikh128/status/1594590982116634624'],"['fraud', 'bank', 'Bank', 'Fraud']",['CPMumbaiPolice'],5,Idea,India,[],"('Asia/Calcutta',)",0.0
+6291488461,1,['https://twitter.com/AniruddhaPolley/status/1594578650179186688'],"['number', 'scam', 'Scam']",['Mumbaipolice'],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.10714285714285714
+7205195353,1,['https://twitter.com/IamKandarpa/status/1594573150754246663'],"['mobile', 'number', 'fraud', 'Fraud']","['Cybercellindia', 'Cyberdost']",6,Tata Docomo,India,[],"('Asia/Calcutta',)",0.0
+9653129957,1,['https://twitter.com/TYAGIHINDU/status/1594548122532782080'],"['fraud', 'Crime', 'Online fraud', 'Fraud']","['Uppolice', 'cybercrimecid']",7,Reliance Jio,India,[],"('Asia/Calcutta',)",0.1
+0324050031,1,['https://twitter.com/TYAGIHINDU/status/1594548122532782080'],"['fraud', 'Crime', 'Online fraud', 'Fraud']","['Uppolice', 'cybercrimecid']",7,,,[],"('Etc/Unknown',)",0.1
+2407220695,1,['https://twitter.com/shefaligupta23/status/1594415293413347328'],['Loot'],[],2,,India,[],"('Asia/Calcutta',)",-0.03
+7311151851,1,['https://twitter.com/shefaligupta23/status/1594415293413347328'],['Loot'],[],2,,India,[],"('Asia/Calcutta',)",-0.03
+6370695396,1,['https://twitter.com/varun2011kites/status/1594394892943634432'],"['Money', 'Crime', 'bank', 'fraud', 'Bank', 'Fraud']","['delhipolice', 'cybercrimecid']",5,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.16666666666666666
+2111122002,1,['https://twitter.com/vishalshiyal87/status/1594379512619622400'],"['scam', 'Scam', 'no.']",['Cyberdost'],3,,,[],"('Etc/Unknown',)",-0.13333333333333333
+0779576602,1,['https://twitter.com/Rai_ka_Pahaad/status/1594376422927335426'],"['Bank fraud', 'bank', 'fraud', 'Bank', 'Fraud']",['Cybercellindia'],7,,,[],"('Etc/Unknown',)",0.18333333333333332
+9336732590,1,['https://twitter.com/missioniasAIR1/status/1594373132655431680'],"['number', 'fraud', 'Fraud']","['Cyberdost', 'Uppolice']",4,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.049999999999999996
+2190622003,1,['https://twitter.com/PacheRuchika/status/1594305304652496896'],"['Crime', 'Fraudster', 'fraudster', 'fraud', 'Fraud']",['Cyberdost'],5,,India,[],"('Asia/Calcutta',)",-0.016666666666666666
+8910359495,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],"['Crime', 'number', 'phone', 'fraud', 'Fraud']",['Uppolice'],7,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+3242200115,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],"['Crime', 'number', 'phone', 'fraud', 'Fraud']",['Uppolice'],7,,"Bankura, West Bengal",[],"('Asia/Calcutta',)",0.0
+5988382294,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],"['Crime', 'number', 'phone', 'fraud', 'Fraud']",['Uppolice'],7,,,[],"('Etc/Unknown',)",0.0
+8800688006,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],"['Crime', 'number', 'phone', 'fraud', 'Fraud']",['Uppolice'],7,Airtel,India,[],"('Asia/Calcutta',)",0.0
+6398480763,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],"['Crime', 'number', 'phone', 'fraud', 'Fraud']",['Uppolice'],7,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+5988391928,1,['https://twitter.com/ShivDayalMaur13/status/1594294819014119426'],"['Crime', 'number', 'phone', 'fraud', 'Fraud']",['Uppolice'],7,,,[],"('Etc/Unknown',)",0.0
+9956616573,1,['https://twitter.com/SANTOSHRAI_NAMO/status/1594278328768245760'],"['Crime', 'number', 'Cyber crime', 'fraud', 'Fraud']",['delhipolice'],6,Airtel,India,[],"('Asia/Calcutta',)",0.0
+6296498702,1,['https://twitter.com/SANTOSHRAI_NAMO/status/1594278328768245760'],"['Crime', 'number', 'Cyber crime', 'fraud', 'Fraud']",['delhipolice'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+7338805801,1,['https://twitter.com/SANTOSHRAI_NAMO/status/1594278328768245760'],"['Crime', 'number', 'Cyber crime', 'fraud', 'Fraud']",['delhipolice'],6,Airtel,India,[],"('Asia/Calcutta',)",0.0
+9861286415,1,['https://twitter.com/SANTOSHRAI_NAMO/status/1594278328768245760'],"['Crime', 'number', 'Cyber crime', 'fraud', 'Fraud']",['delhipolice'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+8093864660,1,['https://twitter.com/SahilKrgupta5/status/1594270835644465153'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']","['delhipolice', 'Cyberdost']",6,Tata Docomo,India,[],"('Asia/Calcutta',)",-0.05555555555555555
+8918657534,1,['https://twitter.com/vichitra_manus/status/1594263929756475393'],"['number', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']",['Paytmbankcare'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.17142857142857143
+9038412698,1,['https://twitter.com/shailen01041981/status/1594257358385213440'],"['number', 'fraud', 'Fraud']",['Cyberdost'],4,Tata Docomo,India,[],"('Asia/Calcutta',)",-0.025
+9038412837,1,['https://twitter.com/shailen01041981/status/1594257358385213440'],"['number', 'fraud', 'Fraud']",['Cyberdost'],4,Tata Docomo,India,[],"('Asia/Calcutta',)",-0.025
+3643399513,1,['https://twitter.com/ChitraMehta12/status/1594246998454317056'],"['number', 'Fraudster', 'fraudster', 'fraud', 'Fraud']",['Mumbaipolice'],6,,"Shillong, Meghalaya",[],"('Asia/Calcutta',)",0.0
+8008778826,1,['https://twitter.com/mayankkummar/status/1594208643477803010'],"['number', 'scam', 'Scam']","['Mumbaipolice', 'CPMumbaiPolice']",6,Airtel,India,[],"('Asia/Calcutta',)",0.325
+6294194573,1,['https://twitter.com/mayankkummar/status/1594208643477803010'],"['number', 'scam', 'Scam']","['Mumbaipolice', 'CPMumbaiPolice']",6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.325
+6204081737,1,['https://twitter.com/RuubinaShah/status/1594207665965748225'],"['bank', 'fraud', 'no.', 'Bank', 'Fraud']",['Mumbaipolice'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+9940570051,1,['https://twitter.com/RuubinaShah/status/1594207665965748225'],"['bank', 'fraud', 'no.', 'Bank', 'Fraud']",['Mumbaipolice'],6,Airtel,India,[],"('Asia/Calcutta',)",0.0
+9827578081,2,"['https://twitter.com/NgryYngMan/status/1594203529551712257', 'https://twitter.com/peekaybuildtech/status/1589304199527137281']","['number', 'bank', 'phone', 'fraud', 'no.', 'Bank', 'Fraud']","['Cyberdost', 'Uppolice']",6,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.078125
+2322633828,1,['https://twitter.com/Gaurav___Sengar/status/1594036855791439873'],"['fraud', 'no.', 'Fraud']",['Cybercellindia'],3,,"Shirol/Jalsingpur, Maharashtra",[],"('Asia/Calcutta',)",0.0
+1270535855,1,['https://twitter.com/NileshNlg/status/1593972615190024192'],"['number', 'scam', 'Scam']",[],4,,India,[],"('Asia/Calcutta',)",-0.008333333333333333
+8989325994,1,['https://twitter.com/NileshNlg/status/1593972615190024192'],"['number', 'scam', 'Scam']",[],4,BSNL MOBILE,India,[],"('Asia/Calcutta',)",-0.008333333333333333
+3191122000,1,['https://twitter.com/deepakJeepu/status/1593957001205202944'],"['fraud', 'Fraud']","['Mumbaipolice', 'Cyberdost', 'cybercrimecid']",5,,,[],"('Etc/Unknown',)",0.025
+9594986515,1,['https://twitter.com/deepakJeepu/status/1593957001205202944'],"['fraud', 'Fraud']","['Mumbaipolice', 'Cyberdost', 'cybercrimecid']",5,Idea,India,[],"('Asia/Calcutta',)",0.025
+9650162925,1,['https://twitter.com/biswajit_ece/status/1593939793725251584'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cybercellindia'],4,Airtel,India,[],"('Asia/Calcutta',)",0.175
+7317423111,1,['https://twitter.com/rohalgala/status/1593924813566844929'],"['number', 'fraud', 'Fraud']","['Mumbaipolice', 'Theofficialsbi']",5,Vodafone,"Indore, Madhya Pradesh",[],"('Asia/Calcutta',)",0.0
+8051428154,1,['https://twitter.com/rohalgala/status/1593924813566844929'],"['number', 'fraud', 'Fraud']","['Mumbaipolice', 'Theofficialsbi']",5,Vodafone,"Bangalore, Karnataka",[],"('Asia/Calcutta',)",0.0
+9840193211,1,['https://twitter.com/SyedanwarKaifee/status/1593907250414116864'],"['number', 'fraud', 'Fraud']",[],3,Airtel,India,[],"('Asia/Calcutta',)",-0.024999999999999998
+7074910887,1,['https://twitter.com/Kumar_3399/status/1593848052229341184'],"['Crime', 'number', 'bank', 'fraud', 'Bank', 'Fraud']",['cybercrimecid'],5,Idea,India,[],"('Asia/Calcutta',)",-0.25
+8708837100,1,['https://twitter.com/DNTBillionaire/status/1593783043466010624'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Uppolice'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.03125
+5010021199,1,['https://twitter.com/ervijay_maurya/status/1593669009932697601'],"['bank', 'Online fraud', 'fraud', 'Bank', 'Fraud']",['CPMumbaiPolice'],6,,,[],"('Etc/Unknown',)",0.0
+7065679634,1,['https://twitter.com/balajisharathk1/status/1593668276445642754'],"['scam', 'Scam', 'scammer', 'fraud', 'Scammer', 'no.', 'Fraud']",['delhipolice'],7,Idea,India,[],"('Asia/Calcutta',)",-0.01647727272727273
+5156399943,1,['https://twitter.com/balajisharathk1/status/1593668276445642754'],"['scam', 'Scam', 'scammer', 'fraud', 'Scammer', 'no.', 'Fraud']",['delhipolice'],7,,"Unnao, Uttar Pradesh",[],"('Asia/Calcutta',)",-0.01647727272727273
+1855923221,1,['https://twitter.com/balajisharathk1/status/1593668276445642754'],"['scam', 'Scam', 'scammer', 'fraud', 'Scammer', 'no.', 'Fraud']",['delhipolice'],7,,,[],"('Etc/Unknown',)",-0.01647727272727273
+8882428107,1,['https://twitter.com/balajisharathk1/status/1593668276445642754'],"['scam', 'Scam', 'scammer', 'fraud', 'Scammer', 'no.', 'Fraud']",['delhipolice'],7,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.01647727272727273
+1888242810,1,['https://twitter.com/balajisharathk1/status/1593668276445642754'],"['scam', 'Scam', 'scammer', 'fraud', 'Scammer', 'no.', 'Fraud']",['delhipolice'],7,,India,[],"('Asia/Calcutta',)",-0.01647727272727273
+9431171929,1,['https://twitter.com/OhalPraveen/status/1593654627840692225'],"['number', 'phone', 'fraud', 'Fraud']",[],4,BSNL MOBILE,India,[],"('Asia/Calcutta',)",-0.03333333333333333
+7484989446,1,['https://twitter.com/bhuanil1993/status/1593640435154833410'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,Airtel,India,[],"('Asia/Calcutta',)",0.2222222222222222
+3793661537,1,['https://twitter.com/bhuanil1993/status/1593640435154833410'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,,"Mechuka, Arunachal Pradesh",[],"('Asia/Calcutta',)",0.2222222222222222
+7007237494,1,['https://twitter.com/bhuanil1993/status/1593640435154833410'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.2222222222222222
+8453166071,1,['https://twitter.com/illogical_humor/status/1593626858846916609'],"['number', 'scam', 'Scam']","['Mumbaipolice', 'Cyberdost']",5,,India,[],"('Asia/Calcutta',)",0.125
+9337340436,1,['https://twitter.com/boobna/status/1593617051025051648'],"['number', 'fraud', 'Online fraud', 'Fraud']",['Mumbaipolice'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.29375
+0124643480,1,['https://twitter.com/pandatrisky/status/1593613577344421890'],"['number', 'Money', 'fraud', 'Fraud']",['delhipolice'],3,,,[],"('Etc/Unknown',)",0.0
+1997121250,1,['https://twitter.com/ruchinmehra/status/1593598279690125312'],"['fraud', 'Fraudster', 'fraudster', 'Fraud']",['Uppolice'],6,,,[],"('Etc/Unknown',)",0.016666666666666673
+4001402204,1,['https://twitter.com/ruchinmehra/status/1593598279690125312'],"['fraud', 'Fraudster', 'fraudster', 'Fraud']",['Uppolice'],6,,,[],"('Etc/Unknown',)",0.016666666666666673
+9927270443,1,['https://twitter.com/imankurrana/status/1593577730007658496'],"['number', 'fraud', 'Fraud']",['Uppolice'],5,Idea,India,[],"('Asia/Calcutta',)",0.16666666666666666
+2777743646,1,['https://twitter.com/imankurrana/status/1593577730007658496'],"['number', 'fraud', 'Fraud']",['Uppolice'],5,,India,[],"('Asia/Calcutta',)",0.16666666666666666
+2022111815,1,['https://twitter.com/imankurrana/status/1593577730007658496'],"['number', 'fraud', 'Fraud']",['Uppolice'],5,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",0.16666666666666666
+9188252619,1,['https://twitter.com/imankurrana/status/1593577730007658496'],"['number', 'fraud', 'Fraud']",['Uppolice'],5,BSNL MOBILE,India,[],"('Asia/Calcutta',)",0.16666666666666666
+9198370881,1,['https://twitter.com/imankurrana/status/1593577730007658496'],"['number', 'fraud', 'Fraud']",['Uppolice'],5,Airtel,India,[],"('Asia/Calcutta',)",0.16666666666666666
+2777740606,1,['https://twitter.com/imankurrana/status/1593577730007658496'],"['number', 'fraud', 'Fraud']",['Uppolice'],5,,India,[],"('Asia/Calcutta',)",0.16666666666666666
+9679626725,1,['https://twitter.com/AkshayRathore95/status/1593566603710722048'],"['bank', 'fraud', 'no.', 'Bank', 'Fraud']",['delhipolice'],5,Airtel,India,[],"('Asia/Calcutta',)",0.16666666666666666
+8123456434,1,['https://twitter.com/swarnajothips/status/1593566020312391681'],"['number', 'fraud', 'Fraud']",[],3,Tata Docomo,India,[],"('Asia/Calcutta',)",-0.09375
+0041400184,1,['https://twitter.com/swarnajothips/status/1593566020312391681'],"['number', 'fraud', 'Fraud']",[],3,,,[],"('Etc/Unknown',)",-0.09375
+6822490014,1,['https://twitter.com/Upganlawar/status/1593525186556743680'],"['fraud', 'bank', 'Bank', 'Fraud']",['CPMumbaiPolice'],4,,"Aska, Odisha",[],"('Asia/Calcutta',)",0.0
+2271122003,2,"['https://twitter.com/shakaalfan/status/1593501780322705408', 'https://twitter.com/Nawalsingh11238/status/1592398402402553857']","['number', 'fraud', 'Fraud']",['Cyberdost'],4,,Mumbai,[],"('Asia/Calcutta',)",0.0
+9316009596,1,['https://twitter.com/Jan_Shakti_/status/1593486959824883717'],"['scam', 'Scam', 'number', 'scammer', 'fraud', 'Scammer', 'Fraud']",[],6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+0874302158,1,['https://twitter.com/cryptoenthu007/status/1593486357615497221'],"['scam', 'Scam', 'number', 'fraud', 'Fraud']",['Mumbaipolice'],5,,,[],"('Etc/Unknown',)",-0.25
+9570576502,1,['https://twitter.com/rakeshiiita/status/1593469546916372480'],"['scam', 'Scam', 'number', 'bank', 'scammer', 'Scammer', 'Bank']",['Cyberdost'],6,Vodafone,India,[],"('Asia/Calcutta',)",0.0
+9337781760,1,['https://twitter.com/RAHULKU41786992/status/1593465370492301313'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",[],4,Reliance Jio,India,[],"('Asia/Calcutta',)",0.3
+8945259897,1,['https://twitter.com/BRAJRAJ31053894/status/1593309000107720704'],"['fraud', 'Fraud']",['Cybercellindia'],3,Airtel,"Tekkali/Palasa, Andhra Pradesh",[],"('Asia/Calcutta',)",0.0
+8982346088,1,['https://twitter.com/karanbaru/status/1593294673271226369'],"['number', 'Crime', 'fraud', 'Fraud']",['cybercrimecid'],4,Tata Docomo,India,[],"('Asia/Calcutta',)",0.0
+7005220052,1,['https://twitter.com/karanbaru/status/1593294673271226369'],"['number', 'Crime', 'fraud', 'Fraud']",['cybercrimecid'],4,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+9818488208,1,['https://twitter.com/sunnnyykb/status/1593284709924376576'],"['number', 'scam', 'Scam', 'cheat']",['delhipolice'],4,Airtel,India,[],"('Asia/Calcutta',)",0.0
+8827813039,1,['https://twitter.com/patrakarsksingh/status/1593265478918885377'],"['scam', 'Scam', 'scammer', 'Scammer', 'no.']","['Theofficialsbi', 'Cyberdost', 'Uppolice']",7,Airtel,India,[],"('Asia/Calcutta',)",0.01
+9734480959,1,['https://twitter.com/itzap7/status/1593202791878885377'],"['Money', 'fraud', 'no.', 'Fraud']",['Cyberdost'],6,Vodafone,India,[],"('Asia/Calcutta',)",0.0
+8918641825,1,['https://twitter.com/itzap7/status/1593202791878885377'],"['Money', 'fraud', 'no.', 'Fraud']",['Cyberdost'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+8815670247,1,['https://twitter.com/pathan_afi/status/1593201230423416832'],"['number', 'fraud', 'Online fraud', 'Fraud']","['Cyberdost', 'CPMumbaiPolice']",7,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+1820010001,1,['https://twitter.com/tushar13111980/status/1593178408485523457'],"['Crime', 'bank', 'fraud', 'Bank', 'Fraud']",['delhipolice'],4,,,[],"('Etc/Unknown',)",-0.05
+9670765214,1,['https://twitter.com/TusharKannaujia/status/1593154184790302720'],"['scam', 'Scam', 'no.']","['Cyberdost', 'Uppolice']",5,Vodafone,India,[],"('Asia/Calcutta',)",0.0
+6361436492,1,['https://twitter.com/ashu199019/status/1593150218375397376'],"['fraud', 'Fraud']",[],2,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+6302382250,1,['https://twitter.com/ashu199019/status/1593150218375397376'],"['fraud', 'Fraud']",[],2,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+9482422512,1,['https://twitter.com/ashu199019/status/1593150218375397376'],"['fraud', 'Fraud']",[],2,BSNL MOBILE,India,[],"('Asia/Calcutta',)",0.0
+9482622512,1,['https://twitter.com/ashu199019/status/1593150218375397376'],"['fraud', 'Fraud']",[],2,BSNL MOBILE,India,[],"('Asia/Calcutta',)",0.0
+8828793876,1,['https://twitter.com/GaMingWithHack9/status/1593140357294088192'],"['scam', 'Scam', 'number', 'bank', 'scammer', 'Scammer', 'Bank']","['delhipolice', 'Mumbaipolice', 'cybercrimecid']",8,Idea,India,[],"('Asia/Calcutta',)",0.0
+0957057605,1,['https://twitter.com/rakeshiiita/status/1593136892572471296'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],4,,,[],"('Etc/Unknown',)",-0.4
+9142083920,1,['https://twitter.com/JOYDIPROYBARMAN/status/1593111777373741056'],"['mobile', 'number', 'fraud', 'Fraud']",['delhipolice'],5,,India,[],"('Asia/Calcutta',)",0.08333333333333333
+7070176213,1,['https://twitter.com/JOYDIPROYBARMAN/status/1593111777373741056'],"['mobile', 'number', 'fraud', 'Fraud']",['delhipolice'],5,Airtel,India,[],"('Asia/Calcutta',)",0.08333333333333333
+7679176211,1,['https://twitter.com/JOYDIPROYBARMAN/status/1593111777373741056'],"['mobile', 'number', 'fraud', 'Fraud']",['delhipolice'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.08333333333333333
+0743936992,1,['https://twitter.com/santoshsuman123/status/1593110775455178752'],"['scam', 'Scam', 'number', 'fraud', 'Fraud']",['Cyberdost'],5,,,[],"('Etc/Unknown',)",0.1
+7902026504,1,['https://twitter.com/79Prashantsingh/status/1593099253051949056'],"['number', 'fraud', 'Fraud']",['Cyberdost'],4,Idea,India,[],"('Asia/Calcutta',)",0.16666666666666666
+9394405083,1,['https://twitter.com/79Prashantsingh/status/1593099253051949056'],"['number', 'fraud', 'Fraud']",['Cyberdost'],4,Reliance Jio,India,[],"('Asia/Calcutta',)",0.16666666666666666
+3025573019,1,['https://twitter.com/babbarx/status/1593090245834473472'],"['scam', 'Crime', 'Scam', 'scammer', 'fraud', 'Scammer', 'no.', 'Fraud']",['Cybercellindia'],7,,,[],"('Etc/Unknown',)",0.0
+9019996710,1,['https://twitter.com/babbarx/status/1593090245834473472'],"['scam', 'Crime', 'Scam', 'scammer', 'fraud', 'Scammer', 'no.', 'Fraud']",['Cybercellindia'],7,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+2228947237,1,['https://twitter.com/gauravsharma580/status/1593076992517500930'],"['fraud', 'bank', 'Bank', 'Fraud']","['delhipolice', 'RBI', 'cybercrimecid']",6,,Mumbai,[],"('Asia/Calcutta',)",0.0
+3311022009,1,['https://twitter.com/gauravsharma580/status/1593076992517500930'],"['fraud', 'bank', 'Bank', 'Fraud']","['delhipolice', 'RBI', 'cybercrimecid']",6,,,[],"('Etc/Unknown',)",0.0
+9382538986,1,['https://twitter.com/VishnuP95275701/status/1592849530512625664'],"['scam', 'Crime', 'Scam', 'number', 'bank', 'scammer', 'Scammer', 'Bank']","['Paytmbankcare', 'Cybercellindia', 'cybercrimecid', 'cyberabadpolice']",8,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+6370277928,1,['https://twitter.com/Ankurgo53008067/status/1592837184163545089'],"['Crime', 'number', 'Fraudster', 'fraudster', 'fraud', 'Fraud']",[],5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+8949556501,1,['https://twitter.com/Samrinkhann98/status/1592832249015439365'],"['Money', 'number', 'Fraudster', 'fraudster', 'fraud', 'Fraud']","['cybercrimecid', 'StaySafeOnline', 'Mumbaipolice', 'Paytmbankcare', 'Cyberdost']",7,Reliance Jio,India,[],"('Asia/Calcutta',)",0.1
+7518741949,1,['https://twitter.com/VGRastogi/status/1592830145194528768'],"['number', 'fraud', 'Fraud']",['delhipolice'],3,Airtel,India,[],"('Asia/Calcutta',)",-0.35
+8738852963,1,['https://twitter.com/VGRastogi/status/1592830145194528768'],"['number', 'fraud', 'Fraud']",['delhipolice'],3,Telewings,India,[],"('Asia/Calcutta',)",-0.35
+1331112209,1,['https://twitter.com/ravidecentboy/status/1592785411788931074'],"['number', 'fraud', 'Fraud']",['Cyberdost'],5,,,[],"('Etc/Unknown',)",-0.043434343434343436
+9355078334,1,['https://twitter.com/anooptiwarifkd/status/1592781998783098880'],"['Money', 'fraud', 'no.', 'mobile', 'Fraud']",['Cyberdost'],6,Idea,India,[],"('Asia/Calcutta',)",0.06666666666666667
+7005777878,1,['https://twitter.com/anooptiwarifkd/status/1592781998783098880'],"['Money', 'fraud', 'no.', 'mobile', 'Fraud']",['Cyberdost'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.06666666666666667
+9382431159,1,['https://twitter.com/MOHDASRAR/status/1592767106948681731'],"['Cyber fraud group', 'Crime', 'number', 'fraud', 'Cyber fraud', 'no.', 'Fraud']",['delhipolice'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.05
+9915315498,1,['https://twitter.com/payyaboy/status/1592682503810469888'],"['fraud', 'bank', 'Bank', 'Fraud']",['Cyberdost'],5,Airtel,India,[],"('Asia/Calcutta',)",0.08522727272727272
+8695253363,1,['https://twitter.com/ANILSIWACH10/status/1592561828974190592'],"['Money', 'number', 'fraud', 'mobile', 'Fraud']",['Cyberdost'],5,Vodafone,India,[],"('Asia/Calcutta',)",-0.022222222222222227
+2022082830,1,['https://twitter.com/khajuria_s/status/1592532229607260161'],['Loot'],[],0,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",-0.06666666666666667
+9582586588,1,['https://twitter.com/khabarmax/status/1592528337280589825'],"['scam', 'Scam', 'fraud', 'no.', 'Fraud']",['Mumbaipolice'],5,Vodafone,India,[],"('Asia/Calcutta',)",0.10400000000000001
+1411220102,1,['https://twitter.com/ravindrav53/status/1592478149715316736'],"['phone', 'fraud', 'Fraud']","['Mumbaipolice', 'cybercrimecid']",5,,,[],"('Etc/Unknown',)",-0.16666666666666666
+7808222391,1,['https://twitter.com/ravindrav53/status/1592478149715316736'],"['phone', 'fraud', 'Fraud']","['Mumbaipolice', 'cybercrimecid']",5,Idea,India,[],"('Asia/Calcutta',)",-0.16666666666666666
+9784435170,1,['https://twitter.com/ravindrav53/status/1592478149715316736'],"['phone', 'fraud', 'Fraud']","['Mumbaipolice', 'cybercrimecid']",5,Airtel,India,[],"('Asia/Calcutta',)",-0.16666666666666666
+7715051040,1,['https://twitter.com/ravindrav53/status/1592478149715316736'],"['phone', 'fraud', 'Fraud']","['Mumbaipolice', 'cybercrimecid']",5,Idea,"Raipur, Madhya Pradesh",[],"('Asia/Calcutta',)",-0.16666666666666666
+8586052437,1,['https://twitter.com/Vishal902746/status/1592463123189207045'],"['number', 'scam', 'Scam']",['Cyberdost'],3,Vodafone,India,[],"('Asia/Calcutta',)",0.0
+8338930234,1,['https://twitter.com/TheBat09/status/1592446755245027335'],"['scam', 'Scam', 'number', 'scammer', 'phone', 'Scammer']",[],6,Vodafone,India,[],"('Asia/Calcutta',)",0.0
+0915350780,1,['https://twitter.com/arjmashru/status/1592433515471470592'],"['number', 'bank', 'fraud', 'Bank', 'Fraud']","['Mumbaipolice', 'RBI', 'Uppolice']",7,,,[],"('Etc/Unknown',)",0.0
+8076727709,1,['https://twitter.com/ishan_shankar/status/1592429108121989120'],"['number', 'scam', 'Scam']",['delhipolice'],3,Reliance Jio,"Bangalore, Karnataka",[],"('Asia/Calcutta',)",0.03333333333333333
+7855031877,1,['https://twitter.com/ishan_shankar/status/1592429108121989120'],"['number', 'scam', 'Scam']",['delhipolice'],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.03333333333333333
+8389985838,1,['https://twitter.com/imnomber24/status/1592409144258367488'],"['Money', 'scam', 'Scam', 'number', 'bank', 'scammer', 'Scammer', 'Bank']","['Mumbaipolice', 'Paytmbankcare']",6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+4136736304,1,['https://twitter.com/Nawalsingh11238/status/1592398402402553857'],"['fraud', 'Fraud']",['Cyberdost'],4,,"Pondicherry, Tamil Nadu",[],"('Asia/Calcutta',)",0.0
+1800208989,1,['https://twitter.com/ManjeetVaTs777/status/1592153917517070336'],"['phone', 'fraud', 'Fraud']",['Cyberdost'],3,,India,[],"('Asia/Calcutta',)",-0.07142857142857142
+9355798175,1,['https://twitter.com/sardarcastic/status/1592138755682754561'],"['number', 'fraud', 'Fraud']",['Cyberdost'],3,Idea,India,[],"('Asia/Calcutta',)",0.0
+9135764114,1,['https://twitter.com/dd1266a95c96405/status/1592102041534353408'],"['cheat', 'bank', 'fraud', 'no.', 'Bank', 'Fraud']",['Cyberdost'],6,Idea,India,[],"('Asia/Calcutta',)",0.0625
+9896091219,1,['https://twitter.com/anil_anipra/status/1592065206339145729'],"['number', 'fraud', 'Fraud']","['Cybercellindia', 'Cyberdost']",5,Airtel,India,[],"('Asia/Calcutta',)",0.0
+7005328590,1,['https://twitter.com/anil_anipra/status/1592065206339145729'],"['number', 'fraud', 'Fraud']","['Cybercellindia', 'Cyberdost']",5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+6295056262,1,['https://twitter.com/PaulsonThomas7/status/1592017921076764672'],"['scam', 'Scam', 'no.', 'phone']",[],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+8047191200,1,['https://twitter.com/gauravbhanot7/status/1592007239069749249'],"['number', 'Crime', 'fraud', 'Fraud']","['delhipolice', 'cpdelhi', 'cybercrimecid']",3,,"Bangalore, Karnataka",[],"('Asia/Calcutta',)",0.025
+9833811996,1,['https://twitter.com/ZubairSayyed19/status/1591829853959245824'],"['fraud', 'Fraud']",['CPMumbaiPolice'],3,Vodafone,India,[],"('Asia/Calcutta',)",-0.0125
+7093173252,1,['https://twitter.com/sunt_y/status/1591820254476644353'],"['number', 'bank', 'fraud', 'Bank', 'Fraud']",['Uppolice'],6,Airtel,India,[],"('Asia/Calcutta',)",0.2604166666666667
+7001998901,2,"['https://twitter.com/MohitSabhrwal/status/1591776185478152193', 'https://twitter.com/MohitSabhrwal/status/1591775716869541888']","['Money', 'Crime', 'number', 'cheat', 'fraud', 'Fraud']","['Mumbaipolice', 'Uppolice']",8,Reliance Jio,India,[],"('Asia/Calcutta',)",0.025
+7854978055,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.03819444444444445
+6297943687,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.03819444444444445
+1312000100,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Muzaffarnagar, Uttar Pradesh",[],"('Asia/Calcutta',)",-0.03819444444444445
+2051122002,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",-0.03819444444444445
+2314780860,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Kolhapur, Maharashtra",[],"('Asia/Calcutta',)",-0.03819444444444445
+2314349364,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Kolhapur, Maharashtra",[],"('Asia/Calcutta',)",-0.03819444444444445
+5021002288,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",-0.03819444444444445
+2022202240,2,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966']","['bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",-0.05729166666666667
+2314454992,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Kolhapur, Maharashtra",[],"('Asia/Calcutta',)",-0.03819444444444445
+2314454991,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Kolhapur, Maharashtra",[],"('Asia/Calcutta',)",-0.03819444444444445
+2314143455,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Kolhapur, Maharashtra",[],"('Asia/Calcutta',)",-0.03819444444444445
+1020222022,2,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966']","['bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",-0.05729166666666667
+2314143453,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Kolhapur, Maharashtra",[],"('Asia/Calcutta',)",-0.03819444444444445
+1620802915,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",-0.03819444444444445
+0405891946,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",-0.03819444444444445
+1620802051,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",-0.03819444444444445
+0405891601,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",-0.03819444444444445
+2314331319,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Kolhapur, Maharashtra",[],"('Asia/Calcutta',)",-0.03819444444444445
+2314227179,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Kolhapur, Maharashtra",[],"('Asia/Calcutta',)",-0.03819444444444445
+2314122464,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Kolhapur, Maharashtra",[],"('Asia/Calcutta',)",-0.03819444444444445
+4312000100,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Tiruchchirappalli, Tamil Nadu",[],"('Asia/Calcutta',)",-0.03819444444444445
+0910202204,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",-0.03819444444444445
+0020222022,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",-0.03819444444444445
+1030222022,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",-0.03819444444444445
+2020222022,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",-0.03819444444444445
+2022202210,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",-0.03819444444444445
+4520222022,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",-0.03819444444444445
+3141434533,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",-0.03819444444444445
+5312000100,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",-0.03819444444444445
+4620802915,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",-0.03819444444444445
+8131200010,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Gubbi, Karnataka",[],"('Asia/Calcutta',)",-0.03819444444444445
+2022462080,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",-0.03819444444444445
+2051831200,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",-0.03819444444444445
+0100117391,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",-0.03819444444444445
+1022111117,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",-0.03819444444444445
+7488130234,3,"['https://twitter.com/hareramupadhy14/status/1591743873667432449', 'https://twitter.com/hareramupadhy14/status/1591740627720744966', 'https://twitter.com/hareramupadhy14/status/1591678836277932034']","['number', 'bank', 'fraud', 'no.', 'Cyber fraud', 'mobile', 'Bank', 'Fraud']",['Cyberdost'],7,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.03819444444444445
+0926347878,1,['https://twitter.com/mrtrraj/status/1591721566727188481'],"['Crime', 'number', 'fraud', 'mobile', 'Fraud']",['Cyberdost'],7,,,[],"('Etc/Unknown',)",0.11212121212121212
+6205721299,1,['https://twitter.com/mrtrraj/status/1591721566727188481'],"['Crime', 'number', 'fraud', 'mobile', 'Fraud']",['Cyberdost'],7,Reliance Jio,India,[],"('Asia/Calcutta',)",0.11212121212121212
+9663802984,1,['https://twitter.com/sunitalks/status/1591637254719819776'],"['Fraud', 'number', 'fraud', 'Action against this number']","['delhipolice', 'cpdelhi']",6,Airtel,India,[],"('Asia/Calcutta',)",0.05
+8096638029,1,['https://twitter.com/sunitalks/status/1591637254719819776'],"['Fraud', 'number', 'fraud', 'Action against this number']","['delhipolice', 'cpdelhi']",6,Idea,India,[],"('Asia/Calcutta',)",0.05
+2191122008,4,"['https://twitter.com/rakesh_jatwa/status/1591612105538797569', 'https://twitter.com/rakesh_jatwa/status/1591612000974819330', 'https://twitter.com/rakesh_jatwa/status/1591611848071475200', 'https://twitter.com/rakesh_jatwa/status/1591611677828841472']","['fraud', 'Cyber fraud', 'Fraud']",['Cyberdost'],4,,,[],"('Etc/Unknown',)",-0.0875
+9031978882,2,"['https://twitter.com/pintooganguly/status/1591533163079413760', 'https://twitter.com/krishvaidya/status/1591439284846104576']","['scam', 'Crime', 'Scam', 'Fraudster', 'fraudster', 'fraud', 'Fraud']","['Theofficialsbi', 'cybercrimecid']",5,Tata Docomo,India,[],"('Asia/Calcutta',)",0.35625
+8923245592,1,['https://twitter.com/Yatingoyal007/status/1591491751021522944'],"['mobile', 'fraud', 'Fraud']",['Uppolice'],4,Telewings,India,[],"('Asia/Calcutta',)",0.03333333333333333
+4470154282,1,['https://twitter.com/Yatingoyal007/status/1591491751021522944'],"['mobile', 'fraud', 'Fraud']",['Uppolice'],4,,"Chennai, Tamil Nadu",[],"('Asia/Calcutta',)",0.03333333333333333
+6691384915,1,['https://twitter.com/GuruPra02922150/status/1591483139083632640'],"['phone', 'fraud', 'no.', 'Ack no.', 'Fraud']",['Cyberdost'],6,,India,[],"('Asia/Calcutta',)",-0.12
+2211122106,1,['https://twitter.com/GuruPra02922150/status/1591483139083632640'],"['phone', 'fraud', 'no.', 'Ack no.', 'Fraud']",['Cyberdost'],6,,,[],"('Etc/Unknown',)",-0.12
+4428307524,1,['https://twitter.com/GuruPra02922150/status/1591483139083632640'],"['phone', 'fraud', 'no.', 'Ack no.', 'Fraud']",['Cyberdost'],6,,"Chennai, Tamil Nadu",[],"('Asia/Calcutta',)",-0.12
+2316686040,1,['https://twitter.com/GuruPra02922150/status/1591483139083632640'],"['phone', 'fraud', 'no.', 'Ack no.', 'Fraud']",['Cyberdost'],6,,"Kolhapur, Maharashtra",[],"('Asia/Calcutta',)",-0.12
+8874100905,1,['https://twitter.com/AnkushK47804552/status/1591481604639444992'],"['Money', 'number', 'cheat', 'fraud', 'mobile', 'Fraud']",[],5,Vodafone,India,[],"('Asia/Calcutta',)",-0.004166666666666666
+8240554643,1,['https://twitter.com/AnantKu88212465/status/1591457763728986112'],"['number', 'Money', 'fraud', 'Fraud']",['Cybercellindia'],4,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+9915279700,1,['https://twitter.com/Sharmaji_0608/status/1591448796739035137'],"['number', 'bank', 'fraud', 'Bank', 'Fraud']","['delhipolice', 'cybercrimecid']",6,Airtel,India,[],"('Asia/Calcutta',)",0.0
+0969203479,1,['https://twitter.com/irfantahir123/status/1591424339492372481'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Cyberdost'],6,,,[],"('Etc/Unknown',)",0.0
+8260237291,1,['https://twitter.com/narenbaba/status/1591412339055955974'],"['number', 'phone', 'fraud', 'Fraud']",['Uppolice'],4,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+0787356737,1,['https://twitter.com/ParthVo71126715/status/1591394198254911488'],"['bank', 'fraud', 'no.', 'Bank', 'Fraud']","['Mumbaipolice', 'CPMumbaiPolice']",6,,,[],"('Etc/Unknown',)",0.0
+8652389913,1,['https://twitter.com/vd_rajgor_11/status/1591380308951453696'],"['scam', 'Scam', 'no.', 'phone']",['Mumbaipolice'],4,Idea,India,[],"('Asia/Calcutta',)",-0.0625
+9339033812,1,['https://twitter.com/LaxmanDave6/status/1591360580237287424'],"['number', 'bank', 'fraud', 'Bank', 'Fraud']","['Mumbaipolice', 'RBI', 'cybercrimecid']",6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.09166666666666667
+8006197032,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],"['fraud', 'bank', 'Bank', 'Fraud']",['Uppolice'],5,Vodafone,India,[],"('Asia/Calcutta',)",-0.5
+7439211706,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],"['fraud', 'bank', 'Bank', 'Fraud']",['Uppolice'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.5
+0296100571,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],"['fraud', 'bank', 'Bank', 'Fraud']",['Uppolice'],5,,,[],"('Etc/Unknown',)",-0.5
+9832248187,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],"['fraud', 'bank', 'Bank', 'Fraud']",['Uppolice'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.5
+2316121754,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],"['fraud', 'bank', 'Bank', 'Fraud']",['Uppolice'],5,,"Kolhapur, Maharashtra",[],"('Asia/Calcutta',)",-0.5
+1112221246,1,['https://twitter.com/ADEEPKU57840540/status/1591356930349752320'],"['fraud', 'bank', 'Bank', 'Fraud']",['Uppolice'],5,,,[],"('Etc/Unknown',)",-0.5
+8265099151,1,['https://twitter.com/rajeevnair777/status/1591345816983441408'],"['number', 'fraud', 'Fraud']",['Mumbaipolice'],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.39999999999999997
+9330256875,1,['https://twitter.com/tdurgesh08/status/1591301601037545473'],"['Crime', 'number', 'bank', 'fraud', 'Bank', 'Fraud']","['Theofficialsbi', 'Cyberdost']",7,Reliance Jio,India,[],"('Asia/Calcutta',)",0.10833333333333334
+3311122010,1,['https://twitter.com/vishnuA29768276/status/1591297791460265984'],"['number', 'fraud', 'no.', 'Ack no.', 'Fraud']",['Cybercellindia'],6,,,[],"('Etc/Unknown',)",0.0
+8327026653,1,['https://twitter.com/vishnuA29768276/status/1591297791460265984'],"['number', 'fraud', 'no.', 'Ack no.', 'Fraud']",['Cybercellindia'],6,Vodafone,Goa,[],"('Asia/Calcutta',)",0.0
+6390793716,1,['https://twitter.com/vishnuA29768276/status/1591297791460265984'],"['number', 'fraud', 'no.', 'Ack no.', 'Fraud']",['Cybercellindia'],6,Vodafone,India,[],"('Asia/Calcutta',)",0.0
+8337921468,1,['https://twitter.com/vishnuA29768276/status/1591297791460265984'],"['number', 'fraud', 'no.', 'Ack no.', 'Fraud']",['Cybercellindia'],6,Vodafone,India,[],"('Asia/Calcutta',)",0.0
+9915365674,1,['https://twitter.com/gch1010/status/1591123575410675712'],"['cheat', 'bank', 'Fraudster', 'fraudster', 'fraud', 'Bank', 'Fraud']",['delhipolice'],5,Airtel,India,[],"('Asia/Calcutta',)",0.07537878787878788
+8015195487,1,['https://twitter.com/iNfAmOuSAddy/status/1591118513963663361'],"['number', 'fraud', 'Fraud']",[],3,Tata Docomo,India,[],"('Asia/Calcutta',)",0.11666666666666665
+1800123412,1,['https://twitter.com/iNfAmOuSAddy/status/1591118513963663361'],"['number', 'fraud', 'Fraud']",[],3,,India,[],"('Asia/Calcutta',)",0.11666666666666665
+9220100494,1,['https://twitter.com/ExtraTechnical/status/1591097602040565760'],"['Money', 'scam', 'Scam', 'bank', 'scammer', 'Loot', 'Scammer', 'Bank']",['Cyberdost'],7,Tata Docomo,India,[],"('Asia/Calcutta',)",0.030000000000000016
+7003527107,1,['https://twitter.com/ExtraTechnical/status/1591097602040565760'],"['Money', 'scam', 'Scam', 'bank', 'scammer', 'Loot', 'Scammer', 'Bank']",['Cyberdost'],7,Reliance Jio,India,[],"('Asia/Calcutta',)",0.030000000000000016
+8056967011,1,['https://twitter.com/puneetsachar/status/1591061405213806594'],"['number', 'fraud', 'Cyber fraud', 'Fraud']","['delhipolice', 'Cyberdost']",5,Airtel,"Bangalore, Karnataka",[],"('Asia/Calcutta',)",0.05
+7961748047,1,['https://twitter.com/cheeeets/status/1591042540362682368'],"['number', 'scam', 'Scam']","['Mumbaipolice', 'Mahacyber']",3,,"Ahmedabad Local, Gujarat",[],"('Asia/Calcutta',)",0.049999999999999975
+8018059664,1,['https://twitter.com/ghatakgujju/status/1591011568078458881'],"['number', 'fraud', 'Fraud']",['Mumbaipolice'],3,Airtel,India,[],"('Asia/Calcutta',)",0.1
+9153301212,1,['https://twitter.com/AryadronAd/status/1590979465546706944'],"['number', 'phone', 'fraud', 'Fraud']",[],3,,India,[],"('Asia/Calcutta',)",-0.025
+7505598723,1,['https://twitter.com/vikaasgarg/status/1590972420776951809'],"['number', 'fraud', 'Fraud']",['Mumbaipolice'],4,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0028409090909090884
+0943303035,1,['https://twitter.com/vi_sanju/status/1590961836425609216'],"['number', 'scam', 'Scam', 'phone']",['Cybercellindia'],4,,,[],"('Etc/Unknown',)",0.1
+2081022007,1,['https://twitter.com/iktsolar/status/1590954761540763648'],"['ATM fraud', 'fraud', 'no.', 'Atm', 'Fraud']",['Cyberdost'],6,,,[],"('Etc/Unknown',)",-0.09999999999999999
+0938709697,1,['https://twitter.com/AdvocatebhanuO1/status/1590929253335732224'],"['number', 'fraud', 'Fraud']","['Mumbaipolice', 'CPMumbaiPolice']",4,,,[],"('Etc/Unknown',)",0.0
+0192634000,1,['https://twitter.com/tushar13111980/status/1590715818676928512'],"['fraud', 'bank', 'Bank', 'Fraud']",['delhipolice'],3,,,[],"('Etc/Unknown',)",0.225
+2211122002,1,['https://twitter.com/AnkurAkke/status/1590700643844755457'],"['Crime', 'cheat', 'bank', 'Cheated', 'fraud', 'no.', 'Bank', 'Fraud']","['RBI', 'Cyberdost', 'cybercrimecid', 'cyberabadpolice']",7,,,[],"('Etc/Unknown',)",0.0
+8486227249,1,['https://twitter.com/minaur_rahman_/status/1590677403873206273'],"['number', 'fraud', 'Fraud']",['Mumbaipolice'],3,Vodafone,India,[],"('Asia/Calcutta',)",-0.25
+7047953888,1,['https://twitter.com/imdeethakur/status/1590657926951493632'],"['number', 'fraud', 'Fraud']",['RBI'],3,Airtel,India,[],"('Asia/Calcutta',)",0.125
+7003136329,2,"['https://twitter.com/SumitBa04712475/status/1590626656712273921', 'https://twitter.com/Again_retweeted/status/1589955926110633987']","['scam', 'Crime', 'Scam', 'number', 'bank', 'scammer', 'fraud', 'Scammer', 'Bank', 'Fraud']","['delhipolice', 'Cyberdost']",7,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.027083333333333348
+8147121834,1,['https://twitter.com/HemantKhincha/status/1590625812591833089'],"['phone', 'Crime', 'fraud', 'Fraud']",['cybercrimecid'],3,Tata Docomo,India,[],"('Asia/Calcutta',)",0.0
+8863090356,1,['https://twitter.com/rohan931982/status/1590617958015201281'],"['mobile', 'number', 'fraud', 'Fraud']","['Theofficialsbi', 'Cyberdost', 'RBI']",6,Telewings,India,[],"('Asia/Calcutta',)",0.2
+9739538468,1,['https://twitter.com/Abhi19492/status/1590584751668494336'],"['Crime', 'bank', 'fraud', 'Cyber fraud', 'Bank', 'Fraud']",['cybercrimecid'],5,Vodafone,India,[],"('Asia/Calcutta',)",-0.020833333333333332
+9038313860,2,"['https://twitter.com/rahulnaag/status/1590569946396135424', 'https://twitter.com/rahulnaag/status/1590568745021640704']","['number', 'scam', 'Scam', 'phone']","['delhipolice', 'Cyberdost']",4,Tata Docomo,India,[],"('Asia/Calcutta',)",0.0
+9818635912,1,['https://twitter.com/GauravPandey71/status/1590559043990740992'],"['number', 'fraud', 'Fraud']","['Theofficialsbi', 'Cyberdost']",4,Airtel,India,[],"('Asia/Calcutta',)",0.1
+9538472380,2,"['https://twitter.com/vikramdjames/status/1590360958098378754', 'https://twitter.com/vikramdjames/status/1590360823859679234']","['scam', 'Crime', 'Scam']","['Paytmbankcare', 'cybercrimecid']",3,Vodafone,India,[],"('Asia/Calcutta',)",0.016666666666666663
+1958816327,2,"['https://twitter.com/vikramdjames/status/1590360958098378754', 'https://twitter.com/vikramdjames/status/1590360823859679234']","['scam', 'Crime', 'Scam']","['Paytmbankcare', 'cybercrimecid']",3,,,[],"('Etc/Unknown',)",0.016666666666666663
+2312390793,2,"['https://twitter.com/vikramdjames/status/1590360958098378754', 'https://twitter.com/vikramdjames/status/1590360823859679234']","['scam', 'Crime', 'Scam']","['Paytmbankcare', 'cybercrimecid']",3,,"Kolhapur, Maharashtra",[],"('Asia/Calcutta',)",0.016666666666666663
+8130529196,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],"['phone', 'fraud', 'Fraud']",['Mumbaipolice'],4,Airtel,India,[],"('Asia/Calcutta',)",0.0
+9773570431,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],"['phone', 'fraud', 'Fraud']",['Mumbaipolice'],4,Airtel,India,[],"('Asia/Calcutta',)",0.0
+3705698931,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],"['phone', 'fraud', 'Fraud']",['Mumbaipolice'],4,,"Kohima, Nagaland",[],"('Asia/Calcutta',)",0.0
+9101980294,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],"['phone', 'fraud', 'Fraud']",['Mumbaipolice'],4,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+2311349814,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],"['phone', 'fraud', 'Fraud']",['Mumbaipolice'],4,,,[],"('Etc/Unknown',)",0.0
+9958118536,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],"['phone', 'fraud', 'Fraud']",['Mumbaipolice'],4,Airtel,India,[],"('Asia/Calcutta',)",0.0
+2308218868,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],"['phone', 'fraud', 'Fraud']",['Mumbaipolice'],4,,,[],"('Etc/Unknown',)",0.0
+2311980740,1,['https://twitter.com/ZaheedGour/status/1590299671771373569'],"['phone', 'fraud', 'Fraud']",['Mumbaipolice'],4,,,[],"('Etc/Unknown',)",0.0
+7328039776,1,['https://twitter.com/rkravindra/status/1590293553129095169'],"['number', 'bank', 'fraud', 'Bank', 'Fraud']",['RBI'],5,Airtel,India,[],"('Asia/Calcutta',)",0.1
+9711288185,1,['https://twitter.com/bhawanisngh73/status/1590290872431939584'],"['fraud', 'Fraud']",['delhipolice'],1,Vodafone,India,[],"('Asia/Calcutta',)",0.0
+9835989504,1,['https://twitter.com/caypee1/status/1590287154160480257'],"['mobile', 'Crime', 'fraud', 'Fraud']",['delhipolice'],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+8035273403,1,['https://twitter.com/NARVEKARMILIND/status/1590284201156546560'],"['fraud', 'Fraud call from', 'no.', 'Fraud']","['Mumbaipolice', 'CPMumbaiPolice']",7,,"Bangalore, Karnataka",[],"('Asia/Calcutta',)",-0.03888888888888888
+7949104421,1,['https://twitter.com/NARVEKARMILIND/status/1590284201156546560'],"['fraud', 'Fraud call from', 'no.', 'Fraud']","['Mumbaipolice', 'CPMumbaiPolice']",7,,"Ahmedabad Local, Gujarat",[],"('Asia/Calcutta',)",-0.03888888888888888
+7961734225,1,['https://twitter.com/NARVEKARMILIND/status/1590284201156546560'],"['fraud', 'Fraud call from', 'no.', 'Fraud']","['Mumbaipolice', 'CPMumbaiPolice']",7,,"Ahmedabad Local, Gujarat",[],"('Asia/Calcutta',)",-0.03888888888888888
+1714707326,1,['https://twitter.com/NARVEKARMILIND/status/1590284201156546560'],"['fraud', 'Fraud call from', 'no.', 'Fraud']","['Mumbaipolice', 'CPMumbaiPolice']",7,,"Ambala, Haryana",[],"('Asia/Calcutta',)",-0.03888888888888888
+9310061101,1,['https://twitter.com/NARVEKARMILIND/status/1590284201156546560'],"['fraud', 'Fraud call from', 'no.', 'Fraud']","['Mumbaipolice', 'CPMumbaiPolice']",7,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.03888888888888888
+7003392193,1,['https://twitter.com/engineer_nands/status/1590278289918394368'],"['number', 'fraud', 'Fraud']",['Cyberdost'],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.4
+7318671147,1,['https://twitter.com/NarkarPrachee/status/1590268524668518401'],"['scam', 'Scam', 'number', 'bank', 'Bank']",['Mumbaipolice'],6,Airtel,India,[],"('Asia/Calcutta',)",-0.09999999999999999
+7904268512,1,['https://twitter.com/vishweshdwived3/status/1590265864624173057'],"['number', 'phone', 'fraud', 'no.', 'Fraud']","['Cybercellindia', 'Uppolice']",6,Reliance Jio,"Ahmedabad Local, Gujarat",[],"('Asia/Calcutta',)",-0.025
+8670646969,1,['https://twitter.com/AuzziettudeReza/status/1590260714689933313'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Mumbaipolice'],6,Airtel,India,[],"('Asia/Calcutta',)",-0.025
+8167550415,1,['https://twitter.com/AuzziettudeReza/status/1590260714689933313'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Mumbaipolice'],6,Airtel,"Tumkur, Karnataka",[],"('Asia/Calcutta',)",-0.025
+2080722004,1,['https://twitter.com/inderjeet_mehra/status/1590231187553144832'],"['Crime', 'Online fraud', 'Cyber crime', 'fraud', 'Fraud']",['Cyberdost'],6,,,[],"('Etc/Unknown',)",-0.19999999999999998
+6289439107,1,['https://twitter.com/theitaliyaboy/status/1590218076532125697'],"['number', 'Crime', 'fraud', 'Fraud']",['cybercrimecid'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+9330772489,1,['https://twitter.com/theitaliyaboy/status/1590218076532125697'],"['number', 'Crime', 'fraud', 'Fraud']",['cybercrimecid'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+9654997673,1,['https://twitter.com/vivekgodara5/status/1590213995688243200'],"['number', 'fraud', 'Fraud']","['delhipolice', 'RBI', 'cybercrimecid']",5,Vodafone,India,[],"('Asia/Calcutta',)",0.0
+2209800480,1,['https://twitter.com/KaushalAAP/status/1590213448688078850'],"['Money', 'number', 'Fraudster', 'fraudster', 'fraud', 'Fraud']",['Cyberdost'],6,,,[],"('Etc/Unknown',)",-0.05
+9614712457,1,['https://twitter.com/Dostdk4u/status/1590208019862028288'],"['number', 'fraud', 'Fraud']",['Cyberdost'],3,Aircel,India,[],"('Asia/Calcutta',)",0.0
+0896900133,2,"['https://twitter.com/skrajput1718/status/1590171748397645825', 'https://twitter.com/skrajput1718/status/1590025751658901504']","['Money', 'number', 'Fraud call from', 'fraud', 'Fraud']",['Cybercellindia'],7,,,[],"('Etc/Unknown',)",-0.08499999999999999
+1783356398,1,['https://twitter.com/KunalVinayakiya/status/1590028723327488000'],"['scam', 'Scam']",[],2,,"Theog, Himachal Pradesh",[],"('Asia/Calcutta',)",0.0
+9071287790,1,['https://twitter.com/NomaanShaikh013/status/1589977394798288896'],"['fraud', 'Fraud']",['Mumbaipolice'],2,Idea,India,[],"('Asia/Calcutta',)",0.0
+2036590377,1,['https://twitter.com/Am47581045/status/1589972773270847489'],"['scam', 'Scam', 'bank', 'scammer', 'Scammer', 'Bank']","['Paytmbankcare', 'RBI', 'Cyberdost']",9,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",0.047619047619047616
+2513169408,1,['https://twitter.com/Am47581045/status/1589972773270847489'],"['scam', 'Scam', 'bank', 'scammer', 'Scammer', 'Bank']","['Paytmbankcare', 'RBI', 'Cyberdost']",9,,"Kalyan, Maharashtra",[],"('Asia/Calcutta',)",0.047619047619047616
+2022060310,1,['https://twitter.com/Am47581045/status/1589972773270847489'],"['scam', 'Scam', 'bank', 'scammer', 'Scammer', 'Bank']","['Paytmbankcare', 'RBI', 'Cyberdost']",9,,"Pune, Maharashtra",[],"('Asia/Calcutta',)",0.047619047619047616
+7477620429,1,['https://twitter.com/mo16031542/status/1589962110276341760'],"['number', 'fraud', 'Cyber fraud', 'Fraud']",[],5,Airtel,"Bundi, Rajasthan",[],"('Asia/Calcutta',)",0.0
+8250535266,1,['https://twitter.com/mo16031542/status/1589962110276341760'],"['number', 'fraud', 'Cyber fraud', 'Fraud']",[],5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+8787661942,1,['https://twitter.com/KalipadhaD/status/1589938987388784640'],"['mobile', 'number', 'fraud', 'Fraud']",[],3,Reliance Jio,"Karimnagar, Andhra Pradesh",[],"('Asia/Calcutta',)",-0.03333333333333333
+8918094610,1,['https://twitter.com/docsauravdas/status/1589932669642903552'],"['number', 'scam', 'Scam', 'phone']",['delhipolice'],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.11666666666666665
+9002580910,1,['https://twitter.com/AmitTiw40840191/status/1589921630306054145'],"['scam', 'Scam', 'scammer', 'Scammer', 'no.']","['Cyberdost', 'cybercrimecid']",6,Airtel,India,[],"('Asia/Calcutta',)",0.0
+8991027310,1,['https://twitter.com/Shaikhanassssss/status/1589917835572449280'],"['number', 'fraud', 'Fraud']",['Mumbaipolice'],5,,India,[],"('Asia/Calcutta',)",0.08333333333333333
+1021073291,1,['https://twitter.com/Shaikhanassssss/status/1589917835572449280'],"['number', 'fraud', 'Fraud']",['Mumbaipolice'],5,,,[],"('Etc/Unknown',)",0.08333333333333333
+4042228427,1,['https://twitter.com/Shaikhanassssss/status/1589917835572449280'],"['number', 'fraud', 'Fraud']",['Mumbaipolice'],5,,"Hyderabad Local, Andhra Pradesh",[],"('Asia/Calcutta',)",0.08333333333333333
+9820066885,1,['https://twitter.com/Shaikhanassssss/status/1589917835572449280'],"['number', 'fraud', 'Fraud']",['Mumbaipolice'],5,Vodafone,India,[],"('Asia/Calcutta',)",0.08333333333333333
+9569017452,1,['https://twitter.com/Barjinder0001/status/1589910375520415745'],"['Crime', 'Bank fraud', 'number', 'bank', 'fraud', 'Bank', 'Fraud']","['Uppolice', 'cybercrimecid']",6,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+7065806565,1,['https://twitter.com/mdrsdakr/status/1589893009914855424'],"['fraud', 'no.', 'Fraud']","['delhipolice', 'Mumbaipolice']",3,Idea,India,[],"('Asia/Calcutta',)",0.0
+0700377738,1,['https://twitter.com/ITCHANDAN1/status/1589880073016213504'],"['number', 'bank', 'fraud', 'Bank', 'Fraud']",[],5,,,[],"('Etc/Unknown',)",0.10909090909090909
+2291122005,1,['https://twitter.com/kvv_chennai/status/1589872886894194688'],"['fraud', 'no.', 'Cyber fraud', 'Ack no.', 'Fraud']",['Cyberdost'],6,,India,[],"('Asia/Calcutta',)",-0.049999999999999996
+0738056843,1,['https://twitter.com/qaum_e/status/1589869167880318982'],"['number', 'Atm', 'fraud', 'Fraud']",['Uppolice'],5,,,[],"('Etc/Unknown',)",-0.5
+0775392378,1,['https://twitter.com/qaum_e/status/1589869167880318982'],"['number', 'Atm', 'fraud', 'Fraud']",['Uppolice'],5,,,[],"('Etc/Unknown',)",-0.5
+8116529396,1,['https://twitter.com/TavishiGhosh/status/1589869145516310528'],"['number', 'fraud', 'Fraud']","['Mumbaipolice', 'CPMumbaiPolice']",5,Airtel,India,[],"('Asia/Calcutta',)",0.125
+7439230627,1,['https://twitter.com/itzchaurasia29/status/1589854707690115073'],"['number', 'fraud', 'Fraud']","['Cybercellindia', 'Theofficialsbi', 'Cyberdost']",5,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.037500000000000006
+9608251927,1,['https://twitter.com/upsrathore/status/1589850665299628034'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Cyberdost'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.13
+3310922007,1,['https://twitter.com/tandon18/status/1589846483742109697'],"['Crime', 'number', 'Online fraud', 'fraud', 'Fraud']","['Uppolice', 'cybercrimecid']",6,,,[],"('Etc/Unknown',)",-0.037500000000000006
+7750863522,1,['https://twitter.com/OgauravOberoi/status/1589843875392520193'],"['Crime', 'number', 'bank', 'fraud', 'Bank', 'Fraud']",['cybercrimecid'],6,Airtel,India,[],"('Asia/Calcutta',)",0.0
+0811202210,1,['https://twitter.com/OgauravOberoi/status/1589843875392520193'],"['Crime', 'number', 'bank', 'fraud', 'Bank', 'Fraud']",['cybercrimecid'],6,,,[],"('Etc/Unknown',)",0.0
+1800258616,1,['https://twitter.com/OgauravOberoi/status/1589843875392520193'],"['Crime', 'number', 'bank', 'fraud', 'Bank', 'Fraud']",['cybercrimecid'],6,,India,[],"('Asia/Calcutta',)",0.0
+6297510094,1,['https://twitter.com/subhransu_news/status/1589838116688646144'],"['phone', 'fraud', 'Fraud']",['Cyberdost'],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+2310662204,1,['https://twitter.com/Ashutos78901641/status/1589834292980748292'],"['fraud', 'bank', 'Bank', 'Fraud']","['Paytmbankcare', 'Cyberdost', 'cybercrimecid']",6,,,[],"('Etc/Unknown',)",0.35
+0611202218,1,['https://twitter.com/Ashutos78901641/status/1589834292980748292'],"['fraud', 'bank', 'Bank', 'Fraud']","['Paytmbankcare', 'Cyberdost', 'cybercrimecid']",6,,,[],"('Etc/Unknown',)",0.35
+9188252333,1,['https://twitter.com/Ashutos78901641/status/1589834292980748292'],"['fraud', 'bank', 'Bank', 'Fraud']","['Paytmbankcare', 'Cyberdost', 'cybercrimecid']",6,BSNL MOBILE,India,[],"('Asia/Calcutta',)",0.35
+9990285655,1,['https://twitter.com/abhay_1997_02/status/1589821911265312771'],"['number', 'bank', 'fraud', 'mobile', 'Bank', 'Fraud']","['delhipolice', 'Paytmbankcare']",6,Idea,India,[],"('Asia/Calcutta',)",-0.041666666666666664
+9990205655,1,['https://twitter.com/abhay_1997_02/status/1589821911265312771'],"['number', 'bank', 'fraud', 'mobile', 'Bank', 'Fraud']","['delhipolice', 'Paytmbankcare']",6,Idea,India,[],"('Asia/Calcutta',)",-0.041666666666666664
+5000420000,1,['https://twitter.com/abhay_1997_02/status/1589821911265312771'],"['number', 'bank', 'fraud', 'mobile', 'Bank', 'Fraud']","['delhipolice', 'Paytmbankcare']",6,,,[],"('Etc/Unknown',)",-0.041666666666666664
+7388906431,1,['https://twitter.com/shamik_sen/status/1589738847197630466'],"['bank', 'phone', 'fraud', 'Bank', 'Fraud']",['Uppolice'],6,Airtel,India,[],"('Asia/Calcutta',)",0.0
+2308308865,1,['https://twitter.com/shamik_sen/status/1589738847197630466'],"['bank', 'phone', 'fraud', 'Bank', 'Fraud']",['Uppolice'],6,,,[],"('Etc/Unknown',)",0.0
+1010454209,1,['https://twitter.com/DigitalSunilSah/status/1589644883660525569'],"['fraud', 'no.', 'Fraud']",['Cyberdost'],3,,,[],"('Etc/Unknown',)",0.0
+2291022005,1,['https://twitter.com/AyushVe39449671/status/1589638703227359232'],"['number', 'Crime', 'fraud', 'Fraud']",['Cybercellindia'],6,,India,[],"('Asia/Calcutta',)",0.0
+7043444670,1,['https://twitter.com/AyushVe39449671/status/1589638703227359232'],"['number', 'Crime', 'fraud', 'Fraud']",['Cybercellindia'],6,Airtel,India,[],"('Asia/Calcutta',)",0.0
+9178019631,1,['https://twitter.com/AyushVe39449671/status/1589638703227359232'],"['number', 'Crime', 'fraud', 'Fraud']",['Cybercellindia'],6,Airtel,India,[],"('Asia/Calcutta',)",0.0
+4754010000,1,['https://twitter.com/AyushVe39449671/status/1589638703227359232'],"['number', 'Crime', 'fraud', 'Fraud']",['Cybercellindia'],6,,"Punalur, Kerala",[],"('Asia/Calcutta',)",0.0
+2292219973,1,['https://twitter.com/AyushVe39449671/status/1589638703227359232'],"['number', 'Crime', 'fraud', 'Fraud']",['Cybercellindia'],6,,India,[],"('Asia/Calcutta',)",0.0
+1910202221,1,['https://twitter.com/AyushVe39449671/status/1589638703227359232'],"['number', 'Crime', 'fraud', 'Fraud']",['Cybercellindia'],6,,,[],"('Etc/Unknown',)",0.0
+2292751350,1,['https://twitter.com/AyushVe39449671/status/1589638703227359232'],"['number', 'Crime', 'fraud', 'Fraud']",['Cybercellindia'],6,,India,[],"('Asia/Calcutta',)",0.0
+2291267895,1,['https://twitter.com/AyushVe39449671/status/1589638703227359232'],"['number', 'Crime', 'fraud', 'Fraud']",['Cybercellindia'],6,,India,[],"('Asia/Calcutta',)",0.0
+9170434446,1,['https://twitter.com/AyushVe39449671/status/1589638703227359232'],"['number', 'Crime', 'fraud', 'Fraud']",['Cybercellindia'],6,Telewings,India,[],"('Asia/Calcutta',)",0.0
+2288744967,1,['https://twitter.com/AyushVe39449671/status/1589638703227359232'],"['number', 'Crime', 'fraud', 'Fraud']",['Cybercellindia'],6,,,[],"('Etc/Unknown',)",0.0
+7835869383,1,['https://twitter.com/AyushVe39449671/status/1589638703227359232'],"['number', 'Crime', 'fraud', 'Fraud']",['Cybercellindia'],6,Idea,India,[],"('Asia/Calcutta',)",0.0
+8944803965,1,['https://twitter.com/Hanishhsharma/status/1589621231569207296'],"['scam', 'Crime', 'Scam', 'number', 'bank', 'scammer', 'fraud', 'Scammer', 'Bank', 'Fraud']",['Cyberdost'],8,Airtel,India,[],"('Asia/Calcutta',)",-0.5
+9707556130,1,['https://twitter.com/BhandariRahul01/status/1589616366554091521'],"['number', 'fraud', 'Fraud']","['delhipolice', 'cpdelhi']",3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.3
+7029935238,1,['https://twitter.com/BhandariRahul01/status/1589616366554091521'],"['number', 'fraud', 'Fraud']","['delhipolice', 'cpdelhi']",3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.3
+8005591863,1,['https://twitter.com/Kriplani18Anil/status/1589597763507204101'],"['Money', 'fraud', 'Fraud']",[],4,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+9163782140,1,['https://twitter.com/sunnykhetan/status/1589597316151136256'],"['scam', 'Scam', 'number', 'scammer', 'Scammer']",['Cybercellindia'],5,Airtel,India,[],"('Asia/Calcutta',)",0.10000000000000002
+9179878947,1,['https://twitter.com/Tariqueshaikh01/status/1589593752926326784'],"['number', 'fraud', 'Fraud']",['Mumbaipolice'],3,Airtel,India,[],"('Asia/Calcutta',)",-0.016666666666666663
+2635705240,1,['https://twitter.com/devsimply/status/1589575617330417664'],"['bank', 'scam', 'Scam', 'Bank']",['Cyberdost'],4,,India,[],"('Asia/Calcutta',)",0.09999999999999999
+9953584668,1,['https://twitter.com/Anantofficial15/status/1589534665505144833'],"['Money', 'number', 'fraud', 'mobile', 'Fraud']",['Uppolice'],5,Vodafone,India,[],"('Asia/Calcutta',)",0.175
+9355268341,1,['https://twitter.com/miteshbhimani82/status/1589529740259753984'],"['number', 'scam', 'Scam', 'phone']",['Mumbaipolice'],4,Idea,India,[],"('Asia/Calcutta',)",0.0
+0812764297,1,['https://twitter.com/ArunavaG12/status/1589508030009573377'],"['number', 'scam', 'Scam']",[],3,,,[],"('Etc/Unknown',)",0.0
+8240077108,1,['https://twitter.com/ArunavaG12/status/1589508030009573377'],"['number', 'scam', 'Scam']",[],3,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+0824007710,1,['https://twitter.com/ArunavaG12/status/1589508030009573377'],"['number', 'scam', 'Scam']",[],3,,,[],"('Etc/Unknown',)",0.0
+0827137741,1,['https://twitter.com/TheTrueHuman_jj/status/1589493248070148096'],"['scam', 'Scam', 'number', 'fraud', 'Fraud']","['Mumbaipolice', 'CPMumbaiPolice']",7,,,[],"('Etc/Unknown',)",-0.47500000000000003
+7205240649,1,['https://twitter.com/TheTrueHuman_jj/status/1589493248070148096'],"['scam', 'Scam', 'number', 'fraud', 'Fraud']","['Mumbaipolice', 'CPMumbaiPolice']",7,Tata Docomo,India,[],"('Asia/Calcutta',)",-0.47500000000000003
+8271377417,1,['https://twitter.com/TheTrueHuman_jj/status/1589493248070148096'],"['scam', 'Scam', 'number', 'fraud', 'Fraud']","['Mumbaipolice', 'CPMumbaiPolice']",7,Telewings,India,[],"('Asia/Calcutta',)",-0.47500000000000003
+7801897778,2,"['https://twitter.com/pratiksarda/status/1589250614017814528', 'https://twitter.com/pratiksarda/status/1589250067487391744']","['Loot', 'fraud', 'Fraud']",['Uppolice'],3,Telewings,India,[],"('Asia/Calcutta',)",0.0
+9523198111,1,['https://twitter.com/itstusharsri/status/1589238295061762049'],"['fraud', 'bank', 'Bank', 'Fraud']",['delhipolice'],3,Airtel,India,[],"('Asia/Calcutta',)",0.0
+8617299741,2,"['https://twitter.com/writerherethere/status/1589224988200284163', 'https://twitter.com/Sanusing1203/status/1588894020616728582']","['Money', 'scam', 'Crime', 'Scam', 'number', 'bank', 'Cyber crime', 'fraud', 'no.', 'mobile', 'Bank', 'Fraud']","['Theofficialsbi', 'cybercrimecid', 'RBI']",7,Reliance Jio,"Nellore, Andhra Pradesh",[],"('Asia/Calcutta',)",-0.3
+7002486737,1,['https://twitter.com/devyadav340/status/1589174962711310336'],"['number', 'fraud', 'Fraud']","['RBI', 'Cyberdost', 'Uppolice']",4,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+8061561999,1,['https://twitter.com/roopiniNag/status/1589162526885154818'],"['number', 'Money', 'fraud', 'Fraud']",['Cyberdost'],5,,"Bangalore, Karnataka",[],"('Asia/Calcutta',)",0.0
+7908786838,1,['https://twitter.com/YogeshKarma1603/status/1589145621776461824'],"['number', 'phone', 'fraud', 'Fraud']","['Cyberdost', 'Uppolice']",5,Reliance Jio,"Ahmedabad Local, Gujarat",[],"('Asia/Calcutta',)",0.25
+9090110092,1,['https://twitter.com/_AnshSinghal_/status/1589136256554135552'],"['scam', 'Scam']",['delhipolice'],2,Idea,India,[],"('Asia/Calcutta',)",0.0
+8967481598,1,['https://twitter.com/SAHAJAMALSHAIK1/status/1589120893376409602'],"['Atm', 'fraud', 'phone', 'Fraud']",[],3,Airtel,India,[],"('Asia/Calcutta',)",0.1
+3229673407,1,['https://twitter.com/nishutoshb/status/1589105989684695040'],"['Crime', 'bank', 'fraud', 'Bank', 'Fraud']","['Paytmbankcare', 'RBI', 'Cyberdost']",6,,"Dantan, West Bengal",[],"('Asia/Calcutta',)",-0.07333333333333333
+8509325135,1,['https://twitter.com/bharrat_k/status/1588940145986015232'],"['number', 'scam', 'Scam']",['Cyberdost'],3,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.02
+7803579219,1,['https://twitter.com/avnishk1994/status/1588910756321710080'],"['Money', 'scam', 'Scam', 'cheat', 'fraud', 'Fraud']",['Cyberdost'],6,Reliance Jio,"Majholi, Madhya Pradesh",[],"('Asia/Calcutta',)",0.08571428571428572
+9120164659,1,['https://twitter.com/Ravivar54482762/status/1588908455267827712'],"['number', 'scam', 'Crime', 'Scam']",['Cyberdost'],4,Telewings,India,[],"('Asia/Calcutta',)",0.061111111111111116
+0891852372,1,['https://twitter.com/TheAbhishekj/status/1588885370938462209'],"['scam', 'Scam', 'number', 'fraud', 'Fraud']",['Cyberdost'],6,,,[],"('Etc/Unknown',)",-0.06666666666666667
+8292647407,1,['https://twitter.com/VishhalSiingh99/status/1588881159420715009'],"['scam', 'Scam', 'number', 'bank', 'mobile', 'Bank']",['Theofficialsbi'],7,Airtel,India,[],"('Asia/Calcutta',)",0.0
+1917970799,1,['https://twitter.com/abhishekhype/status/1588832438234808321'],"['number', 'cheat', 'fraud', 'Fraud']","['delhipolice', 'Cyberdost', 'cybercrimecid']",6,,"Jammu, Jammu And Kashmir",[],"('Asia/Calcutta',)",0.0
+8007941056,1,['https://twitter.com/abhishekhype/status/1588832438234808321'],"['number', 'cheat', 'fraud', 'Fraud']","['delhipolice', 'Cyberdost', 'cybercrimecid']",6,Vodafone,India,[],"('Asia/Calcutta',)",0.0
+8327310172,1,['https://twitter.com/imnadeemakhtar/status/1588806883435229184'],"['Money', 'Fraudster', 'fraudster', 'phone', 'fraud', 'Fraud']",['delhipolice'],5,Vodafone,Goa,[],"('Asia/Calcutta',)",0.0
+9661454465,1,['https://twitter.com/moodyvish/status/1588803265063714816'],"['mobile', 'number', 'fraud', 'Fraud']",[],4,Airtel,India,[],"('Asia/Calcutta',)",-0.041666666666666664
+8101669613,1,['https://twitter.com/moodyvish/status/1588803265063714816'],"['mobile', 'number', 'fraud', 'Fraud']",[],4,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.041666666666666664
+1000007015,1,['https://twitter.com/RaiAnil10/status/1588802340701999104'],"['New fraud started', 'fraud', 'Fraud']",['Mumbaipolice'],5,,,[],"('Etc/Unknown',)",0.13636363636363635
+8758933816,1,['https://twitter.com/RaiAnil10/status/1588802340701999104'],"['New fraud started', 'fraud', 'Fraud']",['Mumbaipolice'],5,Vodafone,India,[],"('Asia/Calcutta',)",0.13636363636363635
+8392082324,1,['https://twitter.com/bhavan_9/status/1588777046897201152'],"['Crime', 'number', 'bank', 'fraud', 'Bank', 'Fraud']",['cybercrimecid'],5,Reliance Jio,India,[],"('Asia/Calcutta',)",0.0
+8249838014,1,['https://twitter.com/Saubhag65917381/status/1588771794479353856'],"['Crime', 'number', 'Cyber crime', 'fraud', 'Fraud']",['Cyberdost'],6,Reliance Jio,India,[],"('Asia/Calcutta',)",-0.4
+9647678861,1,['https://twitter.com/BhatPritesh/status/1588758210894516224'],"['Money', 'number', 'phone', 'fraud', 'no.', 'Fraud']",['Cyberdost'],6,Vodafone,India,[],"('Asia/Calcutta',)",0.026785714285714284
+7908353627,2,"['https://twitter.com/gauravsharma580/status/1588750776104816642', 'https://twitter.com/gauravsharma580/status/1588749460506816513']","['number', 'bank', 'fraud', 'Bank', 'Fraud']","['delhipolice', 'RBI', 'cybercrimecid']",6,Reliance Jio,"Ahmedabad Local, Gujarat",[],"('Asia/Calcutta',)",0.0196969696969697
+9407801521,1,['https://twitter.com/gauravsharma580/status/1588721550186139649'],"['Crime', 'bank', 'Cyber crime', 'fraud', 'Bank', 'Fraud']","['delhipolice', 'RBI', 'cybercrimecid']",8,BSNL MOBILE,India,[],"('Asia/Calcutta',)",-0.017187499999999994
+2289109013,1,['https://twitter.com/gauravsharma580/status/1588721550186139649'],"['Crime', 'bank', 'Cyber crime', 'fraud', 'Bank', 'Fraud']","['delhipolice', 'RBI', 'cybercrimecid']",8,,,[],"('Etc/Unknown',)",-0.017187499999999994
+9619230336,1,['https://twitter.com/gauravsharma580/status/1588721550186139649'],"['Crime', 'bank', 'Cyber crime', 'fraud', 'Bank', 'Fraud']","['delhipolice', 'RBI', 'cybercrimecid']",8,Vodafone,India,[],"('Asia/Calcutta',)",-0.017187499999999994
+2290007414,1,['https://twitter.com/gauravsharma580/status/1588721550186139649'],"['Crime', 'bank', 'Cyber crime', 'fraud', 'Bank', 'Fraud']","['delhipolice', 'RBI', 'cybercrimecid']",8,,India,[],"('Asia/Calcutta',)",-0.017187499999999994

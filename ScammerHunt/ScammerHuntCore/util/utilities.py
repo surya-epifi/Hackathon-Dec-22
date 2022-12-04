@@ -79,3 +79,5 @@ def get_info_from(phone_number):
 def clearAllData():
     ScrapeData.objects.all().delete()
     Scammer.objects.all().delete()
+
+clearAllData()
