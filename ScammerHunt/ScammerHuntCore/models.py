@@ -12,6 +12,11 @@ class PriorityUser(models.Model):
 
 # Mainly tweets
 class ScrapeData(models.Model):
+    class Meta:
+        indexes = [
+            models.Index(fields=['reference_link',]),
+        ]
+
     text_data = models.TextField()
     score = models.IntegerField(default=0)
     sentiment_score = models.IntegerField(default=0)
